@@ -8,7 +8,7 @@ Tout le monde disait d’elle : « C’est un garçon manqué ». Mais Suza
 « Plût à Dieu que je fusse un garçon au lieu d’une fille ! Au moins je serais fort, indépendant ; je quitterais la Fauconnière où l’on ne m’aime pas, et j’en enlèverais tante Anne qui n’y est pas heureuse ; je gagnerais de l’argent pour elle et pour moi, et nous serions bien contents. — Mais voila ! le bon Dieu m’a créée petite fille ! »  
 Les quatre membres composant la famille Harmanay jouaient en ce moment aux dominos : le père, homme faible et indolent, marquait les points et conseillait les enfants ; la mère, femme autoritaire et peu aimable, admonestait ceux-ci lorsqu’ils dérangeaient maladroitement le jeu, l’aîné des jeunes Harmanay, Marcel, était un garçon d’environ quatorze ans, laid, maussade et égoïste ; sa sœur Marine, à peu près de l’âge de Suzanne Frézelle, n’inspirait guère plus de sympathie ; pourtant cette fillette,qui au fond n’était pas méchante, eût été meilleure si l’exemple de son frère n’eût paralysé ses bons mouvements et changé ses qualités en défauts.
 
- ![La famille Harmanay jouait aux dominos.](../images/page007.jpg)
+![La famille Harmanay jouait aux dominos.](../images/page007.jpg)
 
 « Gagné ! s’écria tout à coup Suzanne qui, penchée sur l’ardoise, avait suivi avec intérêt la fin de la partie. C’est mon oncle et Marine qui ont le plus de points ! »  
 Mme Harmanay leva sur sa nièce un œil froid et sévère, et lui dit sur un ton courroucé :  
@@ -23,7 +23,7 @@ Et il s’étira et bâilla sans gêne devant tous.
 « Mal élevé... » murmura la petite voix moqueuse de Suzanne a son oreille.  
 Le jeune garçon s’apprêtait a protester contre ce qualificatif, mais il fut interrompu par l’entrée d’un domestique, qui apportait un petit papier bleu sur un plateau. L’indolent M. Harmanay prit sans empressement ce petit papier bleu, qui était un télégramme annonçant peut—être une fâcheuse nouvelle. Plus vive que lui et plus curieuse, sa femme le lui enleva des mains et le parcourut des yeux.
 
- ![Un domestique apportait une dépêche.](../images/page009.jpg)
+![Un domestique apportait une dépêche.](../images/page009.jpg)
 
 « Mon Dieu ! mon Dieu ! il ne nous manquait plus que cela... gémit avec un air de profond découragement Mme Harmanay en laissant tomber de ses mains la malencontreuse dépêche.  
 — Qu’est—ce encore ?... Une mauvaise nouvelle ? demanda son mari sans quitter son ton nonchalant.
@@ -38,7 +38,7 @@ Marcel se contenta de hausser les épaules.
 — Encore une tante ! grogna aimablement Marine sans paraître s’apercevoir de la présence de Mme Anne. Est-ce qu’elle va rester longtemps à la Fauconnière ?  
 — Qu’en sais-je ?... dit enfin Mme Harmanay, sortant de sa stupeur ; tante Drake est si originale, si singulière, si sans-gêne ! Elle est dans le cas de s'installer ici pour un an ou deux.  
 
- ![Il ne nous manquait plus que cela !](../images/page011.jpg)
+![Il ne nous manquait plus que cela !](../images/page011.jpg)
 
 — Est-elle riche, au moins ?  
 Mme Harmanay leva les bras au ciel :  
