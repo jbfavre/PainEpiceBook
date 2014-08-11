@@ -30,7 +30,7 @@ Le jeune garçon s’apprêtait a protester contre ce qualificatif, mais il fut 
 Hors sa femme et ses deux enfants ici présents qu’il savait en sûreté, il ne possédait que des parents dont il se souciait fort peu, et il n’avait pas un véritable ami ; aussi la curiosité, plus que l’inquiétude, dictait-elle cette question.  
 Cependant Marcel et Marine s’étaient jetés sur le papier bleu, qu’ils déchiffraient tout haut :
 « Je vous arriverai mercredi, onze heures matin, avec Lako et un domestique. Venons de Bombay. Nous reposons Marseille. »  
-Le télégramme était signé : « D^^RAKE^^ ».  
+Le télégramme était signé : « DRAKE ».  
 « Drake ? Je ne connais pas de_ Drake. Qu’est-ce que ce Drake qui nous arrive comme cela sans dire gare ? demanda Marcel avec quelque dédain.  
 — Il dit bien « gare ! » riposta Suzanne, puisqu’il envoie une dépêche trente heures a l’avance.  
 Marcel se contenta de hausser les épaules.  
