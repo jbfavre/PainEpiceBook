@@ -10,31 +10,31 @@ Les quatre membres composant la famille Harmanay jouaient en ce moment aux domin
 
 ![La famille Harmanay jouait aux dominos.](../images/page007.jpg)
 
-"Gagné! s’écria tout à coup Suzanne qui, penchée sur l’ardoise, avait suivi avec intérêt la fin de la partie. C’est mon oncle et Marine qui ont le plus de points!"  
+« Gagné! s’écria tout à coup Suzanne qui, penchée sur l’ardoise, avait suivi avec intérêt la fin de la partie. C’est mon oncle et Marine qui ont le plus de points!»  
 Mme Harmanay leva sur sa nièce un œil froid et sévère, et lui dit sur un ton courroucé :  
-" On ne vous demande rien, Suzanne; de quoi vous mêlez-vous? Vous feriez bien mieux de vous appliquer à votre tricot, que vous avez commencé depuis huit jours et qui n’avance guère! »  
+« On ne vous demande rien, Suzanne; de quoi vous mêlez-vous? Vous feriez bien mieux de vous appliquer à votre tricot, que vous avez commencé depuis huit jours et qui n’avance guère! »  
 La fillette coula un regard malicieux du côté de ses cousins :  
 « Marcel et Marine ont congé le soir, fit-elle observer; mais moi, je dois travailler même pendant les récréations.  
-— Vous n’êtes ni Marcel, ni Marine, répondit Mme Harmanay d’un ton glacé; vous l’oubliez souvent, Suzanne, et je vous serai obligée de ne pas établir de comparaison entre vous et eux. D’ailleurs, pour vous être permis de raisonner ainsi avec moi, votre tante, votre tutrice et votre bienfaitrice, vous serez privée de la promenade que nous devons faire demain matin au Vieux—Château."  
+— Vous n’êtes ni Marcel, ni Marine, répondit Mme Harmanay d’un ton glacé; vous l’oubliez souvent, Suzanne, et je vous serai obligée de ne pas établir de comparaison entre vous et eux. D’ailleurs, pour vous être permis de raisonner ainsi avec moi, votre tante, votre tutrice et votre bienfaitrice, vous serez privée de la promenade que nous devons faire demain matin au Vieux—Château.»  
 Suzanne réprima avec peine un mouvement de joie: ah! qu’elle aimait bien mieux ne pas y aller!... au moins elle resterait quelques heures de plus avec tante Anne, et en tête—à—tête encore!  
 Tante Anne ne pensait pas comme la coupable, sans doute, car elle hochait sa vieille tête grise tout attristée; elle allait parler, intercéder probablement pour Suzanne, mais elle referma ses lèvres ridées sans avoir proféré un mot : elle se rendit compte à temps que son intervention nuirait a l’enfant plus qu'elle ne lui profiterait.  
-" Va—t—on se coucher, enfin? » grogna Marcel furieux d’avoir été battu aux dominos.  
+« Va—t—on se coucher, enfin? » grogna Marcel furieux d’avoir été battu aux dominos.  
 Et il s’étira et bâilla sans gêne devant tous.  
-« Mal élevé... " murmura la petite voix moqueuse de Suzanne a son oreille.  
+« Mal élevé... » murmura la petite voix moqueuse de Suzanne a son oreille.  
 Le jeune garçon s’apprêtait a protester contre ce qualificatif, mais il fut interrompu par l’entrée d’un domestique, qui apportait un petit papier bleu sur un plateau. L’indolent M. Harmanay prit sans empressement ce petit papier bleu, qui était un télégramme annonçant peut—être une fâcheuse nouvelle. Plus vive que lui et plus curieuse, sa femme le lui enleva des mains et le parcourut des yeux.
 
 ![Un domestique apportait une dépêche.](../images/page009.jpg)
 
-" Mon Dieu! mon Dieu! il ne nous manquait plus que cela... gémit avec un air de profond découragement Mme Harmanay en laissant tomber de ses mains la malencontreuse dépêche.  
+« Mon Dieu! mon Dieu! il ne nous manquait plus que cela... gémit avec un air de profond découragement Mme Harmanay en laissant tomber de ses mains la malencontreuse dépêche.  
 — Qu’est—ce encore?... Une mauvaise nouvelle? demanda son mari sans quitter son ton nonchalant.
 Hors sa femme et ses deux enfants ici présents qu’il savait en sûreté, il ne possédait que des parents dont il se souciait fort peu, et il n’avait pas un véritable ami; aussi la curiosité, plus que l’inquiétude, dictait-elle cette question.  
 Cependant Marcel et Marine s’étaient jetés sur le papier bleu, qu’ils déchiffraient tout haut :
 « Je vous arriverai mercredi, onze heures matin, avec Lako et un domestique. Venons de Bombay. Nous reposons Marseille. »  
 Le télégramme était signé: « DRAKE ».  
-"Drake? Je ne connais pas de_ Drake. Qu’est-ce que ce Drake qui nous arrive comme cela sans dire gare? demanda Marcel avec quelque dédain.  
+«Drake? Je ne connais pas de_ Drake. Qu’est-ce que ce Drake qui nous arrive comme cela sans dire gare? demanda Marcel avec quelque dédain.  
 — Il dit bien « gare! » riposta Suzanne, puisqu’il envoie une dépêche trente heures a l’avance.  
 Marcel se contenta de hausser les épaules.  
-"Ce Drake est une Drake, répondit M. Harmanay qui paraissait songeur. Mabel Drake est ma belle-sœur et par conséquent votre tante, mes enfants; elle est veuve depuis quelques années, et je la croyais dans  l’Inde pour le reste de ses jours. Je me trompais, puisque la voilà!...  
+«Ce Drake est une Drake, répondit M. Harmanay qui paraissait songeur. Mabel Drake est ma belle-sœur et par conséquent votre tante, mes enfants; elle est veuve depuis quelques années, et je la croyais dans  l’Inde pour le reste de ses jours. Je me trompais, puisque la voilà!...  
 — Encore une tante! grogna aimablement Marine sans paraître s’apercevoir de la présence de Mme Anne. Est-ce qu’elle va rester longtemps à la Fauconnière?  
 — Qu’en sais-je?... dit enfin Mme Harmanay, sortant de sa stupeur; tante Drake est si originale, si singulière, si sans-gêne! Elle est dans le cas de s'installer ici pour un an ou deux.  
 
@@ -43,7 +43,7 @@ Marcel se contenta de hausser les épaules.
 — Est-elle riche, au moins?  
 Mme Harmanay leva les bras au ciel:  
 « Ah! bien oui, riche... elle n’a jamais su manœuvrer sa barque : elle a épousé dans l’Inde un homme possédant une fortune considérable, je ne sais combien de fois millionnaire; mais, au décès de ce pauvre Drake, un procès a été intenté à la veuve par des Anglais parents du défunt, et j’ai toujours prédit que cette pauvre Mabel achèverait de se ruiner en soutenant les débats du procès.  
-—— Tiens! si elle a des droits!..." fit une petite voix indignée, celle de Suzanne.  
+— Tiens! si elle a des droits!...» fit une petite voix indignée, celle de Suzanne.  
 On ne daigna pas relever cette exclamation.  
 « Et puisque la voilà en France, ajouta amèrement Mme Harmanay en rangeant les dominos épars sur le tapis de la table, c’est qu’elle n’a pas réussi et vient se réfugier au sein du peu de famille qui lui reste. Bien agréable pour nous!  
 — Qu’est-ce que ce Lako, qu’elle annonce dans son télégramme? demanda Marine. C’est un nom de singe ou de nègre, ça!  
@@ -71,4 +71,4 @@ Le reste de l’année, un professeur et une institutrice se rendaient trois foi
 Cette dernière, nous devons l’avouer, n’était pas la plus studieuse des trois écoliers, et, si ce n’eût été pour faire plaisir à tante Anne que sa paresse affligeait, elle eût souvent mécontenté sérieusement Mlle Crest, sa maîtresse.  
 L’arrivée de Mme Drake et de son beau-fils allait forcément amener quelques vacances, au moins jusqu’au lundi suivant; aussi Marcel et Marine pardonnaient-ils aux « Hindous » leur brusque irruption, en raison du congé qu’ils allaient leur procurer.  
 Toute paresseuse qu’elle était, Suzanne ne songeait pas à cela, et, si elle n’éprouvait pas d’avance une grande sympathie pour cette tante et cet étranger qu’elle n’avait jamais vus, elle se sentait pourtant disposée à les aimer et à leur faire bon accueil.  
-« D’abord, disait la petite fille avec le franc-parler qui lui était habituel, Mme Drake ne doit pas être aussi..., voyons, comment dire? aussi sèche que tante Harmanay; elle sera donc d’une agréable compagnie pour tante Anne. Son beau-fils, ce Lako, ne peut pas être aussi hargneux que Marcel et Marine, donc nous ferons bon ménage ensemble. En vérité, je suis bien contente de les voir arriver! Au moins on s’amusera mieux qu’avec mon cousin et ma cousine qui sont très mauvais joueurs et qui veulent toujours commander."
+« D’abord, disait la petite fille avec le franc-parler qui lui était habituel, Mme Drake ne doit pas être aussi..., voyons, comment dire? aussi sèche que tante Harmanay; elle sera donc d’une agréable compagnie pour tante Anne. Son beau-fils, ce Lako, ne peut pas être aussi hargneux que Marcel et Marine, donc nous ferons bon ménage ensemble. En vérité, je suis bien contente de les voir arriver! Au moins on s’amusera mieux qu’avec mon cousin et ma cousine qui sont très mauvais joueurs et qui veulent toujours commander.»
