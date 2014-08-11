@@ -38,7 +38,7 @@ que ces gens, qui étaient cupides et intéressés, n’avaient pour elle aucun
 travaillait depuis un moment, on ne vous a pas servi de café aujourd’hui, 
 tante ?
 
- ![« C’est demain qu’ils arrivent ! »](../images/page21.jpg)
+![« C’est demain qu’ils arrivent ! »](../images/page21.jpg)
 
 — Non, répondit la vieille dame. Après le dessert j’ai attendu un 
 instant, croyant que François allait l’apporter, mais comme il n’y avait 
@@ -114,7 +114,7 @@ oublié de vous le servir ; aussi je suis allé le chercher. Il ne faut pas
 que vous ayez mal a la tête aujourd’hui, car vous allez me raconter de 
 belles histoires, n’est-ce pas ?
 
- ![L'enfant s'installa près de sa tante](../images/page25.jpg)
+![L'enfant s'installa près de sa tante](../images/page25.jpg)
 
 — Oui, mignonne. Allons, te remercie ; tu es une petite fille 
 attentionnée. Tu vas jouer et courir un moment, car les enfants ont besoin 
