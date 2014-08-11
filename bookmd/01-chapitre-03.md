@@ -15,7 +15,7 @@ Comme cette bête, que Lako tenait d’ailleurs en laisse, avançait çà et là
 Mme Drake se retourna :  
 « Cela, c’est mon beau-fils, mon cher petit Lako ; j’allais vous le présenter. Approchez, Lako, mon cher enfant ; venez saluer Mme Harmanay, notre hôtesse.
 
-![Madame Drake et sa suite.](../images/page31.jpg)
+![Madame Drake et sa suite.](../images/page031.jpg)
 
 — Je veux dire... cet animal », reprit la maîtresse de céans qui indiquait _Sweet—heart_.  
 Mistress Drake rit bien haut en montrant ses longues dents :  
