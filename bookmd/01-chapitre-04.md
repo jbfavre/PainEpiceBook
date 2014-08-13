@@ -1,4 +1,4 @@
-## LA BOITE LONGUE
+## La boîte longue
 
 Il y a un mois que Mrs Drake et sa ménagerie, comme le dit assez 
 irrévérencieusement Marcel Harmanay, ont élu domicile à la Fauconnière.  
