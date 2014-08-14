@@ -77,6 +77,7 @@ function fix_typo() {
   egrep -q '[   ]{0,}:' ${FILE} && \
     sed -i 's/[   ]\{0,\}:/ :/g' ${FILE}
 
+  sed -i 's/^ !\[/\!\[/g' ${FILE}
 }
 
 FIXTRIGGER=0
