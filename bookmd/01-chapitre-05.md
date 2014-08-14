@@ -26,12 +26,11 @@ en attendant, je vous tiendrai compagnie.
 Suzanne se renfonçait dans son fauteuil.  
 - Vous ne venez pas lui apprendre une mauvaise nouvelle, je pense ? fit tout 
 à coup la petite fille avec anxiété.  
-- Eh ! eh ! je n'en sais rien. L'aimez-vous beaucoup, votre tante Drake ? 
- 
+- Eh ! eh ! je n'en sais rien. L'aimez-vous beaucoup, votre tante Drake ?  
 - Beaucoup... Pas tout à fait autant que tante Anne, mais un million de fois 
 plus que tante Harmanay.  
 - Et si je venais vous l'enlever ?  
-- L'enlever, tante Drake ? et alors Lako aussi ? 0h ! monsieur ! 
+- L'enlever, tante Drake ? et alors Lako aussi ? Oh ! monsieur ! 
 monsieur ! que me dites-vous là ? »  
 Le visiteur se mordit les lèvres à la vue du petit visage soudain pâli, 
 troublé par ses dernières paroles.  
@@ -78,6 +77,9 @@ Loir ? Il y a aussi le Loiret, et puis des tas de Sèvres, et puis
 l'Allier... Tout ça est mêlé dans ma tête ! Aussi, comme si les fleuves 
 ont besoin d'avoir des affluents ! c'est déjà bien assez 
 d'eux-mêmes ! »  
+
+![« Vous désirez voir ma tante Harmanay ? »](../images/page065.jpg)
+
 Sweet-heart était de cet avis, sans doute, car, d'un coup de patte méprisant, 
 elle fit sauter en l'air le livre que tenait la fillette.  
 Suzanne s'allongea sur l'herbe à côté de la tigresse. Le parc était 
@@ -176,8 +178,8 @@ L'idée de tante Anne fut trouvée ingénieuse et l'on appela Suzanne, que l'on
 mit au courant de la situation et à qui l'on expliqua ce qu'on attendait 
 d'elle.  
 La fillette ne comprit pas tout d'abord ; elle crut qu'on voulait la 
-préparer au départ de Lako pour Bombay, Suzanne consolait Lako. tandis que 
-son petit ami ne devait partir que pour Paris et entrer au lycée.  
+préparer au départ de Lako pour Bombay,
+tandis que son petit ami ne devait partir que pour Paris et entrer au lycée.  
 « C'est bien vrai ? vous ne me trompez pas, Lako reste ?  
 - Eh oui ! puisque je te l'affirme, répondit Mme Drake. Seulement, le pauvre 
 garçon ignore tout encore ; ma décision lui causera beaucoup de peine, et 
@@ -187,6 +189,9 @@ d'une mission de confiance.
 Une demi-heure plus tard, on eût pu entendre sous la charmille un bruit 
 étouffé de chuchotements : c'était Suzanne qui donnait à son pauvre Lako 
 toutes les consolations que lui suggérait son bon cœur.  
+
+![Suzanne consolait Lako.](../images/page071.jpg)
+
 « Vois-tu, lui disait-elle : toutes ces misères finiront un jour et nous 
 redeviendrons très-heureux, plus heureux qu'à présent, va ! Tante Drake 
 reviendra peut-être riche, et si elle ne l'est pas, tu sais, nous 

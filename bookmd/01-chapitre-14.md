@@ -44,7 +44,7 @@ fera la sieste tous les jours...
 ne faisons pas de dépenses inutiles jusqu'à ce que notre cher petit soit tout 
 à fait sur le chemin de la fortune. La vogue n'a qu'un temps ! »
 
-![Mme Anne faisait ses comptes.](../images/page156.jpg)
+![Mme Anne faisait ses comptes.](../images/page155.jpg)
 
 La pauvre femme n'ajoutait point qu'elle craignait pour l'hiver prochain un 
 retour de sa maladie ; elle avait subi tant d'inquiétudes un mois auparavant 
@@ -70,7 +70,7 @@ Fauconnière, Sweet-heart, en prenant de l'âge, devenait méchante ; elle
 reconnut à peine son petit maître, montra les dents à Suzanne et ne fut pas 
 aimable du tout avec tante Anne.  
 
-![Sweet-heart montra les dents.](.. :images/page157.jpg)
+![Sweet-heart montra les dents.](../images/page157.jpg)
 
 « Oh ! ma chère, lui dit la petite Frézelle, qui ne brillait pas par la 
 patience, si tu le prends comme ça, on ne fera plus attention à toi ; voila 

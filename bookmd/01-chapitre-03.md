@@ -124,10 +124,13 @@ il ne comprend encore que l’anglais, et tu n’as pas l’air de connaître
 cette langue. Bah ! les enfants se tirent toujours d’affaire ; dans 
 quelques jours je suis sûre qu’ils bavarderont comme deux perruches. »  
 Voyant l’insuccès de ses avances et s’apercevant que Lako ne comprenait 
-pas un mot de ce qu’elle disait, Suzanne prit Lako par la main.  
-Suzanne se dressa un peu sur la pointe des pieds, et approchant ses lèvres de 
-la joue brune du petit étranger, elle lui donna un baiser, que l’enfant lui 
-rendit avec un sourire reconnaissant.  
+pas un mot de ce qu’elle disait, Suzanne se dressa un peu sur la pointe
+des pieds, et approchant ses lèvres de la joue brune du petit étranger,
+elle lui donna un baiser, que l’enfant lui  rendit avec un sourire
+reconnaissant.  
+
+![Suzanne prit Lako par la main.](../images/page035.jpg)
+
 « C’est bien ; je vois qu’ils seront bons amis », murmura Mme Drake 
 avec satisfaction.  
 Puis se tournant vers Mme Anne qui regardait aussi avec amour sa petite nièce, 

@@ -206,8 +206,7 @@ qu'à dix heures, donc après vous, et je reviens vous chercher un peu avant
 minuit. À propos, je vais vous donner deux billets d'entrée pour votre tante 
 et votre jolie sœur. »
 
-![« Tu as une bonne nouvelle à nous apprendre ; parle 
-vite ! »](../images/page148.jpg)
+![« Tu as une bonne nouvelle à nous apprendre ; parle vite ! »](../images/page147.jpg)
 
 Lako mit dans sa poche les deux billets de faveur que son professeur lui 
 tendait, le remercia chaleureusement, et, quelques minutes plus tard, monta en 
