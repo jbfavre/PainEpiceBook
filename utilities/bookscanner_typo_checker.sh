@@ -77,7 +77,11 @@ function fix_typo() {
   egrep -q '[   ]{0,}:' ${FILE} && \
     sed -i 's/[   ]\{0,\}:/ :/g' ${FILE}
 
-  sed -i 's/^ !\[/\!\[/g' ${FILE}
+  echo "Fixing markdown images"
+    sed -i 's/^ !\[/\!\[/g' ${FILE}
+
+  echo "Fixing dialogs"
+    sed -i 's/^- /— /g' ${FILE}
 }
 
 FIXTRIGGER=0
