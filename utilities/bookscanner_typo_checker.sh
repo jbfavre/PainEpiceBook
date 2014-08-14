@@ -78,11 +78,30 @@ function fix_typo() {
     sed -i 's/[   ]\{0,\}:/ :/g' ${FILE}
 
   echo "Fixing markdown images"
-    sed -i 's/^ !\[/\!\[/g' ${FILE}
+    sed -i 's/^[   ]{1,}!\[/\!\[/g' ${FILE}
 
   echo "Fixing dialogs"
-    sed -i 's/^- /— /g' ${FILE}
-    sed -i 's/^- /— /g' ${FILE}
+    sed -i 's/^-[   ]{0,}/— /g' ${FILE}
+
+  echo "Fixing quotes"
+    sed -i "s/'/’/g" ${FILE}
+    sed -i 's/‘/’/g' ${FILE}
+
+  echo "Fixing ligatures"
+    sed -i 's/ﬂ/fl/g' ${FILE}
+    sed -i 's/ﬁ/fi/g' ${FILE}
+    sed -i 's/oe/œ/g' ${FILE}
+    sed -i 's/ae/æ/g' ${FILE}
+
+  echo "Fixing Markdown"
+    sed -i 's/Mme[   ]{1,}/M^me^ /g' ${FILE}
+    sed -i 's/Mmes[   ]{1,}/M^mes^ /g' ${FILE}
+    sed -i 's/Mlle[   ]{1,}/M^lle^ /g' ${FILE}
+    sed -i 's/Mlles[   ]{1,}/M^lles^ /g' ${FILE}
+    sed -i 's/M.[   ]{1,}/M. /g' ${FILE}
+    sed -i 's/A /À /g' ${FILE}
+
+
 }
 
 FIXTRIGGER=0
@@ -100,12 +119,13 @@ do
   shift $(($OPTIND-1))
 done
 
-# ; -> "Narrow No-Break Space" before
-# ? -> "Narrow No-Break Space" before
-# ! -> "Narrow No-Break Space" before
-# « -> "Narrow No-Break Space" after
-# » -> "Narrow No-Break Space" before
-# : ->        "No-Break Space" before
+# ;   -> "Narrow No-Break Space" before
+# ?   -> "Narrow No-Break Space" before
+# !   -> "Narrow No-Break Space" before
+# «   -> "Narrow No-Break Space" after
+# »   -> "Narrow No-Break Space" before
+# :   ->        "No-Break Space" before
+# ... ->                  "None" none
 for FILE in $@;
 do
   if [ -e ${FILE} ]
