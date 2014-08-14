@@ -78,10 +78,10 @@ function fix_typo() {
     sed -i 's/[   ]\{0,\}:/ :/g' ${FILE}
 
   echo "Fixing markdown images"
-    sed -i 's/^[   ]{1,}!\[/\!\[/g' ${FILE}
+    sed -i 's/^[   ]\{1,\}!\[/\!\[/g' ${FILE}
 
   echo "Fixing dialogs"
-    sed -i 's/^-[   ]{0,}/— /g' ${FILE}
+    sed -i 's/^-[   ]\{0,\}/— /g' ${FILE}
 
   echo "Fixing quotes"
     sed -i "s/'/’/g" ${FILE}
@@ -94,12 +94,15 @@ function fix_typo() {
     sed -i 's/ae/æ/g' ${FILE}
 
   echo "Fixing Markdown"
-    sed -i 's/Mme[   ]{1,}/M^me^ /g' ${FILE}
-    sed -i 's/Mmes[   ]{1,}/M^mes^ /g' ${FILE}
-    sed -i 's/Mlle[   ]{1,}/M^lle^ /g' ${FILE}
-    sed -i 's/Mlles[   ]{1,}/M^lles^ /g' ${FILE}
-    sed -i 's/M.[   ]{1,}/M. /g' ${FILE}
+    sed -i 's/Mme[   ]\{1,\}/M^me^ /g' ${FILE}
+    sed -i 's/Mmes[   ]\{1,\}/M^mes^ /g' ${FILE}
+    sed -i 's/Mlle[   ]\{1,\}/M^lle^ /g' ${FILE}
+    sed -i 's/Mlles[   ]\{1,\}/M^lles^ /g' ${FILE}
+    sed -i 's/M\.[   ]\{1,\}/M\. /g' ${FILE}
+
+  echo "Other classical typographic fixes"
     sed -i 's/A /À /g' ${FILE}
+    sed -i 's/\.\.\./…/g' ${FILE}
 
 
 }
