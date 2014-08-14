@@ -8,7 +8,7 @@ Paris, afin que l’éducation des deux enfants pût être menée à bonne fin.
 Les Harmanay ne les avaient retenus que mollement, pour la forme, bien aises au 
 fond d’être débarrassés de la triple charge de la veille dame, de Suzanne et 
 de l’adolescent.  
-De quoi subsislait donc le petit trio ? Car l’existence est coûteuse a 
+De quoi subsislait donc le petit trio ? Car l’existence est coûteuse à 
 Paris, et la modeste rente de la fillette ne parvenait pas à nourrir tout le 
 monde.  
 Une ancienne amie de M^me^ Anne, morte peu après les événements que nous 

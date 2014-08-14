@@ -108,7 +108,7 @@ aussi sa cousine Frézelle se moquait-elle de lui sans pitié.
 M. et M^me^ Harmanay se montraient plus aimables que par le passé pour tante 
 Anne et pour Suzanne. Néanmoins la première devinait qu’ils ne seraient pas 
 un appui pour elle en cas de malheur, et elle se promit de n’avoir jamais 
-recours a eux.  
+recours à eux.  
 À la fin de septembre, le petit trio rentra à Paris et se réinstalla avec 
 plaisir dans son appartement de la rue Bleue.
 
@@ -123,7 +123,7 @@ petit ménage, Lako son violon.
 Novembre arriva, et le jeune Drake fut demandé pour tenir une partie dans un 
 quatuor ; il s’en acquitta bien, fut complimenté et reçut trois cents 
 francs. De plus, on lui promit de le lancer l’hiver suivant et de le produire 
-dans plusieurs grands concerts où son nom paraîtrait a côté de celui des 
+dans plusieurs grands concerts où son nom paraîtrait à côté de celui des 
 maîtres.  
 Le cher enfant n’éprouva nul orgueil. Il remercia Dieu au fond de son cœur, 
 et soupira en essuyant une larme sur sa joue :

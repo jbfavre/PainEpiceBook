@@ -164,7 +164,7 @@ les études le distrairont forcément de son chagrin.
 — Ah ! pauvre amie ! combien la vie est difficile ! » soupira tante 
 Anne en reprenant son tricot un instant abandonné.
 
-M^me^ Drake alla préparer une valise afin de se disposer a partir pour Paris, 
+M^me^ Drake alla préparer une valise afin de se disposer à partir pour Paris, 
 où ses affaires devaient la retenir pendant quelques jours.  
 À son retour, elle apporta une jolie robe à Suzanne, un bon châle à tante 
 Anne, des bonbons exquis aux jeunes Harmanay, et une potiche à leurs parents. 

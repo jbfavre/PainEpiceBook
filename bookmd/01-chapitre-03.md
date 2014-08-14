@@ -240,7 +240,7 @@ chacune que tous les Harmanay ensemble. »
 Comme on appelait la jeune bande pour le lunch, Suzanne entra, le teint animé, 
 les yeux brillants, le bras passé sous celui de son nouvel ami Lako qui 
 l’accompagnait, plus calme, plus froid en apparence, mais souriant aussi.  
-En prenant place a table, à côté de Mrs Drake, il se pencha vers elle et lui 
+En prenant place à table, à côté de Mrs Drake, il se pencha vers elle et lui 
 dit en anglais :
 
 « Mère, elle est bonne pour moi, et je l’aime bien.  

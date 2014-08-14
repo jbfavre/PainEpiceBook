@@ -114,7 +114,7 @@ L’artiste se retourna vivement et s’avança vers le jeune homme.
 — Je ne sais, monsieur ; c’est selon, répondit Lako étonné de cet exorde.  
 — Êtes-vous timide ?  
 — Je ne l’ai pas été beaucoup jusqu’à présent.  
-— Vous sentez-vous de force a jouer du violon devant une assemblée de mille 
+— Vous sentez-vous de force à jouer du violon devant une assemblée de mille 
 personnes au moins ?  
 — Oh ! maître ! » fit l’adolescent terrifié.  
 L’artiste n’y allait pas par quatre chemins ; il était brusque, mais bon.
@@ -234,7 +234,7 @@ Son visage exprimait une telle émotion, ses yeux étaient si brillants, que
 Suzette courut à lui, laissant tomber de son petit tablier la salade fraîche 
 qui s’y amoncelait.
 
-« Tu as certainement une bonne nouvelle a nous annoncer ; voyons, parle 
+« Tu as certainement une bonne nouvelle à nous annoncer ; voyons, parle 
 vite ! s’écria-t-elle.  
 — Il faut auparavant que je demande la permission à tante Anne », répliqua 
 le garçonnet.  

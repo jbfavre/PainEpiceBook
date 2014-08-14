@@ -65,7 +65,7 @@ fini. Il ne va pas se lever de quatre à cinq jours ; puis, il pourra marcher
 un peu, et ensuite sortir tant qu’il voudra ; mais il gardera l’appareil 
 pendant trois semaines, et d’ici là je viendrai le visiter. S’il survenait un 
 peu de fièvre, madame, vous ne vous en inquiéteriez pas ; ce serait une 
-conséquence toute naturelle de l’accident. En ce cas, vous donneriez a boire 
+conséquence toute naturelle de l’accident. En ce cas, vous donneriez à boire 
 au blessé la potion que je vais ordonner. Surtout, qu’il ne mange pas durant 
 vingt-quatre heures ! Qu’il prenne seulement de la tisane.  
 — Monsieur, dit alors Lako, parlant pour la première fois depuis qu’on l’avait 

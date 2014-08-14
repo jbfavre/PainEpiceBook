@@ -251,7 +251,7 @@ confié bien haut son beau-fils aux Harmanay et tout bas à tante Anne.
 
 « Que Dieu la garde ! » soupira celle-ci en regardant s’éloigner sa 
 vieille amie.  
-Et, attirant a elle Lako, la bonne dame l’embrassa tendrement.  
+Et, attirant à elle Lako, la bonne dame l’embrassa tendrement.  
 Le jeune garçon souffrait de cette séparation, cependant il ne se sentait pas 
 seul ; tante Anne était pour lui une autre mère, Suzanne une petite sœur 
 chérie ; et puis, il avait pour se consoler et faire couler plus vite le 

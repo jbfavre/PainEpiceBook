@@ -45,7 +45,7 @@ Tante Anne ouvrit, pendant que Suzanne allumait rapidement la lampe.
 C’était un nègre du plus beau noir.
 
 « C’est-il ici ?. » commença-t-il.  
-Mais on ne le laissa pas achever. Suzanne et Lako se jetèrent a son cou avec 
+Mais on ne le laissa pas achever. Suzanne et Lako se jetèrent à son cou avec 
 des cris de joie.
 
 « Blanc-Blanc ! c’est Blanc-Blanc ! » s’écrièrent-ils.
@@ -129,7 +129,7 @@ mutuellement, puis tante Drake prit la parole :
 « Je vois à votre stupéfaction, mes chers amis, dit-elle, que cet étourdi 
 de Blanc-Blanc n’a pas su vous préparer à mon retour, un peu brusque, il est 
 vrai ; je lui avais pourtant bien répété sa leçon ! Et je vois aussi 
-que vous me croyiez tous encore a Bombay.  
+que vous me croyiez tous encore à Bombay.  
 — À Bombay ? Mais non ! firent les deux enfants abasourdis.  
 — Ma chère Mabel, dit tante Anne, nous vous croyions tout simplement au fond 
 de la mer Rouge avec vos compagnons de voyage. Aussi, jugez de la désolation 

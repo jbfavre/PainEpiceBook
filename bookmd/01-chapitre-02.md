@@ -129,7 +129,7 @@ respectueuse par Tombola.
 bondissant presque de son siège.  
 — Votre café, tante Anne, répondit Suzanne avec sang-froid. On avait 
 oublié de vous le servir ; aussi je suis allé le chercher. Il ne faut pas 
-que vous ayez mal a la tête aujourd’hui, car vous allez me raconter de 
+que vous ayez mal à la tête aujourd’hui, car vous allez me raconter de 
 belles histoires, n’est-ce pas ?  
 — Oui, mignonne. Allons, te remercie ; tu es une petite fille 
 attentionnée. Tu vas jouer et courir un moment, car les enfants ont besoin 
@@ -167,7 +167,7 @@ comme une Américaine, quoiqu’elle ne soit pourtant qu’à moitié Anglaise.
 — Elle a vu le jour et a passé toute sa jeunesse sur la terre de France, ma 
 chérie, mais sa mère, qui était originaire de Londres, l’a mariée à un 
 riche Anglais veuf, établi depuis longtemps dans l’Inde.  
-— Ce doit être beau, l’Inde ! soupira Suzanne ; j’aimerais a voir ce 
+— Ce doit être beau, l’Inde ! soupira Suzanne ; j’aimerais à voir ce 
 pays.  
 — Tu demanderas à ta tante Drake de te le dépeindre, et aussi à Lako 
 qu’elle amène avec elle.  

@@ -139,7 +139,7 @@ Le désespoir du pauvre petit fut effrayant ; sans l’affection profonde de
 tante Anne et de Susy, il serait tombé malade de chagrin. D’un caractère 
 réservé, peu expansif, il souffrait d’autant plus que les choses extérieures 
 ne pouvaient guère le distraire.
-Tante Anne eut soin qu’il s’adonnât de plus en plus a la musique, à l’étude 
+Tante Anne eut soin qu’il s’adonnât de plus en plus à la musique, à l’étude 
 de son violon, pour détourner sa pensée de l’idée fixe qui occupait sans 
 cesse son esprit.  
 Les renseignements que M. Harmanay obtint du consulat et du Ministère de la 

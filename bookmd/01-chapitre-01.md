@@ -68,14 +68,14 @@ Tante Anne ne pensait pas comme la coupable, sans doute, car elle hochait sa
 vieille tête grise tout attristée ; elle allait parler, intercéder 
 probablement pour Suzanne, mais elle referma ses lèvres ridées sans avoir 
 proféré un mot : elle se rendit compte à temps que son intervention nuirait 
-a l’enfant plus qu’elle ne lui profiterait.
+à l’enfant plus qu’elle ne lui profiterait.
 
 « Va-t-on se coucher, enfin ? » grogna Marcel furieux d’avoir 
 été battu aux dominos.  
 Et il s’étira et bâilla sans gêne devant tous.  
-« Mal élevé… » murmura la petite voix moqueuse de Suzanne a son 
+« Mal élevé… » murmura la petite voix moqueuse de Suzanne à son 
 oreille.  
-Le jeune garçon s’apprêtait a protester contre ce qualificatif, mais il fut 
+Le jeune garçon s’apprêtait à protester contre ce qualificatif, mais il fut 
 interrompu par l’entrée d’un domestique, qui apportait un petit papier 
 bleu sur un plateau. L’indolent M. Harmanay prit sans empressement ce petit 
 papier bleu, qui était un télégramme annonçant peut-être une fâcheuse 
@@ -105,7 +105,7 @@ Le télégramme était signé : « DRAKE ».
 « Drake ? Je ne connais pas de_ Drake. Qu’est-ce que ce Drake qui nous 
 arrive comme cela sans dire gare ? demanda Marcel avec quelque dédain.  
 — Il dit bien « gare ! » riposta Suzanne, puisqu’il envoie une 
-dépêche trente heures a l’avance.
+dépêche trente heures à l’avance.
 
 ![Il ne nous manquait plus que cela !](../images/page011.jpg)
 
@@ -181,7 +181,7 @@ pas refusé autrefois l’appui de son argent et de ses conseils.
 Et cependant, à l’heure où nous commençons notre histoire, tante Anne 
 n’était considérée chez ses neveux que comme une charge, une bouche 
 inutile, presque une étrangère gardée par charité.  
-Elle ne se plaignait pas, la pauvre sainte femme ; elle ne reprochait pas a 
+Elle ne se plaignait pas, la pauvre sainte femme ; elle ne reprochait pas à 
 ces oublieux leur ingratitude, mais sa vieillesse était triste.  
 Depuis une année environ, toutefois, un rayon de soleil illuminait cette vie 
 mélancolique : Suzanne, « le garçon manqué », la fillette à la tête 
@@ -212,7 +212,7 @@ s’ingéniait à découvrir à celle-ci un coin ombreux et agréable où elle
 lui apportait son fauteuil, son ouvrage et ses lunettes ; en hiver, elle. 
 renouvelait elle-même la braise de sa chaufferette et allait chercher du bois, 
 pour ranimer le feu de tante Anne qu’on oubliait d’entretenir. Telle était 
-la vie a la Fauconnière avant l’arrivée des « deux Hindous », comme 
+la vie à la Fauconnière avant l’arrivée des « deux Hindous », comme 
 Marcel appelait assez irrévérencieusement ceux qu’on attendait le mercredi 
 suivant, à onze heures du matin, selon l’avis du télégramme.  
 La Fauconnière était une habitation bourgeoise, assez élégante mais surtout 
