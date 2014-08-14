@@ -78,7 +78,7 @@ l'Allier... Tout ça est mêlé dans ma tête ! Aussi, comme si les fleuves
 ont besoin d'avoir des affluents ! c'est déjà bien assez 
 d'eux-mêmes ! »  
 
-![« Vous désirez voir ma tante Harmanay ? »](../images/page065.jpg)
+![« Vous désirez voir ma tante Harmanay ? »](../images/page065.jpg)
 
 Sweet-heart était de cet avis, sans doute, car, d'un coup de patte méprisant, 
 elle fit sauter en l'air le livre que tenait la fillette.  
