@@ -131,9 +131,9 @@ Pendant que se passait cette scène rapide, les domestiques s'éveillaient
 lentement à l'étage supérieur, se demandant l'un à l'autre :
 
 « N'as-tu pas entendu appeler ?  
-- Oui, on dirait qu'il y a du bruit au premier.  
-- Diable ! et Monsieur et Madame qui ne sont pas là !  
-- On sent une odeur étrange : si c'était le feu ? »
+— Oui, on dirait qu'il y a du bruit au premier.  
+— Diable ! et Monsieur et Madame qui ne sont pas là !  
+— On sent une odeur étrange : si c'était le feu ? »
 
 Le feu !... à ce mot terrifiant ils se jetèrent tous à bas du lit.  
 Le plus prompt d'entre eux arriva juste à temps pour recevoir dans ses bras 

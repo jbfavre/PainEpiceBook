@@ -88,7 +88,7 @@ promenade quotidienne, on sonna.
 
 « Nous n'attendons pourtant pas de visite aujourd'hui, dit gaîment Suzanne. 
 À moins que Marcel et Marine ne se soient échappés de leur cage...  
-- Folle ! » fit Lako en riant.
+— Folle ! » fit Lako en riant.
 
 Ce fut le jeune homme qui alla ouvrir ; il repartit seul, tenant à la main 
 un billet, que, en garçon bien élevé, il présenta à tante Anne, quoiqu'il 
@@ -98,7 +98,7 @@ invitation de son professeur à se rendre chez lui avant quatre heures.
 
 « Tu vas y aller tout de suite, dit la vieille dame ; rien ne t'en 
 empêche, ton temps est libre. Il ne faut pas faire attendre ton professeur.
-- C'est sans doute pour remplacer ma leçon de demain, qu'il ne pourra pas me 
+— C'est sans doute pour remplacer ma leçon de demain, qu'il ne pourra pas me 
 donner à l'heure convenue, murmura l'adolescent. Je vais toujours emporter mon 
 violon. »
 
@@ -111,12 +111,12 @@ toilette de gala.
 L'artiste se retourna vivement et s'avança vers le jeune homme.
 
 « Ah ! c'est vous, Drake, dit-il ; mon cher enfant, avez-vous du courage ?  
-- Je ne sais, monsieur ; c'est selon, répondit Lako étonné de cet exorde.  
-- Êtes-vous timide ?  
-- Je ne l'ai pas été beaucoup jusqu'à présent.  
-- Vous sentez-vous de force a jouer du violon devant une assemblée de mille 
+— Je ne sais, monsieur ; c'est selon, répondit Lako étonné de cet exorde.  
+— Êtes-vous timide ?  
+— Je ne l'ai pas été beaucoup jusqu'à présent.  
+— Vous sentez-vous de force a jouer du violon devant une assemblée de mille 
 personnes au moins ?  
-- Oh ! maître ! » fit l'adolescent terrifié.  
+— Oh ! maître ! » fit l'adolescent terrifié.  
 L'artiste n'y allait pas par quatre chemins ; il était brusque, mais bon.
 
 « Voyons, mon cher enfant, reprit-il, je n'ignore pas que vous n'êtes pas 
@@ -128,7 +128,7 @@ pas toujours riches. Aussi ai-je pensé à vous, de préférence à mes autres
 Lako se demandait toujours où son professeur voulait en venir.
 
 « Voulez-vous gagner cinq cents francs en une soirée, enfin ? » demanda l'artiste.  
-- Moi, monsieur ? Si je veux ?... Cinq cents ?... cinq cents 
+— Moi, monsieur ? Si je veux ?... Cinq cents ?... cinq cents 
 francs ?... et en une soirée ?... »
 
 Lako suffoquait.
@@ -145,10 +145,10 @@ heureusement, rien que cela, sauf un morceau avec accompagnement d'orchestre,
 que l'on rayera du programme. Cet artiste, qui est mon ami, reste auprès du 
 lit de sa femme gravement malade ; vous comprenez que sa séance musicale est 
 impossible ?  
-- Oh oui ! monsieur.  
-- Il m'a prié de lui trouver promptement un remplaçant.  
-- Et vous avez pensé... ?  
-- Oui, mon enfant, j'ai pensé à vous. Il n'y a que cinq heures jusqu'au 
+— Oh oui ! monsieur.  
+— Il m'a prié de lui trouver promptement un remplaçant.  
+— Et vous avez pensé... ?  
+— Oui, mon enfant, j'ai pensé à vous. Il n'y a que cinq heures jusqu'au 
 concert ; cela suffit pour vous y préparer, mais non pour me donner le 
 loisir de chercher un troisième violoniste. Voyons, mettez-vous là, et 
 jouez-moi votre _Fantasia appassionata_ ; c'est généralement votre 
@@ -173,11 +173,11 @@ votre violon après les salutations d'usage et attaquerez un troisième
 morceau. Voyons, quelque chose de facile et de gai...
 Cherchez donc, Lako, je ne me rappelle pas ce que vous pourriez faire entendre 
 encore.  
-- La _Chanson indienne_ ? suggéra timidement Lako.  
-- Ah non ! ma foi ! un air à porter en terre ! et puis, trop monotone ; on
+— La _Chanson indienne_ ? suggéra timidement Lako.  
+— Ah non ! ma foi ! un air à porter en terre ! et puis, trop monotone ; on
 sifflerait, pour le coup. Cherchez encore.  
-- La Mélodie de Bizet ?  
-- Hum ! J'ai grand'peur que vous ne l'ayez oubliée ; voyons pourtant. »
+— La Mélodie de Bizet ?  
+— Hum ! J'ai grand'peur que vous ne l'ayez oubliée ; voyons pourtant. »
 
 La Mélodie de Bizet vint sous l'archet si jolie et si expressive, que 
 l'artiste murmura à part lui :
@@ -200,14 +200,14 @@ jeune même, de porter un nom étranger, tout cela disposera en votre
 faveur ; le public est ainsi. Tâchez, par exemple, de ne pas faire 
 d'accrocs, et jouez sans penser que vous êtes devant mille ou quinze cents 
 personnes.
-- Oui, monsieur, mais... ce sera bien difficile dans le premier moment.  
-- Bah ! bah ! il faut avoir de l'audace pour réussir, mon enfant, et de 
+— Oui, monsieur, mais... ce sera bien difficile dans le premier moment.  
+— Bah ! bah ! il faut avoir de l'audace pour réussir, mon enfant, et de 
 l'énergie. Les timides n'arrivent à rien. À présent, laissez votre violon, 
 car il ne faut pas trop vous fatiguer jusqu'à ce soir. Vous dînerez avec moi, 
 légèrement, pour apaiser le plus fort de l'appétit. Après la séance je me 
 charge de vous faire souper, et nous boirons à votre, premier succès !  
-- Mais,... objecta l'enfant, ma tante...  
-- Oui, oui, nous savons cela : la tante et la petite sœur seraient 
+— Mais,... objecta l'enfant, ma tante...  
+— Oui, oui, nous savons cela : la tante et la petite sœur seraient 
 inquiètes. Voici ce que vous allez faire. J'ai un ami à voir au bout de la 
 rue Lafayette ; je vais prendre un fiacre ; vous y monterez avec moi et je 
 vous déposerai chez vous ; vous demanderez à madame votre tante 
@@ -236,7 +236,7 @@ qui s'y amoncelait.
 
 « Tu as certainement une bonne nouvelle a nous annoncer ; voyons, parle 
 vite ! s'écria-t-elle.  
-- Il faut auparavant que je demande la permission à tante Anne », répliqua 
+— Il faut auparavant que je demande la permission à tante Anne », répliqua 
 le garçonnet.  
 Alors il raconta l'entretien qu'il avait eu avec son maître, et exposa ses 
 projets pour le soir. Il ne tut qu'une chose : le prix qu'il espérait 
@@ -249,7 +249,7 @@ une fausse joie à sa tante ni à sa petite amie.
 avec emphase. Gagner cinquante francs, en quelques heures, mon Dieu ! quand 
 il faut faire tant d'ouvrages au crochet ou tant de bandes de tapisserie pour 
 en avoir seulement vingt !  
-- J'ai connu des artistes, fit tante Anne rêveuse, qui recevaient trois mille 
+— J'ai connu des artistes, fit tante Anne rêveuse, qui recevaient trois mille 
 francs pour jouer deux ou trois morceaux dans une soirée. Mais leur 
 réputation était faite, leur talent indiscutable ; on ne donnera sans doute 
 rien à un novice comme Lako qui paraît pour la première fois en public ; 
