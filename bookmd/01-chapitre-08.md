@@ -32,7 +32,7 @@ Jenny obéit, et Suzanne Frézelle se précipita dans le boudoir, où la bonne
 demoiselle tricotait des vêtements pour les pauvres devant un bon feu de bois. 
  
 
- ![Suzanne tira la sonnette.](../images/page095.jpg)
+![Suzanne tira la sonnette.](../images/page095.jpg)
 
 « Comment vont vos rhumatismes, mademoiselle ? demanda Suzanne qui était 
 très bien élevée.  
@@ -55,8 +55,7 @@ sottise que je ne peux pas faire à la Fauconnière ?
 prendre un air sévère.  
 — Voici : il s'agit d'un enlèvement. »  
 Mlle Irma bondit sur son fauteuil.  
-« Qu'est-ce que tu me racontes là, mon enfant ? demanda-t-elle effrayée. 
- 
+« Qu'est-ce que tu me racontes là, mon enfant ? demanda-t-elle effrayée.  
 — Attendez, vous allez comprendre. Vous connaissez Lako ?  
 — Oui, un, charmant petit garçon ; mais il est au lycée.  
 — Oui, et c'est bien ennuyeux pour lui et pour moi. Mais connaissez-vous 
@@ -83,7 +82,7 @@ Puis, se redressant à la vue du geste de reproche de son interlocutrice :
 qui fume sa pipe tout le long du chemin et parle à tous les charretiers qu'il 
 rencontre ! »
 
- ![SWeet-heart entra.](../images/page097.jpg)
+![SWeet-heart entra.](../images/page097.jpg)
 
 À cet instant, un grattement se fit entendre à la porte.  
 « Entrez ! » fit Mlle Irma, croyant que Jenny annonçait un autre 
@@ -158,7 +157,7 @@ autrement, gare ! Et maintenant rentre vite, petite ; Jenny va
 t'accompagner, et surtout ne recommence pas pareille équipée ! Sauve-toi, 
 mais ne m'étouffe pas. »
 
- ![Suzanne embrassa Mlle Irma.](../images/page101.jpg)
+![Suzanne embrassa Mlle Irma.](../images/page101.jpg)
 
 Dans sa joie reconnaissante, Suzanne embrassait Mlle Irma avec tant de 
 véhémence, que le bonnet de la vieille demoiselle en resta posé tout de 

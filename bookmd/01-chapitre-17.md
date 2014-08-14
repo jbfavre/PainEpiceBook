@@ -38,7 +38,7 @@ Mrs Drake qu'ils croyaient morte ; une émotion n'est pas à craindre pour
 eux, car ils n'ont pas le cœur tendre.
 - Suzanne. tais-toi ! » fit tante Anne.
 
- ![La famille Harmanay fit son entrée.](../images/page185.jpg)
+![La famille Harmanay fit son entrée.](../images/page185.jpg)
 
 Mais le moyen de gronder réellement quand on est si heureux ?  
 Un beau matin, les Harmanay, que l'on savait de passage à Paris, furent tout 
@@ -70,7 +70,7 @@ France ?
 - Probablement, puisque nous le trouvons à Paris, ma chère sœur », 
 riposta Marcel en répondant à peine au salut respectueux du nègre.  
 
- ![Suzanne était compatissante.](../images/page187.jpg)
+![Suzanne était compatissante.](../images/page187.jpg)
 
 Le valet de pied qui introduisit les Harmanay au salon et ne les connaissait 
 pas, leur demanda quel nom il devait annoncer.  

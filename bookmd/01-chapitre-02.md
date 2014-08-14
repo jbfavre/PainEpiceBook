@@ -87,7 +87,7 @@ soucoupe sur la tasse. Puis, avec des précautions infinies, majestueuse et
 solennelle comme si elle portait une relique, elle quitta la cuisine et 
 s’achemina dehors.
 
- ![Suzanne portait une tasse de café.](../images/page23.jpg)
+![Suzanne portait une tasse de café.](../images/page23.jpg)
 
 Dans l’opération, elle s’était un peu brûlé le pouce, mais elle 
 supportait héroïquement la douleur.  
