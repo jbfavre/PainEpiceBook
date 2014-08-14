@@ -82,6 +82,7 @@ function fix_typo() {
 
   echo "Fixing dialogs"
     sed -i 's/^- /— /g' ${FILE}
+    sed -i 's/^- /— /g' ${FILE}
 }
 
 FIXTRIGGER=0
