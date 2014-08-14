@@ -82,14 +82,14 @@ de la tigresse apprivoisée, tu vas me faire réciter ma leçon ! »
 Sweet-heart prit un air grave et considéra le livre.
 
 « Les affluents de la Loire sont,… sont… sur la rive droite, le…, 
-le…. Tiens, Sweet-heart, si ça ne te fait rien, commençons par la rive 
+le… Tiens, Sweet-heart, si ça ne te fait rien, commençons par la rive 
 gauche. »
 
 Cela ne faisait absolument rien à la jolie bête, qui continua à dresser 
 l’oreille d’un air indifférent.
 
 « Les affluents de la rive gauche de la Loire sont…, sont…, reprit 
-Suzanne, le…, le Loir…. C’est ridicule de mettre le Loir quand il y a 
+Suzanne, le…, le Loir… C’est ridicule de mettre le Loir quand il y a 
 déjà la Loire, s’interrompit l’enfant ; est-ce seulement un affluent, le 
 Loir ? Il y a aussi le Loiret, et puis des tas de Sèvres, et puis 
 l’Allier… Tout ça est mêlé dans ma tête ! Aussi, comme si les fleuves 

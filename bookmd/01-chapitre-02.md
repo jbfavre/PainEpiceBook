@@ -5,7 +5,7 @@ arrivent ; on leur a arrangé le petit appartement du nord ; vous savez,
 celui qu’on donne aux invités de second ordre, comme dit Marcel ; ma tante 
 Harmanay assure que c’est bien assez bon pour eux. Brr ! il n’y auront 
 pas chaud en automne, s’ils sont encore à la Fauconnière à cette 
-époque ! Moi, si j’étais à la place de ma tante et de mon oncle…. »
+époque ! Moi, si j’étais à la place de ma tante et de mon oncle… »
 
 M^me^ Anne interrompit doucement le babillage de la petite fille, qui marchait à 
 côté d’elle en portant un pliant et un panier à ouvrage.
@@ -22,7 +22,7 @@ Le petit minois espiègle de Suzanne essaya de prendre un air grave.
 « Mais non, ma tante : je vous assure que j’aime beaucoup mieux votre 
 compagnie que celle de… des autres. D’abord, je connais le 
 Vieux-Château ; ensuite, tout le long de la route, Marcel et Marine 
-m’auraient taquinée ; mon oncle ne m’aurait pas permis de conduire….  
+m’auraient taquinée ; mon oncle ne m’aurait pas permis de conduire…  
 — Je crois bien ! s’exclama tante Anne en riant : pour les faire verser 
 dans une ornière ! »
 

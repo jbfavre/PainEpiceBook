@@ -41,7 +41,7 @@ pupille ; mais on n’ignore pas que nul n’osait résister à tante Drake.
 Enfin M. Harmanay, las de discuter, s’était écrié :
 
 « Laissons donc partir cette enfant !… D’abord, c’est un débarras pour 
-nous, et puis, il ne faut pas mécontenter Mabel…. On ne sait pas ce qui peut 
+nous, et puis, il ne faut pas mécontenter Mabel… On ne sait pas ce qui peut 
 arriver… »
 
 ![Suzanne et sa tante firent leurs paquets](../images/page107.jpg)

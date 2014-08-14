@@ -52,7 +52,7 @@ indiquait _Sweet-heart_.
 Mistress Drake rit bien haut en montrant ses longues dents :
 
 « _Sweet-heart_ ?… (Doux-Cœur), l’amie intime de Lako, une jeune 
-tigresse parfaitement apprivoisée et fort bien élevée, qui….  
+tigresse parfaitement apprivoisée et fort bien élevée, qui…  
 — Mais je ne veux pas de cette horrible bête sous mon toit ! s’écria 
 avec effroi M^me^ Harmanay. Elle nous fera des peurs terribles et pourra mordre 
 mes enfants. Je ne puis supporter une tigresse chez moi ! »
@@ -206,7 +206,7 @@ sourire malicieux.
 frais que notre séjour à la Fauconnière vous occasionnera ; mais cependant 
 l’avenir n’est pas, pour nous, couleur de rose…  
 — Pourquoi avez-vous quitté l’Inde ?  
-— Ah ! voilà ; l’éducation de Lako….  
+— Ah ! voilà ; l’éducation de Lako…  
 — L’éducation de ces enfants de…, d’Indiens, permettez-moi de vous le 
 faire observer, Mabel, n’est pas poussée très loin, en général.  
 — En général, soit, riposta vivement Mrs Drake ; mais il me plaît de 

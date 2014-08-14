@@ -253,7 +253,7 @@ en avoir seulement vingt !
 francs pour jouer deux ou trois morceaux dans une soirée. Mais leur 
 réputation était faite, leur talent indiscutable ; on ne donnera sans doute 
 rien à un novice comme Lako qui paraît pour la première fois en public ; 
-il ne faut pas te faire illusion, mon pauvre chéri…. »
+il ne faut pas te faire illusion, mon pauvre chéri… »
 
 Lako ne répondit pas et retint un sourire malicieux ; il espérait bien au 
 moins cent francs, lui.  
