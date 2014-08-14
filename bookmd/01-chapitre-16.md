@@ -48,7 +48,7 @@ On referma la porte, on le fit asseoir, on ranima le feu, et on s'assit en
 cercle autour de lui.  
 « Tu n'es donc pas mort, Blanc-Blanc ? dit Lako, dont le sourire apparut 
 enfin. Alors comment es-tu revenu en France ? Tu es donc riche ?  
-- Pas mort, mon maître, fit le nègre en riant. Comment revenu en France ? 
+- Pas mort, mon maître, fit le nègre en riant. Comment revenu en France ? 
 Mais avec maîtresse, bien sûr ! »  
 « Ah ! pensa tristement Lako, c'est juste : mes pauvres parents ayant 
 disparu, Blanc-Blanc, qui doit gagner son pain, a trouvé d'autres 
@@ -65,9 +65,9 @@ crurent-ils avoir mal compris sa phrase.
 Le nègre devint grave.  
 « Voila, dit-il : bonne maîtresse à Blanc-Blanc avoir été bien malade 
 pendant quatorze mois, et pas pouvoir écrire.  
-- Ta maîtresse actuelle ? fit Mme Anne.  
-- Actuelle ? répéta Blanc-Blanc, pour qui ce mot était vide de sens.  
-- Oui. Chez qui es-tu maintenant ? Comment s'appellent tes maîtres ? » 
+- Ta maîtresse actuelle ? fit Mme Anne.  
+- Actuelle ? répéta Blanc-Blanc, pour qui ce mot était vide de sens.  
+- Oui. Chez qui es-tu maintenant ? Comment s'appellent tes maîtres ? » 
 appuya Lako.  
 Le noir ouvrit une bouche énorme et roula des yeux étonnés.  
 « Mais... et mistress Drake, donc ! la maman à petit maître que 
@@ -86,11 +86,11 @@ tous se levèrent, comme poussés par une émotion singulière.
 pense pourtant que Blanc-Blanc vous a suffisamment préparés... »  
 Un triple cri s'éleva :  
 « Mabel !  
-- Maman !  
-- Tante Drake !  
-- Non ! ce n'est pas possible !  
-- Ce n'est pas elle !  
-- Ça ne peut pas être elle ! » répétaient les enfants et la vieille 
+- Maman !  
+- Tante Drake !  
+- Non ! ce n'est pas possible !  
+- Ce n'est pas elle !  
+- Ça ne peut pas être elle ! » répétaient les enfants et la vieille 
 dame.  
 Toutefois le doute commençait à s'effacer graduellement de leur esprit ; la 
 surprise n'était pas foudroyante puisqu'ils avaient déjà reçu une secousse 
@@ -108,11 +108,11 @@ mutuellement, puis tante Drake prit la parole :
 de Blanc-Blanc n'a pas su vous préparer à mon retour, un peu brusque, il est 
 vrai ; je lui avais pourtant bien répété sa leçon ! Et je vois aussi 
 que vous me croyiez tous encore a Bombay.  
-- À Bombay ? Mais non ! firent les deux enfants abasourdis.  
-- Ma chère Mabel, dit tante Anne, nous vous croyions tout simplement au fond 
+- À Bombay ? Mais non ! firent les deux enfants abasourdis.  
+- Ma chère Mabel, dit tante Anne, nous vous croyions tout simplement au fond 
 de la mer Rouge avec vos compagnons de voyage. Aussi, jugez de la désolation 
 dans laquelle nous étions.  
-- C'est donc pour cela que je trouvais à votre intérieur un air de détresse 
+- C'est donc pour cela que je trouvais à votre intérieur un air de détresse 
 et de mélancolie... qui a bien vite disparu à mon arrivée, je dois le 
 reconnaître. »  
 Mme Drake se mit à rire et poursuivit :  
@@ -128,8 +128,8 @@ craignant de manquer le départ du paquebot, qui ne m'attendrait pas, je le
 savais, je négligeai de prendre les précautions habituelles contre l'ardeur 
 du soleil, et je tombai en entrant chez moi, frappée d'insolation. Je faillis 
 en mourir, mais, grâce à Blanc-Blanc...  
-- Comment ! grâce à Blanc-Blanc ? interrompit Suzanne.  
-- Eh oui ! il m'a pour ainsi dire sauvé la vie. En me voyant si malade, le 
+- Comment ! grâce à Blanc-Blanc ? interrompit Suzanne.  
+- Eh oui ! il m'a pour ainsi dire sauvé la vie. En me voyant si malade, le 
 maître de l'hôtel jugea bon de prévenir ceux qu'il croyait être mes 
 parents, qui sont, en réalité, mes ennemis, et auxquels je venais d'enlever 
 légitimement l'héritage qu'ils détenaient.  
@@ -153,10 +153,10 @@ passagers, et c'est ainsi que je fus comptée au nombre des naufragés.
 
 ![Le repas fut des plus joyeux.](../images/page175.jpg)
 
-- Fort bien, dit tante Anne ; je conçois alors l'erreur regrettable qui nous 
+- Fort bien, dit tante Anne ; je conçois alors l'erreur regrettable qui nous 
 a tous plongés dans le deuil ; mais, ma chère Mabel, pourquoi, dès votre 
 guérison, ne nous avez-vous pas donné signe de vie ?  
-- Je l'aurais certes fait si je l'avais pu ! Mais la maladie dura très 
+- Je l'aurais certes fait si je l'avais pu ! Mais la maladie dura très 
 longtemps, comme je viens de vous l'apprendre, et la convalescence me laissa 
 pendant plusieurs mois les nerfs et le système cérébral dans une telle 
 faiblesse que le moindre effort intellectuel m'était interdit. Je n'avais que 
@@ -165,13 +165,13 @@ vaguement conscience de l'inquiétude en laquelle vous deviez être, et quant
 rassurer, il n'y fallait pas songer. Je suis très excusable, vous le voyez. Je 
 n'ai recouvré que très tard la faculté d'agir et de penser ; vous devinez 
 alors que pendant ce temps mes affaires allaient-tant bien que mal...  
-- Alors vous revenez pauvre ? » demanda Lako, que frappèrent ces derniers 
+- Alors vous revenez pauvre ? » demanda Lako, que frappèrent ces derniers 
 mots.  
 L'Anglaise ne répondant pas, Suzanne ajouta-avec commisération :  
 « Pauvre tante Drake ! vous n'avez plus rien ! Mais nous avons au moins 
 du pain, nous, et nous serons heureux de le partager avec vous et votre fidèle 
 Blanc-Blanc.  
-- Nous gagnerons de l'argent pour vous et pour tante Anne, et dès que je serai 
+- Nous gagnerons de l'argent pour vous et pour tante Anne, et dès que je serai 
 plus âgé, dit Lako en fermant les poings, j'irai à Bombay châtier ceux qui 
 vous ont fait du mal et qui vous ont dépouillée injustement ! »  
 Une lueur d'émotion passa sur la figure un peu flétrie de l'Anglaise ; puis 
@@ -183,35 +183,35 @@ l'Anglaise saisit au passage.
 « Oh ! fit tante Anne, qui du regard mesurait l'appartement pour savoir 
 où l'on dresserait un quatrième lit, il y a la petite rente de Suzette ; et 
 puis, à Paris, quand on sait s'y prendre, on vit à si bon marché !  
-- Et Lako a gagné beaucoup d'argent ! » s'écria la fillette, 
+- Et Lako a gagné beaucoup d'argent ! » s'écria la fillette, 
 qu'interrompit aussitôt son petit ami, auquel revenait, avec ces paroles, le 
 sentiment de sa triste situation.  
 Soudain on pensa à Blanc-Blanc, et tous jetèrent un regard reconnaissant au 
 nègre, dont les dents d'ivoire brillèrent dans l'ombre.  
 « Il serait trop long de vous raconter maintenant, en détail, quel a été 
 son dévoûment, reprit Mme Drake, mais Blanc-Blanc ne me quittera plus.  
-- Il partagera notre pauvreté, répondit Suzanne.  
-- Allons, s'écria l'Anglaise, il est temps de faire cesser ce malentendu, mes 
+- Il partagera notre pauvreté, répondit Suzanne.  
+- Allons, s'écria l'Anglaise, il est temps de faire cesser ce malentendu, mes 
 chers amis. Je vous ai avoué que, pendant ma maladie, mes affaires ne 
 prospéraient pas ; néanmoins elles sont brillantes puisque je suis sortie 
 triomphante de la lutte, et je reste maîtresse de la fortune qu'on nous 
 contestait.  
-- Tant mieux ! fit tante Anne avec un soupir de satisfaction. Mais dans tout 
+- Tant mieux ! fit tante Anne avec un soupir de satisfaction. Mais dans tout 
 cela je ne vois pas pourquoi, dès que vous avez pu vous remettre en route, 
 Mabel, vous ne nous avez pas écrit quelques mots, au lieu de nous laisser vous 
 pleurer.  
-- Ma chère Anne, une lettre met à peu près un mois pour aller de Bombay à 
+- Ma chère Anne, une lettre met à peu près un mois pour aller de Bombay à 
 Paris ; or j'allais vous arriver presque aussi vite et je voulais jouir _de 
 visu_ de votre surprise.  
-- Elle est bien douce, Mabel !  
-- Ainsi, mère, vous êtes encore riche ? demanda Lako.  
-- Millionnaire, mon chéri, et toi aussi !  
-- Tant mieux ! cria l'adolescent ; au moins tante Anne et Suzanne, qui ont 
+- Elle est bien douce, Mabel !  
+- Ainsi, mère, vous êtes encore riche ? demanda Lako.  
+- Millionnaire, mon chéri, et toi aussi !  
+- Tant mieux ! cria l'adolescent ; au moins tante Anne et Suzanne, qui ont 
 partagé la mauvaise fortune avec moi, vont être bien heureuses !  
 -Je vous laissais, tout à l'heure, croire à ma pauvreté, reprit la veuve, 
 parce qu'il m'était doux de vous entendre m'offrir une place à votre modeste 
 foyer ; je ne l'oublierai pas, soyez-en sûrs.  
-- Oh ! mais alors, s'écria Suzanne en entassant deux ou trois bûches dans 
+- Oh ! mais alors, s'écria Suzanne en entassant deux ou trois bûches dans 
 le foyer, on n'a plus besoin de faire des économies ! Et nous aurons du 
 dessert à dîner, ce soir, n'est-ce pas, tante Anne ? »  
 Tante Anne sourit en secouant affirmativement la tête ; au fond de son cœur 
@@ -250,10 +250,10 @@ Mabel Drake revenait de l'Inde plusieurs fois millionnaire, et Lako possédait
 lui-même une fortune à peu près égale à la sienne.  
 « Vous vivrez donc avec nous, Anne, et Suzanne aussi, conclut l'Anglaise, et 
 nous ne nous quitterons jamais.  
-- Merci, Mabel, répondit la vieille dame ; j'accepte cela de vous, car je 
+- Merci, Mabel, répondit la vieille dame ; j'accepte cela de vous, car je 
 sais que votre invitation est faite de tout cœur, et je ne me sentirai jamais 
 gênée sous votre toit...  
-- Comme sous celui des Harmanay », ajouta malicieusement la veuve.  
+- Comme sous celui des Harmanay », ajouta malicieusement la veuve.  
 Puis elle appela Blanc-Blanc qui restait en extase devant son jeune maître 
 endormi, et l'envoya chercher une voiture pour rentrer à l'hôtel.  
 En attendant son retour, elle baisa tendrement, sans les éveiller, 
@@ -265,7 +265,7 @@ sur le siège, lorsque sa maîtresse fut montée dans le fiacre, Mme Drake
 l'appela :  
 « À côté du cocher, par le froid qu'il fait ?... Tu n'y penses pas, 
 Blanc-Blanc ! Mets-toi vite sur la banquette en face de moi...  
-- Maîtresse..., commença le nègre qui n'osait obéir.  
-- Fais-moi le plaisir de t'asseoir là, répéta la bonne dame, et mets-toi 
+- Maîtresse..., commença le nègre qui n'osait obéir.  
+- Fais-moi le plaisir de t'asseoir là, répéta la bonne dame, et mets-toi 
 bien dans la tête, une fois pour toutes, que tu ne seras plus traité comme un 
 domestique ordinaire. »

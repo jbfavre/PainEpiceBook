@@ -83,7 +83,7 @@ je les regrette beaucoup, va ! Je ne t'appellerai plus _Pain d'épice_ et je
 serai gentille pour toi quand tu reviendras à la Fauconnière. Tiens, prends 
 ce petit souvenir que j'ai acheté avec mes économies. Quant à tes oiseaux, 
 à Romulus et à Kiss, je te promets de très bien les soigner en ton absence.  
-— Je te remercie, ma petite Marine ! » répondit Lako en l'embrassant.  
+— Je te remercie, ma petite Marine ! » répondit Lako en l'embrassant.  
 En route il défit le paquet que la fillette avait déposé sur ses genoux : 
 il contenait d'abord une jolie garniture de paletot en belle fourrure, puis une 
 grosse boîte de bonbons fins.  
@@ -91,7 +91,7 @@ Lorsque, quelques semaines plus tard, Marine alla voir son frère au lycée,
 elle refusa de l'embrasser.  
 « Oh ! oh ! qu'as-tu donc, ma petite sœur ? demanda le jeune garçon. 
  
-— Il y a que tu es un méchant, et que tu as contribué à mettre le pauvre 
+— Il y a que tu es un méchant, et que tu as contribué à mettre le pauvre 
 Lako dans l'état où il est. »  
 Marcel baissa la tête et n'osa nier.  
 Depuis il ne se passa point de semaine sans que Marine envoyât à Hyères, sur 

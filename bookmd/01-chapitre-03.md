@@ -45,12 +45,12 @@ notre hôtesse.
 
 ![Madame Drake et sa suite.](../images/page031.jpg)
 
-— Je veux dire... cet animal », reprit la maîtresse de céans qui 
-indiquait _Sweet—heart_.  
+— Je veux dire... cet animal », reprit la maîtresse de céans qui 
+indiquait _Sweet-heart_.  
 Mistress Drake rit bien haut en montrant ses longues dents :  
-« _Sweet—heart_ ?... (Doux-Cœur), l’amie intime de Lako, une jeune 
+« _Sweet-heart_ ?... (Doux-Cœur), l’amie intime de Lako, une jeune 
 tigresse parfaitement apprivoisée et fort bien élevée, qui....  
-— Mais je ne veux pas de cette horrible bête sous mon toit ! s’écria 
+— Mais je ne veux pas de cette horrible bête sous mon toit ! s’écria 
 avec effroi Mme Harmanay. Elle nous fera des peurs terribles et pourra mordre 
 mes enfants. Je ne puis supporter une tigresse chez moi ! »  
 Sans se laisser déconcerter, Mme Drake haussa légèrement les épaules et 
@@ -100,7 +100,7 @@ obligeaient à s’occuper de lui, le considéraient d’un œil curieux et
 malveillant.  
 « C’est un mulâtre, dis ? glissa la petite fille à l’oreille de son 
 frère.  
-— Parbleu ! répondit celui-ci avec dédain, que veux-tu donc qu’il soit 
+— Parbleu ! répondit celui-ci avec dédain, que veux-tu donc qu’il soit 
 avec cette figure de pain d’épice ? »  
 Marine se mit à ricaner :  
 « Pain d’épice, c’est bien vrai !... quel drôle de petit 
@@ -115,7 +115,7 @@ Suzanne.
 Il ne comprenait pas, mais il sourit à la vue de la jolie fillette qui le 
 considérait de ses yeux bleus caressants, et qui secouait sur ses épaules 
 mignonnes une longue natte de cheveux blonds.  
-« Lako, répéta-t—il, yes, Lako. »  
+« Lako, répéta-t-il, yes, Lako. »  
 Suzanne lui adressa encore plusieurs questions, mais il ne comprenait pas 
 davantage.  
 Par bonheur pour eux, Mme Drake s’aperçut de leur manège désespéré.  
@@ -147,9 +147,9 @@ hésitation :
 « Moi aussi, je vous aime déjà, ma tante, mais pas autant que tante Anne, 
 que je chéris plus que tout au monde ; et n’ayez pas peur, je protégerai 
 Lako, vous verrez.  
-— Ah ! ah ! fit l’Anglaise en riant, ce sont les rôles renversés 
+— Ah ! ah ! fit l’Anglaise en riant, ce sont les rôles renversés 
 ici : les fillettes protègent les garçonnets ?  
-— Eh ! ma tante, riposta gravement Suzanne, je sais bien que je suis plus 
+— Eh ! ma tante, riposta gravement Suzanne, je sais bien que je suis plus 
 jeune et moins forte que Lako ; mais il est nouveau et ne connaît encore 
 personne ici. Et puis... »  
 Elle s’arrêta, et ses yeux se dirigèrent machinalement vers le groupe 
@@ -174,17 +174,17 @@ L’Anglaise leva au ciel ses grands bras.
 « Ah ! mes chers amis ! s’écria-t-elle, ne m’en parlez pas ! Ce 
 procès est toujours en suspens, et je crois bien qu’il me faudra renoncer à 
 disputer à mes adversaires ma fortune et celle de Lako.  
-— Alors... vous arrivez... ruinée ?... » demanda Mme Harmanay d’une 
+— Alors... vous arrivez... ruinée ?... » demanda Mme Harmanay d’une 
 voix dont l’altération n’échappa point à Mme Drake. Elle retint un 
 sourire malicieux.  
 « Ruinée,... pas totalement, Dieu merci ! J’ai de quoi subvenir aux 
 frais que notre séjour à la Fauconnière vous occasionnera ; mais cependant 
 l’avenir n’est pas, pour nous, couleur de rose...  
-— Pourquoi avez-vous quitté l’Inde ?  
-— Ah ! voilà ; l’éducation de Lako....  
-— L’éducation de ces enfants de..., d’Indiens, permettez-moi de vous le 
+— Pourquoi avez-vous quitté l’Inde ?  
+— Ah ! voilà ; l’éducation de Lako....  
+— L’éducation de ces enfants de..., d’Indiens, permettez-moi de vous le 
 faire observer, Mabel, n’est pas poussée très loin, en général.  
-— En général, soit, riposta vivement Mrs Drake ; mais il me plaît de 
+— En général, soit, riposta vivement Mrs Drake ; mais il me plaît de 
 soigner celle de mon beau-fils, que je considère absolument comme mon enfant. 
 D’ailleurs vous ne savez pas de quelle intelligence il est doué ; ensuite 
 remarquez que ce n’est pas un Indien, comme vous le dites, pas même un 
@@ -215,9 +215,9 @@ l’accompagnait, plus calme, plus froid en apparence, mais souriant aussi.
 En prenant place a table, à côté de Mrs Drake, il se pencha vers elle et lui 
 dit en anglais :  
 « Mère, elle est bonne pour moi, et je l’aime bien.  
-— Qui cela ? fit l’Anglaise avec malice.  
-— Suzanne.  
-— Et les autres ? »  
+— Qui cela ? fit l’Anglaise avec malice.  
+— Suzanne.  
+— Et les autres ? »  
 Le petit garçon serra les lèvres et ne répondit pas.  
 De fait, il n’avait pas à se louer de Marcel et de Marine : ceux-ci avaient 
 continué à le regarder d’une manière impertinente et dédaigneuse, 
@@ -241,10 +241,10 @@ railler un hôte que vous devriez recevoir au moins poliment. »
 Lako ne comprenait ni les aigres paroles qui s’échangeaient autour de lui, 
 ni que sa petite amie Suzanne le défendait.  
 Le lunch terminé, les voyageurs montèrent dans leur appartement ; puis, 
-aidés du nègre Blanc—Blanc, ils vidèrent leurs malles et disposèrent avec 
+aidés du nègre Blanc-Blanc, ils vidèrent leurs malles et disposèrent avec 
 soin leurs effets dans les tiroirs des meubles qui leur étaient réservés.  
 Vers le soir, Lako et Suzanne redescendirent dans la cour et allèrent trouver 
-la tigresse Sweet—heart qui, un peu étonnée d’un tel déplacement, se 
+la tigresse Sweet-heart qui, un peu étonnée d’un tel déplacement, se 
 tenait tranquillement couchée et léchait avec soin ses pattes de velours dont 
 on avait pris le soin prudent de rogner les griffes naissantes.  
 Suzanne, qui n’avait peur de rien, la caressa tout comme s’il se fût agi 
@@ -253,12 +253,12 @@ fillette une alliée pour son maître et pour elle, passa sa grande langue rose
 et rugueuse sur les petites mains de cette nouvelle amie.  
 « Celle-ci, il faudra l’aimer comme moi », dit le jeune garçon à la 
 tigresse dans sa langue familière.  
-Peut-être Sweet—heart comprit-elle ce que lui disait son petit maître, car 
+Peut-être Sweet-heart comprit-elle ce que lui disait son petit maître, car 
 elle témoigna dès ce jour un attachement très fidèle à la petite 
 Frézelle.  
 Pour cette première nuit, on concéda une niche provisoire à Sweet-heart, qui 
 y fut enchaînée et enfermée par les soins de Lako et de Suzanne aidés de 
-Blanc—Blanc.  
+Blanc-Blanc.  
 La fillette s’assura de même que le nègre, auquel personne ne songeait, 
 était bien installé et avait tout ce qui lui était nécessaire dans sa 
 chambrette située sous les toits ; le singe eut un biscuit, le chien une 

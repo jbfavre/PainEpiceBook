@@ -9,38 +9,38 @@ Tout à coup tante Anne repoussa son livre où s'alignaient les chiffres, ôta
 ses lunettes, et se tournant vers le jeune homme :  
 « Sais-tu que c'est fort beau, mon enfant, dit-elle d'une voix émue, 
 d'avoir gagné à toi tout seul quinze cents francs en trois semaines !  
-- Oui, tante, mais on est si bon pour moi ! Quand je pense à l'empressement 
+- Oui, tante, mais on est si bon pour moi ! Quand je pense à l'empressement 
 qu'on a mis à me demander de jouer dans deux autres concerts après celui ou 
 j'ai remplacé Maître X... !  
-- Et où tu as fait des merveilles ! ajouta Suzanne avec admiration. Quand je 
+- Et où tu as fait des merveilles ! ajouta Suzanne avec admiration. Quand je 
 pense, moi aussi, combien j'étais fière lorsque tout le monde cherchait à 
 savoir ton nom, et qu'on s'écriait autour de nous : « Quel talent il a, 
 cet enfant ! Car c'est encore un enfant, et il promet, certes ! Ah ! je 
 ne suis pas fâché d'être venu à ce concert ! » Moi, j'écoutais avec 
 joie ce qu'on disait de toi quand tu avais quitté l'estrade. O Lako !... que 
 j'étais heureuse ! Et comme on a raison de te donner beaucoup d'argent !  
-- Au premier moment, reprit Lako dont les souvenirs se ravivaient, j'étais 
+- Au premier moment, reprit Lako dont les souvenirs se ravivaient, j'étais 
 joliment intimidé ; j'y voyais trouble, je tremblais, je croyais que je ne 
 pourrais pas tirer un son de mon violon. Et puis, j'ai pensé à tante Anne et 
 à toi, Susy ; je me suis dit qu'il fallait gagner une petite somme et 
 commencer à me faire un peu connaître, alors le courage m'est venu ; j'ai 
 oublié qu'on m'écoutait, et j'ai joué comme pour moi seul, sans frayeur, 
 sans trouble.  
-- La pauvre tante Anne tremblait autant que toi, au commencement, dit la 
+- La pauvre tante Anne tremblait autant que toi, au commencement, dit la 
 fillette.  
-- Bonne tante Anne ! fit l'adolescent. Le malheur, ajouta Lako en redevenant 
+- Bonne tante Anne ! fit l'adolescent. Le malheur, ajouta Lako en redevenant 
 grave, c'est que voici l'été ; après le Grand Prix, adieu les concerts 
 publics ou privés ; en voilà jusqu'au mois de décembre.
-- Et je ne le regrette pas, moi, dit tante Anne en hochant la tête ; tu 
+- Et je ne le regrette pas, moi, dit tante Anne en hochant la tête ; tu 
 n'aurais certainement pas supporté longtemps cette vie-la, mon pauvre 
 petit ; le lendemain de ces séances musicales, tu avais bien mauvaise mine.  
-- Dame ! l'émotion, fit Lako.  
-- D'abord, s'écria Suzanne, on peut bien se reposer et se distraire cet été 
+- Dame ! l'émotion, fit Lako.  
+- D'abord, s'écria Suzanne, on peut bien se reposer et se distraire cet été 
 puisque nous sommes riches ! Lako laissera de côté son travail, tante Anne 
 fera la sieste tous les jours...
-- Et toi, ma petite Suzanne, que feras-tu ? demanda Lako en souriant.  
-- Moi, je ferai le ménage ; d'ailleurs ça m'amuse.
-- Que Lako se repose, en effet, tu as raison, ma mignonne, dit Mme Anne, mais 
+- Et toi, ma petite Suzanne, que feras-tu ? demanda Lako en souriant.  
+- Moi, je ferai le ménage ; d'ailleurs ça m'amuse.
+- Que Lako se repose, en effet, tu as raison, ma mignonne, dit Mme Anne, mais 
 ne faisons pas de dépenses inutiles jusqu'à ce que notre cher petit soit tout 
 à fait sur le chemin de la fortune. La vogue n'a qu'un temps ! »
 
@@ -60,9 +60,9 @@ auxquels l'air de la campagne devait faire grand bien.
 « Comme je serai contente de revoir Sweet-heart, Romulus et les oiseaux, 
 sans compter la bonne demoiselle Irma ! s'écria Suzanne à l'annonce de ce 
 voyage.  
-- Et pas ta tante, ni ton oncle, ni tes cousins ? lui demanda malicieusement 
+- Et pas ta tante, ni ton oncle, ni tes cousins ? lui demanda malicieusement 
 Lako.  
-- Mon Dieu, si ! fit l'enfant avec une moue expressive. C'est naturel ; 
+- Mon Dieu, si ! fit l'enfant avec une moue expressive. C'est naturel ; 
 seulement je serai tout de même très contente de revoir « la 
 ménagerie ».  
 Suzanne eut cependant une déception dès le premier jour de son arrivée à la 

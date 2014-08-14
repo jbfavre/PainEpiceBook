@@ -10,27 +10,27 @@ comme un asthmatique.
 Et il referma la porte.  
 D'un bond, Suzanne fut sur ses pieds, et examinant curieusement le visiteur :  
 « Est-ce ma tante Harmanay que vous voulez voir, Monsieur ?  
-- Non, ma mignonne, je viens pour affaires, et...  
-- C'est mon oncle, alors, qu'il vous faut ?  
-- Ce n'est ni M. ni Mme Harmanay que je désire voir, ma petite fille, 
+- Non, ma mignonne, je viens pour affaires, et...  
+- C'est mon oncle, alors, qu'il vous faut ?  
+- Ce n'est ni M. ni Mme Harmanay que je désire voir, ma petite fille, 
 répondit l'inconnu amusé par ce babillage.  
-- Alors c'est tante Anne ? Vous ne venez pas lui annoncer une mauvaise 
+- Alors c'est tante Anne ? Vous ne venez pas lui annoncer une mauvaise 
 nouvelle, au moins ? Pauvre tante Anne ! elle a toujours peur des lettres 
 et...  
-- C'est Mme Drake que je demande. »  
+- C'est Mme Drake que je demande. »  
 Le visage de Suzanne s'éclaira.  
 « Tante Drake ? ah ! Asseyez-vous donc, monsieur ; tante Drake est 
 allée jusqu'au village, mais elle ne tardera pas à revenir. Si vous voulez, 
 en attendant, je vous tiendrai compagnie.  
-- Mais très volontiers, répondit le vieux monsieur, qui s'assit, tandis que 
+- Mais très volontiers, répondit le vieux monsieur, qui s'assit, tandis que 
 Suzanne se renfonçait dans son fauteuil.  
-- Vous ne venez pas lui apprendre une mauvaise nouvelle, je pense ? fit tout 
+- Vous ne venez pas lui apprendre une mauvaise nouvelle, je pense ? fit tout 
 à coup la petite fille avec anxiété.  
-- Eh ! eh ! je n'en sais rien. L'aimez-vous beaucoup, votre tante Drake ?  
-- Beaucoup... Pas tout à fait autant que tante Anne, mais un million de fois 
+- Eh ! eh ! je n'en sais rien. L'aimez-vous beaucoup, votre tante Drake ?  
+- Beaucoup... Pas tout à fait autant que tante Anne, mais un million de fois 
 plus que tante Harmanay.  
-- Et si je venais vous l'enlever ?  
-- L'enlever, tante Drake ? et alors Lako aussi ? Oh ! monsieur ! 
+- Et si je venais vous l'enlever ?  
+- L'enlever, tante Drake ? et alors Lako aussi ? Oh ! monsieur ! 
 monsieur ! que me dites-vous là ? »  
 Le visiteur se mordit les lèvres à la vue du petit visage soudain pâli, 
 troublé par ses dernières paroles.  
@@ -47,13 +47,13 @@ Elle disparut par la porte-fenêtre ouvrant sur le perron et rejoignit la bonne
 dame, qui n'était plus qu'à une cinquantaine de mètres de la maison.  
 « Tante, lui dit-elle très gravement, il y a au salon un monsieur qui vous 
 attend.  
-- Un monsieur... qui m'attend, moi ?  
-- Oui, tante ; il est assez vieux, assez gros, assez rouge ; il a un grand 
+- Un monsieur... qui m'attend, moi ?  
+- Oui, tante ; il est assez vieux, assez gros, assez rouge ; il a un grand 
 nez, de petits yeux, beaucoup de mentons, le ruban de la Légion d'honneur et 
 du coton dans les oreilles.  
-- Ah ! fit la tante sans sourciller ; ce doit être Maître Nickman.  
-- Je ne sais pas, tante ; il ne m'a pas dit son nom.  
-- Allons, va jouer, fillette, et laisse-moi causer avec mon visiteur. »  
+- Ah ! fit la tante sans sourciller ; ce doit être Maître Nickman.  
+- Je ne sais pas, tante ; il ne m'a pas dit son nom.  
+- Allons, va jouer, fillette, et laisse-moi causer avec mon visiteur. »  
 Suzanne, demeurée seule, considéra son livre avec mélancolie.  
 « La salle d'étude est inhabitable, murmura-t-elle, le salon occupé, tante 
 Drake m'a dit d'aller jouer. J'ai bien envie de lui obéir, mais je ne sais pas 
@@ -111,7 +111,7 @@ attristant, mais il vaut mieux que Lako ne voie pas cela, car il n'y est pas
 habitué. Toi, tu es plus forte. »  
 Sweet-heart fit le gros dos, sans doute pour montrer sa vigueur.  
 « Il n'aura pas chaud au collège, poursuivit l'enfant en hochant la tête, 
-mais Paris n'est pas la campagne, et la campagne l'hiver, brrr ! - De nous 
+mais Paris n'est pas la campagne, et la campagne l'hiver, brrr ! – De nous 
 tous c'est encore tante Anne qui est le plus à plaindre parce qu'elle est 
 vieille. »  
 Après une minute de rêverie, Suzanne se leva et dit :  
@@ -133,14 +133,14 @@ Les deux parentes conversèrent pendant une demi heure environ, puis l'Anglaise
 sonna Blanc-Blanc.
 Le nègre entra chez Mme Drake.  
 « Blanc-Blanc, lui dit sa maîtresse, je t'annonce que je vais partir.  
-- Pour la grande ville, moi savoir déjà, répondit le nègre.  
-- Non, pas pour Paris, mon fils s'y rendra seul, du moins avec son cousin et 
+- Pour la grande ville, moi savoir déjà, répondit le nègre.  
+- Non, pas pour Paris, mon fils s'y rendra seul, du moins avec son cousin et 
 son oncle. Moi, je pars pour Bombay ; comprends-tu ?  
-- Ça mauvais ! murmura Blanc-Blanc, maîtresse avoir ennemis là-bas : 
+- Ça mauvais ! murmura Blanc-Blanc, maîtresse avoir ennemis là-bas : 
 Blanc-Blanc suivre maîtresse.  
-- Non, répliqua Mme Drake, car il faudra que tu veilles sur ton jeune maître, 
+- Non, répliqua Mme Drake, car il faudra que tu veilles sur ton jeune maître, 
 mon cher Lako.
-- Petit maître pas aimé ici, excepté par la petite miss aux yeux bleus, mais 
+- Petit maître pas aimé ici, excepté par la petite miss aux yeux bleus, mais 
 petit maître pas en danger. Blanc Blanc suivre maîtresse. »
 
 ![« Fais tes préparatifs ! »](../images/page069.jpg)
@@ -161,7 +161,7 @@ Marseille. »
 Puis apercevant deux larmes sur la joue du brave homme :  
 « Eh bien, tu pleures à présent ? Tu vas pourtant revoir le soleil de 
 l'Inde !  
-- Moi souffrir de quitter petit maître », murmura Blanc-Blanc en se 
+- Moi souffrir de quitter petit maître », murmura Blanc-Blanc en se 
 retirant.  
 « C'est vrai, ce pauvre Lako, que va-t-il dire ? soupira tante Anne. 
 Comment allez-vous lui annoncer cela, Mabel ? »  
@@ -170,7 +170,7 @@ L'Anglaise se retourna brusquement :
 je ne m'en sens pas le courage. Mon pauvre Lako ! il m'aime tant ! il croit 
 que je vais le suivre à Paris et le faire sortir tous les dimanches. Anne, 
 rendez-moi le service de lui apprendre vous-même mon départ pour Bombay.  
-- Et si nous chargions de ce soin ma petite nièce Suzanne ? insinua tante 
+- Et si nous chargions de ce soin ma petite nièce Suzanne ? insinua tante 
 Anne. Les enfants qui s'aiment bien ont parfois entre eux de mystérieuses 
 délicatesses ; laissons agir la fillette, qui n'est pas sotte, tant s'en 
 faut. »  
@@ -181,7 +181,7 @@ La fillette ne comprit pas tout d'abord ; elle crut qu'on voulait la
 préparer au départ de Lako pour Bombay,
 tandis que son petit ami ne devait partir que pour Paris et entrer au lycée.  
 « C'est bien vrai ? vous ne me trompez pas, Lako reste ?  
-- Eh oui ! puisque je te l'affirme, répondit Mme Drake. Seulement, le pauvre 
+- Eh oui ! puisque je te l'affirme, répondit Mme Drake. Seulement, le pauvre 
 garçon ignore tout encore ; ma décision lui causera beaucoup de peine, et 
 nous voudrions qu'il l'apprît par toi. »  
 Suzanne descendit l'escalier, avec l'allure posée d'une personne chargée 

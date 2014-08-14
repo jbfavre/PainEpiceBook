@@ -12,15 +12,15 @@ On frappa : tante Anne se leva et Suzette devint toute blanche.
 C'étaient des hommes qui portaient un fardeau.  
 « Mon Dieu ! Lako ! cria Suzanne, qui se retint à une chaise pour ne 
 pas tomber.  
-- Seigneur, que lui est-il arrivé ? gémit la pauvre tante Anne, prête, 
+- Seigneur, que lui est-il arrivé ? gémit la pauvre tante Anne, prête, 
 elle aussi, à défaillir.  
-- Ne vous effrayez pas, ma bonne dame, dit un des hommes, ni vous, ma jolie 
+- Ne vous effrayez pas, ma bonne dame, dit un des hommes, ni vous, ma jolie 
 petite demoiselle. L'enfant vit et n'est qu'évanoui. Il n'a même d'autre mal 
 qu'un bras cassé, par exemple. Seulement, il a eu peur et s'est évanoui, ni 
 plus ni moins qu'une fillette.  
-- Comment cela est-il arrivé ? demanda Mme Anne en s'empressant autour du 
+- Comment cela est-il arrivé ? demanda Mme Anne en s'empressant autour du 
 malade, dont elle frotta les tempes avec de l'eau de Cologne.  
-- Ah ! ces garçonnets sont bien imprudents, Voyez-vous ! Il traversait la 
+- Ah ! ces garçonnets sont bien imprudents, Voyez-vous ! Il traversait la 
 rue, le nez en l'air, rêvant à je ne sais quoi... Un cocher lui crie : 
 « Hop ! » Il se recule vite en arrière. « Hop ! » fait un 
 autre cocher qui venait en sens opposé. Paf ! mon jeune homme n'a pas le 
@@ -64,7 +64,7 @@ peu de fièvre, madame, vous ne vous en inquiéteriez pas ; ce serait une
 conséquence toute naturelle de l'accident. En ce cas, vous donneriez a boire 
 au blessé la potion que je vais ordonner. Surtout, qu'il ne mange pas durant 
 vingt-quatre heures ! Qu'il prenne seulement de la tisane.  
-- Monsieur, dit alors Lako, parlant pour la première fois depuis qu'on l'avait 
+- Monsieur, dit alors Lako, parlant pour la première fois depuis qu'on l'avait 
 rapporté au logis, au bout de ces trois semaines je pourrai jouer du violon, 
 n'est-ce pas ? »  
 Le docteur Mastre détourna la tête et répondit en grommelant :  

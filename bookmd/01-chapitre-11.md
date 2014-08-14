@@ -7,10 +7,10 @@ proférée dans l'appartement voisin :
 C'était la voix de sa mère.  
 Celle de son père répéta aussitôt après :  
 « Oui, c'est un grand malheur ! Une affreuse catastrophe !  
-- Que va devenir ce pauvre Lako ?  
-- Nous ne pouvons nous en charger, cependant, maintenant qu'il n'a plus ni 
+- Que va devenir ce pauvre Lako ?  
+- Nous ne pouvons nous en charger, cependant, maintenant qu'il n'a plus ni 
 parents, ni fortune.  
-- Certes non, nous avons deux enfants, et nous ne sommes pas trop riches. 
+- Certes non, nous avons deux enfants, et nous ne sommes pas trop riches. 
 Ensuite, ce Lako n'est pas notre parent. Cette malheureuse Mabel n'était que 
 sa belle-mère. »  
 Ici, nouveaux. soupirs.  
@@ -20,19 +20,19 @@ morte ? »
 Il écouta derechef.  
 « Pauvre Mabel ! reprit M. Harmanay ; après tout, elle était la femme 
 de mon demi-frère, et je crois qu'elle nous affectionnait.  
-- Et puis, mourir noyée, c'est une fin affreuse ! »  
+- Et puis, mourir noyée, c'est une fin affreuse ! »  
 Marcel n'en entendit pas davantage : courant, éperdu, à travers la maison, 
 il entra comme un fou dans la salle d'étude, où Lako faisait réciter une 
 leçon à Suzanne, et il leur cria :  
 « Hélas ! quel malheur !  
-- Qu'y a-t-il ? Quel malheur ? Que veux-tu dire ? Voyons, parle vite...  
-- Tante Drake !...  
-- Eh bien ? Tante Drake ? Est-elle malade ?  
-- Hélas ! Elle est morte !  
-- Que dis-tu ? demanda Lako qui se dressa blanc comme un linge.  
-- Il ne sait pas ce qu'il raconte, s'empressa de dire Marine qui assistait à 
+- Qu'y a-t-il ? Quel malheur ? Que veux-tu dire ? Voyons, parle vite...  
+- Tante Drake !...  
+- Eh bien ? Tante Drake ? Est-elle malade ?  
+- Hélas ! Elle est morte !  
+- Que dis-tu ? demanda Lako qui se dressa blanc comme un linge.  
+- Il ne sait pas ce qu'il raconte, s'empressa de dire Marine qui assistait à 
 cette scène et qui avait plus de tact que son frère.  
-- C'est vrai, tante Drake est morte ; elle s'est noyée ; papa et maman 
+- C'est vrai, tante Drake est morte ; elle s'est noyée ; papa et maman 
 sont en bas qui pleurent. »  
 Sans en entendre davantage, Lako marcha comme un automate jusqu'à la chambre 
 de son oncle.
@@ -45,13 +45,13 @@ M. et Mme Harmanay le regardèrent.
 t'a instruit de cette affreuse catastrophe ? »  
 Mais Lako n'ouvrit plus la bouche et tomba comme une masse.  
 « Méchant sot ! s'écria Suzanne en s'adressant à Marcel.  
-- Imbécile ! ajouta Marine, car les trois cousins avaient suivi le jeune 
+- Imbécile ! ajouta Marine, car les trois cousins avaient suivi le jeune 
 Drake.  
-- Marcel s'est trompé, n'est-ce pas, tante ? disait en pleurant la petite 
+- Marcel s'est trompé, n'est-ce pas, tante ? disait en pleurant la petite 
 Suzanne, tandis qu'on donnait des soins à Lako couché sur un divan. Il ne 
 peut pas être tout à fait orphelin ! C'est trop dur ! C'est trop 
 triste ! Il serait tout seul au monde.  
-- Hélas ! mes enfants, c'est la vérité même ; seulement Marcel a eu 
+- Hélas ! mes enfants, c'est la vérité même ; seulement Marcel a eu 
 tort de nous devancer et de lui annoncer si brusquement cette nouvelle. Enfin, 
 le plus pénible est fait, et maintenant que le pauvre garçon sait tout, il ne 
 nous reste qu'à le consoler le mieux possible. Tenez, le voilà qui rouvre les 
@@ -84,23 +84,23 @@ En apprenant la terrible nouvelle de la mort de Mme Drake, tante Anne demeura
 un instant frappée de stupeur, les mains croisées sur ses genoux, dans une 
 attitude douloureuse.  
 « Et pourtant, murmura-t-elle enfin, si le journal se trompait ?  
-- Comment voulez-vous qu'il se trompe ? répliqua Mme Harmanay en réprimant 
+- Comment voulez-vous qu'il se trompe ? répliqua Mme Harmanay en réprimant 
 un mouvement d'épaule. Comment aurait-on mis le nom de Mabel sur la liste des 
 victimes si elle ne se trouvait pas sur le bateau ?  
-- Hélas ! » soupira la veuve, se rendant à l'évidence.  
+- Hélas ! » soupira la veuve, se rendant à l'évidence.  
 Puis, au bout d'une minute de silence pendant laquelle chacun réfléchissait 
 tristement :  
 « Pourquoi Mabel ne nous avait-elle pas annoncé qu'elle quittait Bombay et 
 revenait en France ?  
-- Elle était un peu originale, ma belle-sœur, vous le savez bien, tante Anne, 
+- Elle était un peu originale, ma belle-sœur, vous le savez bien, tante Anne, 
 répliqua M. Harmanay.
-- Quand elle nous est arrivée, il y a dix-huit mois environ, nous a-t-elle 
+- Quand elle nous est arrivée, il y a dix-huit mois environ, nous a-t-elle 
 prévenus autrement que par un télégramme lancé de Marseille, quelques 
 heures avant de faire son entrée à la Fauconnière ? ajouta Mme Harmanay.  
-- C'est vrai, soupira tante Aune qui se raccrochait à toutes les espérances, 
+- C'est vrai, soupira tante Aune qui se raccrochait à toutes les espérances, 
 même les plus frêles ; et pourtant, je ne sais pourquoi, je doute 
 encore !  
-- Vous avez tort, dit M. Harmanay, car ce pauvre Lako va se bercer d'illusions 
+- Vous avez tort, dit M. Harmanay, car ce pauvre Lako va se bercer d'illusions 
 superflues. D'ailleurs, pour ne conserver aucune arrière-pensée à cet 
 égard, je vais écrire tout de suite au consulat d'Angleterre et au Ministère 
 de la marine. »  
@@ -135,7 +135,7 @@ atterrés que lui.
 « J'ai une petite rente, m'a-t-on dit ; n'aie pas peur, lui murmura 
 Suzanne à l'oreille ; je partagerai tout ce que je possède avec toi et avec 
 tante Anne.  
-- Non, répondit Lako d'un ton ferme tout en l'embrassant ; je gagnerai ma 
+- Non, répondit Lako d'un ton ferme tout en l'embrassant ; je gagnerai ma 
 vie et je veux me mettre à travailler dès maintenant. »  
 Pauvre enfant ! il n'avait pas quinze ans !  
 Personne, toutefois, n'avait parlé de Blanc-Blanc, le bon nègre, qui avait 

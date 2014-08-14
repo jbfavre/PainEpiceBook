@@ -37,36 +37,36 @@ travail, et elle touchait sans permission aux livres de la bibliothèque.
 
 « Alors, tante Anne, dit la petite fille désolée, il faut absolument 
 appeler le médecin auprès de Romulus.  
-— Le médecin ? Tu veux dire le vétérinaire.  
-— Oui, c'est la même chose, puisque le médecin des animaux s'appelle ainsi, 
+— Le médecin ? Tu veux dire le vétérinaire.  
+— Oui, c'est la même chose, puisque le médecin des animaux s'appelle ainsi, 
 murmura Suzanne en remettant le gros livre où elle l'avait pris et en 
 dégringolant de son échelle.  
-— Mais... une visite pour cet animal,... cela coûtera cher.  
-— Voyons, tante Anne, en ce cas il n'y a pas d'économie à faire. Si je 
+— Mais... une visite pour cet animal,... cela coûtera cher.  
+— Voyons, tante Anne, en ce cas il n'y a pas d'économie à faire. Si je 
 prenais une fluxion de poitrine, moi, ne tenteriez-vous pas tout pour me 
 sauver ?  
-— Tu ne vas pas te comparer à Romulus, je suppose ? s'écria la vieille 
+— Tu ne vas pas te comparer à Romulus, je suppose ? s'écria la vieille 
 dame scandalisée.  
-— Non certes, reprit l'enfant d'une voix douce et insinuante. Mais voyons, 
+— Non certes, reprit l'enfant d'une voix douce et insinuante. Mais voyons, 
 tante Anne, un bon mouvement,... faisons venir le vétérinaire.  
-— Ma mignonne, jamais ton oncle ni ta tante ne consentiront à faire une 
+— Ma mignonne, jamais ton oncle ni ta tante ne consentiront à faire une 
 dépense qu'ils regarderont comme inutile.  
-— Aussi n'est-ce pas sur eux que je compte. Écoutez, tante : vous avez 
+— Aussi n'est-ce pas sur eux que je compte. Écoutez, tante : vous avez 
 l'habitude de me faire un petit cadeau pour mon anniversaire de naissance, 
 n'est-ce pas ?  
-— Oui, et voici que le moment de m'exécuter approche ; est-ce pour me le 
+— Oui, et voici que le moment de m'exécuter approche ; est-ce pour me le 
 rappeler, fillette ?  
-— Oh ! fit Suzanne, vous me croyez donc si indiscrète, tante Anne ? Je 
+— Oh ! fit Suzanne, vous me croyez donc si indiscrète, tante Anne ? Je 
 voulais seulement vous prier de ne rien me donner cette année, et... à la 
 place,... à la place...  
-— Je te devine : tu voudrais que je fisse soigner ton singe.  
-— Le singe de Lako, corrigea l'enfant terrible. Oui, tante Anne. Enfin, 
+— Je te devine : tu voudrais que je fisse soigner ton singe.  
+— Le singe de Lako, corrigea l'enfant terrible. Oui, tante Anne. Enfin, 
 acceptez-vous ma combinaison ?  
-— Nous allons voir d'abord comment va tourner cette maladie, et soigner 
+— Nous allons voir d'abord comment va tourner cette maladie, et soigner 
 nous-mêmes la pauvre bête ; si nous voyons que le mal empire, nous aurons 
 alors recours au vétérinaire. Mais je ne veux pas que pour cette raison tu te 
 détournes une minute de ton travail.  
-— Non, tante, je vous promets de ne m'occuper de Romulus que pendant mes 
+— Non, tante, je vous promets de ne m'occuper de Romulus que pendant mes 
 récréations. Merci, tante Anne ! Que vous êtes bonne, comme 
 toujours ! » s'écria Suzanne en sautant au cou de la vieille dame.  
 La fillette tint parole, cacha son inquiétude pendant ses leçons et se mit à 

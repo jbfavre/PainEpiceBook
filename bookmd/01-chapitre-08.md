@@ -23,10 +23,10 @@ hall ; elle a trop froid dehors. Soyez tranquille, elle ne vous fera pas de
 mal. »  
 La bonne obéit et alla dire à Mlle Irma :  
 « Mam'zelle, c'est la petite mam'zelle de la Fauconnière.  
-— Mademoiselle Marine ? demanda l'excellente fille sans empressement.  
-— Ah ! Dieu non, par bonheur ! C'est l'autre, la gentille, la petite 
+— Mademoiselle Marine ? demanda l'excellente fille sans empressement.  
+— Ah ! Dieu non, par bonheur ! C'est l'autre, la gentille, la petite 
 mam'zelle Suzanne.  
-— Vraiment ! la chère mignonne ! Faites-la vite entrer, Jenny ; je 
+— Vraiment ! la chère mignonne ! Faites-la vite entrer, Jenny ; je 
 serai bien aise de la voir. »  
 Jenny obéit, et Suzanne Frézelle se précipita dans le boudoir, où la bonne 
 demoiselle tricotait des vêtements pour les pauvres devant un bon feu de bois. 
@@ -36,47 +36,47 @@ demoiselle tricotait des vêtements pour les pauvres devant un bon feu de bois.
 
 « Comment vont vos rhumatismes, mademoiselle ? demanda Suzanne qui était 
 très bien élevée.  
-— Pas bien, mon enfant, pas très bien. Ah ! quand on avance en âge !... 
+— Pas bien, mon enfant, pas très bien. Ah ! quand on avance en âge !... 
 Et ta tante Anne ?... Souffrante aussi ?... Ah ! pauvres de nous ! 
 Es-tu heureuse d'être jeune et ingambe !... Mais, assez parlé de ma vieille 
 personne. Qu'est-ce qui me vaut l'honneur de ta visite ? »  
 Suzanne se troubla un peu.  
 « Mademoiselle , commença-t-elle, vous êtes très bonne, n'est-ce-pas ?
-— J'essaie de l'être, au moins, répondit la vieille fille en souriant ; 
+— J'essaie de l'être, au moins, répondit la vieille fille en souriant ; 
 mais je crois bien que dans le pays on surfait ma réputation.  
-— Non, non, je sais que vous êtes très bonne ; tante Anne l'a dit, et 
+— Non, non, je sais que vous êtes très bonne ; tante Anne l'a dit, et 
 tout ce qu'elle dit est la vérité.  
-— Je l'espère bien, fit Mlle Irma en souriant. Mais où veux-tu en 
+— Je l'espère bien, fit Mlle Irma en souriant. Mais où veux-tu en 
 venir ? »
 Suzanne prit son courage a deux mains :  
 « Mademoiselle, reprit-elle, me permettez-vous de venir faire chez vous une 
 sottise que je ne peux pas faire à la Fauconnière ?  
-— Explique-toi mieux, répliqua la maîtresse de _Bon-Repos_, qui tenta de 
+— Explique-toi mieux, répliqua la maîtresse de _Bon-Repos_, qui tenta de 
 prendre un air sévère.  
-— Voici : il s'agit d'un enlèvement. »  
+— Voici : il s'agit d'un enlèvement. »  
 Mlle Irma bondit sur son fauteuil.  
 « Qu'est-ce que tu me racontes là, mon enfant ? demanda-t-elle effrayée.  
-— Attendez, vous allez comprendre. Vous connaissez Lako ?  
-— Oui, un, charmant petit garçon ; mais il est au lycée.  
-— Oui, et c'est bien ennuyeux pour lui et pour moi. Mais connaissez-vous 
+— Attendez, vous allez comprendre. Vous connaissez Lako ?  
+— Oui, un, charmant petit garçon ; mais il est au lycée.  
+— Oui, et c'est bien ennuyeux pour lui et pour moi. Mais connaissez-vous 
 aussi Sweet-heart ?  
-— Qu'est-ce que cela ?  
-— Une tigresse apprivoisée qu'il a ramenée de Bombay.  
-— En effet, je me rappelle l'avoir entrevue à ma dernière visite à la 
+— Qu'est-ce que cela ?  
+— Une tigresse apprivoisée qu'il a ramenée de Bombay.  
+— En effet, je me rappelle l'avoir entrevue à ma dernière visite à la 
 Fauconnière. Oui, une jolie bête, un beau pelage !...  
-— N'est-ce pas ? fit Suzanne, rayonnante. Eh, bien, mademoiselle, cette 
+— N'est-ce pas ? fit Suzanne, rayonnante. Eh, bien, mademoiselle, cette 
 bête, qui est intelligente, bien élevée et affectueuse, Lako l'aime, tante 
 Anne l'aime, je l'aime...  
-— Vraiment ?  
-— Mais mon oncle et ma tante la détestent, et Marine lui veut du mal, sans 
+— Vraiment ?  
+— Mais mon oncle et ma tante la détestent, et Marine lui veut du mal, sans 
 compter Marcel qui est méchant pour tous les animaux.  
-— C'est afin de me raconter cela que tu es venue à _Bon-Repos_, par ce temps 
+— C'est afin de me raconter cela que tu es venue à _Bon-Repos_, par ce temps 
 de neige ?  
-— Vous allez voir, mademoiselle, et il faut que je me dépêche, car à la 
+— Vous allez voir, mademoiselle, et il faut que je me dépêche, car à la 
 Fauconnière on ne doit pas savoir ce que je suis devenue.  
-— Cependant tu n'es pas ici sans permission, je suppose ? Qui t'a 
+— Cependant tu n'es pas ici sans permission, je suppose ? Qui t'a 
 accompagnée ?  
-— Sweet-heart ! » répondit l'enfant d'une voix douce, un peu craintive. 
+— Sweet-heart ! » répondit l'enfant d'une voix douce, un peu craintive. 
 Puis, se redressant à la vue du geste de reproche de son interlocutrice :  
 « Mais Sweet-heart est un aussi bon chaperon que... François, par exemple, 
 qui fume sa pipe tout le long du chemin et parle à tous les charretiers qu'il 
@@ -99,7 +99,7 @@ Celle-ci s'amusait beaucoup.
 « Alors, continua l'enfant sans sourciller, comme à la Fauconnière ils 
 cherchent à faire le plus de peine possible à ce pauvre Lako, ils ont 
 condamné à mort la malheureuse Sweet-heart.  
-— Condamnée à mort ?... Elle les a donc mordus ? »  
+— Condamnée à mort ?... Elle les a donc mordus ? »  
 Suzanne eut un geste indignée :  
 « Sweet-heart ?... Elle n'a jamais donné un coup de dent, ni un coup de 
 patte, ni un coup de queue même. Mais ma cousine prétend que cette pauvre 
@@ -108,12 +108,12 @@ terreurs qui lui donnent des cauchemars pendant la nuit. Alors ma tante
 Harmanay a décrété qu'elle ne voulait pas d'émotions pour sa fille, et 
 qu'on se déferait de Sweet-heart, profitant pour cela de l'absence de Lako et 
 de tante Drake.  
-— Et toi, mignonne, qu'as-tu décrété ? » demanda Mlle Irma qui 
+— Et toi, mignonne, qu'as-tu décrété ? » demanda Mlle Irma qui 
 retenait un fou rire. Car, comme toutes les natures simples, bonnes et douces, 
 elle était très gaie.  
 « Moi, je me suis promis de sauver la vie à mon amie.
-— Et tu me l'amènes ?  
-— Je l'ai enlevée à sa niche, répondit triomphalement Suzanne, et je suis 
+— Et tu me l'amènes ?  
+— Je l'ai enlevée à sa niche, répondit triomphalement Suzanne, et je suis 
 venue chez vous avec elle en me disant : « Mademoiselle Irma est si 
 charitable qu'elle ne refusera pas de prendre Sweet-heart en pension chez elle 
 jusqu'au retour de tante Drake... »  
@@ -127,15 +127,15 @@ En voyant pleurer sa petite amie, Sweet-heart vint poser sur son épaule sa
 grosse patte de velours et fit entendre une sorte de ronron douloureux.  
 Touchée de ce désespoir, Mlle Irma reprit :  
 « Elle s'ennuiera chez moi.  
-— Pas plus qu'à la Fauconnière où je ne peux pas souvent lui tenir 
+— Pas plus qu'à la Fauconnière où je ne peux pas souvent lui tenir 
 compagnie ; et puis, elle aura bien chaud ici », ajouta l'enfant en 
 promenant autour d'elle un regard satisfait.  
 Mlle Irma bondit.  
 « Tu ne supposes pas, j'espère, qu'elle habitera mon salon ni ma 
 chambre ?  
-— Non, mais vous avez une bonne cour au midi où on lui mettra la grande 
+— Non, mais vous avez une bonne cour au midi où on lui mettra la grande 
 niche de votre terre-neuve Salammbo qui est mort il y a deux ans.  
-— Tu penses à tout, fit Mlle Irma en souriant. Et pour la 
+— Tu penses à tout, fit Mlle Irma en souriant. Et pour la 
 nourriture ? »  
 Fièrement Suzanne tira de sa poche un petit porte-monnaie très déchiré 
 d'où elle extirpa une grosse pièce, deux petites et plusieurs sous.  
@@ -184,10 +184,10 @@ alourdi de plusieurs kilos de viande :
 « Eh ! eh ! il paraît que votre maîtresse a de nombreux hôtes ? 
 maintenant, nous ne sommes pourtant pas dans la saison où l'on vient à la 
 campagne ; mais il y a des gens que le froid n'épouvante pas.
-— Vous vous trompez, m'sieu Clampin, répondit Denise ; ma maîtresse est 
+— Vous vous trompez, m'sieu Clampin, répondit Denise ; ma maîtresse est 
 toute seule à _Bon-Repos_.  
-— Ah bah ! alors vous avez donc tous pris des appétits féroces ?... fit 
+— Ah bah ! alors vous avez donc tous pris des appétits féroces ?... fit 
 le boucher en riant. Mes compliments ! On ne s'en plaint pas, vous savez !  
-— Eh ! mon Dieu, oui, répliqua Denise avec une certaine fierté ; on se 
+— Eh ! mon Dieu, oui, répliqua Denise avec une certaine fierté ; on se 
 porte bien chez nous, et puis vous n'ignorez pas que le froid aiguise la 
 faim ; or il gèle à pierre fendre ! »

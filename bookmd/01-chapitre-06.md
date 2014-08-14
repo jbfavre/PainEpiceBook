@@ -20,10 +20,10 @@ qui a besoin de grand air et de liberté ; elle n'en aura pas trop, cet
 hiver, enfermée ici avec vous et sans son ami Lako, surtout ! elle ne risque 
 rien : Mimosa est la douceur même ; sans cela l'aurais-je choisi pour 
 promener mon beau-fils ?  
-— C'est vrai ; néanmoins rappelez-vous, Mabel, que, l'autre jour, Marcel 
+— C'est vrai ; néanmoins rappelez-vous, Mabel, que, l'autre jour, Marcel 
 s'est étendu tout son long sur la pelouse, pendant que sa monture faisait feu 
 des quatre pieds.  
-— Ma chère, Marcel est poltron à faire rougir un lièvre ; il n'est donc 
+— Ma chère, Marcel est poltron à faire rougir un lièvre ; il n'est donc 
 pas surprenant qu'il n'ait pas su garder son assiette ; et puis, il est cruel 
 et je le soupçonne d'avoir brutalisé son cheval ; en général, les animaux 
 ne sont méchants que lorsqu'on les maltraite. »  
@@ -37,9 +37,9 @@ Un jour, peu après son arrivée à la Fauconnière, Suzanne Frézelle avait
 demandé timidement à sa cousine qui lui exhibait, triomphante, une superbe 
 poupée :  
 « Est-ce que tu me la prêteras quelquefois ? Je ne te l'abîmerai pas.  
-— Non certes, répondit durement la petite Harmanay ; je ne te prête pas 
+— Non certes, répondit durement la petite Harmanay ; je ne te prête pas 
 mes affaires.  
-— Ah. » fit simplement l'orpheline attristée.  
+— Ah. » fit simplement l'orpheline attristée.  
 Depuis, elle ne demanda plus jamais rien à Marine, pas plus qu'à.Marcel dont 
 la générosité égalait celle de sa sœur.  
 Ces dernières semaines d'été qui succédèrent au départ de tante Drake et 
@@ -123,7 +123,7 @@ Sous l'écrin, une carte portait ces mots :
 léger souvenir pour son anniversaire de naissance. »  
 De rose qu'elle était, Suzanne devenait rouge comme un petit coq, tant la joie 
 la suffoquait.  
-Songez donc : une montre ! — et en or encore, et la plus jolie qu'elle 
+Songez donc : une montre ! – et en or encore, et la plus jolie qu'elle 
 eût jamais vue !  
 Elle qui n'espérait pas en avoir de plusieurs années au moins, personne 
 autour d'elle n'étant assez riche ou assez généreux pour lui faire ce 

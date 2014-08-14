@@ -36,7 +36,7 @@ de précautions pour apprendre à Lako la prétendue mort de sa maman : il
 sera très amusant de voir leur figure quand ils se trouveront en présence de 
 Mrs Drake qu'ils croyaient morte ; une émotion n'est pas à craindre pour 
 eux, car ils n'ont pas le cœur tendre.
-- Suzanne. tais-toi ! » fit tante Anne.
+- Suzanne. tais-toi ! » fit tante Anne.
 
 ![La famille Harmanay fit son entrée.](../images/page185.jpg)
 
@@ -46,7 +46,7 @@ Un beau matin, les Harmanay, que l'on savait de passage à Paris, furent tout
 de l'avenue Victor-Hugo ; ils n'en crurent pas leurs yeux et haussèrent les 
 épaules.  
 « C'est encore un tour de cette malicieuse Suzanne, dit Marine.  
-- Lako ?... Lako, dans un hôtel à lui ? s'écria Mme Harmanay. C'est une 
+- Lako ?... Lako, dans un hôtel à lui ? s'écria Mme Harmanay. C'est une 
 plaisanterie : il gagne sa vie avec son archet, le pauvre garçon ; lui, sa 
 tante et sa cousine vivent dans la gêne. »  
 Cependant, depuis quelques minutes, Marcel flairait et examinait le billet de 
@@ -54,12 +54,12 @@ Lako.
 « Où a-t-il pris ce joli papier ? murmura le jeune garçon ; je n'en ai 
 jamais vu de si beau, et, bien sûr, ce n'est ni tante Anne, ni Suzanne qui en 
 ont de semblable. Tout de même, maman, si Lako était redevenu riche ?  
-- Quelle bêtise ! fit Mme Harmanay déjà un peu ébranlée... Toutefois, 
+- Quelle bêtise ! fit Mme Harmanay déjà un peu ébranlée... Toutefois, 
 mes enfants, s'il vous est agréable d'aller embrasser vos cousins et votre 
 tante Anne, je vous conduirai volontiers chez eux.  
-- Nous aurons toujours l'explication de cette lettre et de l'invitation qu'elle 
+- Nous aurons toujours l'explication de cette lettre et de l'invitation qu'elle 
 renferme, ajouta Marcel.  
-- Et si le petit drôle s'est moqué de nous, conclut M. Harmanay, c'est à moi 
+- Et si le petit drôle s'est moqué de nous, conclut M. Harmanay, c'est à moi 
 qu'il aura affaire ! »  
 Le même jour, donc, entre cinq et six heures, M. Harmanay et son auguste 
 famille firent leur entrée dans la jolie maison de l'avenue Victor-Hugo.  
@@ -67,7 +67,7 @@ Dans le hall, ils aperçurent Blanc-Blanc, digne, correct et magnifique dans sa
 livrée rouge.  
 « Tiens ! Blanc-Blanc ! s'écria Marine ; il est donc revenu en 
 France ?  
-- Probablement, puisque nous le trouvons à Paris, ma chère sœur », 
+- Probablement, puisque nous le trouvons à Paris, ma chère sœur », 
 riposta Marcel en répondant à peine au salut respectueux du nègre.  
 
 ![Suzanne était compatissante.](../images/page187.jpg)
@@ -79,9 +79,9 @@ réellement chez... chez M. Drake ? »
 La pauvre femme avait une telle peur d'une méprise, qu'elle osait à peine 
 articuler le nom de Lako.  
 « Et chez Madame également, répliqua le domestique.  
-- Chez Mme Anne ?...  
-- Chez Mme Drake.  
-- Lako est donc marié ? » s'écria étourdiment Marine quand le valet eut 
+- Chez Mme Anne ?...  
+- Chez Mme Drake.  
+- Lako est donc marié ? » s'écria étourdiment Marine quand le valet eut 
 disparu.  
 Cette réflexion fit rire de bon cœur M. Harmanay et son fils, mais Mme 
 Harmanay ne se dérida pas.  
@@ -97,11 +97,11 @@ l'admiration. Enfin, Lako parut à son tour, beau comme un petit prince, grandi
 et également radieux.  
 « Vous avez donc fait un héritage ? leur dit Mme Harmanay d'un ton un peu 
 aigre.  
-- Oui, oui, se hâta de répondre Suzanne.  
-- Oh ! yes, yes ! répéta une voix derrière elle, une voix qui fit bondir 
+- Oui, oui, se hâta de répondre Suzanne.  
+- Oh ! yes, yes ! répéta une voix derrière elle, une voix qui fit bondir 
 les quatre Harmanay comme s'ils eussent subi une décharge électrique.  
-- Mabel !  
-- Tante Drake ! »  
+- Mabel !  
+- Tante Drake ! »  
 Vraiment heureux, M. Harmanay ouvrit les bras à sa belle-sœur, tandis que sa 
 femme, pétrifiée, passait du rose au blanc, du blanc au rouge, du rouge au 
 violet, pour reprendre sa couleur naturelle ; à son tour, elle tomba dans 
@@ -118,10 +118,10 @@ glissèrent dans ses rides, et Suzanne s'écria en baisant ses cheveux
 blancs :  
 « Tante Anne, il ne faut plus penser à cela ! Les mauvais jours sont 
 finis !  
-- Oui, oui, ce qui est passé est passé, ajouta d'un ton dégagé Mme 
+- Oui, oui, ce qui est passé est passé, ajouta d'un ton dégagé Mme 
 Harmanay, qui s'intéressait médiocrement aux souffrances d'autrui. Et alors 
 vous gardez Suzanne ? ajouta-t-elle en désignant la fillette.
-- Je crois bien ! Que ferions-nous sans cette gentille petite fille qui est 
+- Je crois bien ! Que ferions-nous sans cette gentille petite fille qui est 
 la joie de la maison ? »  
 Vous comprenez qu'on retint à dîner les Harmanay, et je vous laisse à penser 
 si ce repas de famille fut égayé par Suzanne et par tante Drake.  
@@ -131,9 +131,9 @@ d'envie :
 « Faut-il qu'ils aient de la chance, ces gens-la ! (ces gens-là 
 désignaient surtout tante Anne et Suzanne Frézelle.) Devenir millionnaires 
 comme cela, tout d'un coup !  
-- Moi, j'en suis bien aise pour eux ; ils ont passé de si mauvais 
+- Moi, j'en suis bien aise pour eux ; ils ont passé de si mauvais 
 moments ! s'écria Marine avec gentillesse.  
-- Bah ! pour ce que ça nous rapporte, à nous ! » ajouta l'égoïste 
+- Bah ! pour ce que ça nous rapporte, à nous ! » ajouta l'égoïste 
 Marcel.  
 Les pauvres sans nombre que secoururent les Drake, n'en dirent pas autant, 
 eux : ils bénirent bien haut les deux bonnes dames, le beau garçonnet et la 

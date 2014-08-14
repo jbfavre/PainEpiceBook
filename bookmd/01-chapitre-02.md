@@ -10,16 +10,16 @@ Mme Anne interrompit doucement le babillage de la petite fille, qui marchait à
 côté d’elle en portant un pliant et un panier à ouvrage.  
 « Ainsi, tu n’éprouves aucun regret, mignonne, d’avoir manqué cette 
 partie au Vieux-Château ?... Bien, bien sûr ?  
-— Oh ! tante, répondit Suzanne en esquissant une gambade qui compromit 
+— Oh ! tante, répondit Suzanne en esquissant une gambade qui compromit 
 l’équilibre du panier et du pliant, je suis contente d’être punie !  
-— Il ne faut pas dire d’être punie, ma chérie, mais d’être restée 
+— Il ne faut pas dire d’être punie, ma chérie, mais d’être restée 
 avec ta pauvre vieille grand’tante. »  
 Le petit minois espiègle de Suzanne essaya de prendre un air grave.  
 « Mais non, ma tante : je vous assure que j’aime beaucoup mieux votre 
 compagnie que celle de... des autres. D’abord, je connais le 
 Vieux-Château ; ensuite, tout le long de la route, Marcel et Marine 
 m’auraient taquinée ; mon oncle ne m’aurait pas permis de conduire....  
-— Je crois bien ! s’exclama tante Anne en riant : pour les faire verser 
+— Je crois bien ! s’exclama tante Anne en riant : pour les faire verser 
 dans une ornière ! »  
 Suzanne se redressa offensée.  
 « Tante, je vous assure que je n’ai jamais fait verser personne : et du 
@@ -40,16 +40,16 @@ tante ?
 
 ![« C’est demain qu’ils arrivent ! »](../images/page021.jpg)
 
-— Non, répondit la vieille dame. Après le dessert j’ai attendu un 
+— Non, répondit la vieille dame. Après le dessert j’ai attendu un 
 instant, croyant que François allait l’apporter, mais comme il n’y avait 
 que moi pour en prendre, on n’en aura sans doute pas fait. Oh ! petite, 
 qu’importe ? c’est du superflu, cela, et pour une fois... !  
-— Pour une fois ! pour une fois ! répéta l’enfant indignée ; 
+— Pour une fois ! pour une fois ! répéta l’enfant indignée ; 
 c’est toujours comme cela quand nous sommes seules à déjeuner, et vous avez 
 mal à la tête lorsque votre café vous manque. Oh ! pauvre tante ! vous 
 vous figurez qu’ils s’en privent à la cuisine ! Vous pouvez bien être 
 persuadée qu’ils se servent le meilleur, allez !  
-—— N’importe, fit Mme Anne un peu inquiète du ton agressif de la petite 
+-- N’importe, fit Mme Anne un peu inquiète du ton agressif de la petite 
 fille ; surtout ne dis rien, ne réclame pas ; nous ne sommes pas les 
 maîtresses de la Fauconnière, ne l’oublie pas ! »  
 Suzanne eut un sourire malicieux ; lorsqu’elles furent arrivées à un 
@@ -109,14 +109,14 @@ la charmille parut la figure rouge et rayonnante de Suzette suivie à distance
 respectueuse par Tombola.  
 « Que m’apportes-tu là, ma petite fille ? s’écria la vieille dame en 
 bondissant presque de son siège.  
-— Votre café, tante Anne, répondit Suzanne avec sang-froid. On avait 
+— Votre café, tante Anne, répondit Suzanne avec sang-froid. On avait 
 oublié de vous le servir ; aussi je suis allé le chercher. Il ne faut pas 
 que vous ayez mal a la tête aujourd’hui, car vous allez me raconter de 
 belles histoires, n’est-ce pas ?
 
 ![L'enfant s'installa près de sa tante](../images/page025.jpg)
 
-— Oui, mignonne. Allons, te remercie ; tu es une petite fille 
+— Oui, mignonne. Allons, te remercie ; tu es une petite fille 
 attentionnée. Tu vas jouer et courir un moment, car les enfants ont besoin 
 d’exercice, et puis tu viendras t’asseoir près de moi. »  
 Suzanne obéit ; toujours suivie de Tombola, elle entreprit une course folle 
@@ -131,32 +131,32 @@ s’apprêta à faire un somme.
 Tombola se nommait ainsi parce que les Harmanay l’avaient gagné à une 
 loterie lorsqu’il était encore tout petit.  
 « Ainsi, mignonne, tu veux une histoire ? demanda Mme Anne.  
-— Oui, tante, s’il vous plaît. Mais auparavant donnez-moi quelques 
+— Oui, tante, s’il vous plaît. Mais auparavant donnez-moi quelques 
 détails sur Mrs Drake et Lako. »  
 Mme Anne sourit finement :  
 « Elle était bien originale lorsque je l’ai connue, il y a une dizaine 
 d’années, reprit-elle, cette bonne Mabel ; en a-t-elle joué des 
 tours ! »  
-— C’était donc un « garçon manqué » comme moi ? » dit très 
+— C’était donc un « garçon manqué » comme moi ? » dit très 
 sérieusement la petite Frézelle.  
 La tante rit de bon cœur.  
 « Non, fillette ; du moins pas il y a dix ans, car elle en avait alors 
 déjà quarante ; mais ta tante Drake, qui est ma cousine, a son franc-parler 
 comme une Américaine, quoiqu’elle ne soit pourtant qu’à moitié Anglaise. 
  
-— Pourquoi _à moitié_, tante Anne ?  
-— Elle a vu le jour et a passé toute sa jeunesse sur la terre de France, ma 
+— Pourquoi _à moitié_, tante Anne ?  
+— Elle a vu le jour et a passé toute sa jeunesse sur la terre de France, ma 
 chérie, mais sa mère, qui était originaire de Londres, l’a mariée à un 
 riche Anglais veuf, établi depuis longtemps dans l’Inde.  
-— Ce doit être beau, l’Inde ! soupira Suzanne ; j’aimerais a voir ce 
+— Ce doit être beau, l’Inde ! soupira Suzanne ; j’aimerais a voir ce 
 pays.  
-— Tu demanderas à ta tante Drake de te le dépeindre, et aussi à Lako 
+— Tu demanderas à ta tante Drake de te le dépeindre, et aussi à Lako 
 qu’elle amène avec elle.  
-— C’est un petit garçon, tante Anne ? Est-il gentil, Lako ?  
-— Il m’est impossible, ma mignonne, de te donner sur celui-ci le moindre 
+— C’est un petit garçon, tante Anne ? Est-il gentil, Lako ?  
+— Il m’est impossible, ma mignonne, de te donner sur celui-ci le moindre 
 renseignement. Je ne l’ai jamais vu et j’ai même oublié quel peut-être 
 son âge. Il sera pour moi comme pour toi un inconnu.  
-— Pourvu que Marcel et Marine soient aimables pour ce nouveau venu ! 
+— Pourvu que Marcel et Marine soient aimables pour ce nouveau venu ! 
 murmura Suzanne qui avait ses raisons d’en douter. Mon oncle et ma tante 
 Harmanay ne les grondent jamais quand ils sont méchants pour vous ou pour moi, 
 tante Anne ; ils ne se gêneront donc pas pour maltraiter Lako et même 

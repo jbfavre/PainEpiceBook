@@ -60,18 +60,18 @@ leurs douleurs dès que l'adolescent posait l'archet sur la corde.
 « Pauvres enfants, murmurait parfois tante Anne en les contemplant, vous 
 n'étiez pas nés pour vivre aussi pauvrement, toi surtout, mon Lako, qui n'as 
 connu jusqu'à présent que le luxe et le bien-être.  
-- Ma chère petite tante, répliquait alors Suzanne toujours prompte à la 
+- Ma chère petite tante, répliquait alors Suzanne toujours prompte à la 
 riposte, nous sommes très contents de notre sort ; donc ne nous plaignez 
 pas, ce serait du temps perdu. Si nous avons un regret, c'est bien plutôt pour 
 vous dont l'âge et la santé exigeraient plus de soins et de confort.  
-- Oh ! moi... fit tante Anne avec un geste d'insouciance.  
-- Susy a raison, ma tante, ajoutait. Lako gravement ; il n'est pas si 
+- Oh ! moi... fit tante Anne avec un geste d'insouciance.  
+- Susy a raison, ma tante, ajoutait. Lako gravement ; il n'est pas si 
 regrettable pour nous de n'être pas riches. Mon professeur me répète souvent 
 qu'il est aussi funeste pour un homme de ne manquer de rien que de manquer de 
 tout. Or nous n'en sommes heureusement pas encore là !  
-- Hélas ! il ne faudrait qu'une maladie ! pensa douloureusement la vieille 
+- Hélas ! il ne faudrait qu'une maladie ! pensa douloureusement la vieille 
 dame.  
-- Et, continua Lako, je pourrai bientôt commencer à gagner un peu 
+- Et, continua Lako, je pourrai bientôt commencer à gagner un peu 
 d'argent ; mon maître me l'a dit. Alors, pauvre tante Anne ! vous 
 laisserez de côté ces méchants ouvrages qui vous fatiguent les yeux ; vous 
 aurez une bonne pour vous servir ; Susy n'abîmera plus ses doigts mignons à 
