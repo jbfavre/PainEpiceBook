@@ -1,17 +1,17 @@
 ## La ménagerie de tante Drake
 
-L’arrivée de Mme Drake fut pour la famille Harmanay une véritable 
+L’arrivée de M^me^ Drake fut pour la famille Harmanay une véritable 
 catastrophe ! Tout fut bouleversé dans la tranquille demeure de la 
 Fauconnière, si peu habituée au bruit et au mouvement.  
-En se plaçant au point de vue de leur égoïste amour du calme, M. et Mme 
+En se plaçant au point de vue de leur égoïste amour du calme, M. et M^me^ 
 Harmanay avaient eu bien raison en s’effrayant des conséquences qu’allait 
 avoir pour eux l’arrivée de leur parente.
-M. Harmanay, l’homme paisible par excellence, qui ne se réveillait que pour 
+M. Harmanay, l’homme paisible par excellence, qui ne se réveillait que pour 
 jouer aux dominos, faillit en faire une maladie ; sa femme eut presque la 
 jaunisse ; quant à leurs enfants ils n’osèrent formuler tout de suite les 
 remarques désagréables qui leur vinrent à l’esprit à l’irruption des 
 « Hindous ».  
-Ce fut un mémorable après-midi que celui où Mme Drake et sa suite 
+Ce fut un mémorable après-midi que celui où M^me^ Drake et sa suite 
 débarquèrent à la Fauconnière.  
 D’une grande berline de voyage comme on n’en rencontre plus guère qu’à 
 la campagne et chez certaines gens très retirées, sortit une grande femme aux 
@@ -40,24 +40,24 @@ tranquille.
 
 ![Madame Drake et sa suite.](../images/page031.jpg)
 
-« Dieu ! qu’est-ce que cela ? » s’écria Mme Harmanay, pâle 
+« Dieu ! qu’est-ce que cela ? » s’écria M^me^ Harmanay, pâle 
 d’effroi, en désignant le groupe qui se tenait en bas du perron.  
-Mme Drake se retourna :
+M^me^ Drake se retourna :
 
 « Cela, c’est mon beau-fils, mon cher petit Lako ; j’allais vous le 
-présenter. Approchez, Lako, mon cher enfant ; venez saluer Mme Harmanay, 
+présenter. Approchez, Lako, mon cher enfant ; venez saluer M^me^ Harmanay, 
 notre hôtesse.
-— Je veux dire... cet animal », reprit la maîtresse de céans qui 
+— Je veux dire… cet animal », reprit la maîtresse de céans qui 
 indiquait _Sweet-heart_.  
 Mistress Drake rit bien haut en montrant ses longues dents :
 
-« _Sweet-heart_ ?... (Doux-Cœur), l’amie intime de Lako, une jeune 
-tigresse parfaitement apprivoisée et fort bien élevée, qui....  
+« _Sweet-heart_ ?… (Doux-Cœur), l’amie intime de Lako, une jeune 
+tigresse parfaitement apprivoisée et fort bien élevée, qui….  
 — Mais je ne veux pas de cette horrible bête sous mon toit ! s’écria 
-avec effroi Mme Harmanay. Elle nous fera des peurs terribles et pourra mordre 
+avec effroi M^me^ Harmanay. Elle nous fera des peurs terribles et pourra mordre 
 mes enfants. Je ne puis supporter une tigresse chez moi ! »
 
-Sans se laisser déconcerter, Mme Drake haussa légèrement les épaules et 
+Sans se laisser déconcerter, M^me^ Drake haussa légèrement les épaules et 
 répondit :
 
 « Je vous répète que vous n’avez rien à craindre ; l’aurais-je 
@@ -65,12 +65,12 @@ amenée, sans cela ? et laisserais-je mon petit Lako jouer sans cesse avec
 elle ? D’ailleurs elle ne couchera pas dans votre maison ; mon nègre 
 Blanc-Blanc, qui est très habile, lui construira une niche dans la cour. »
 
-Et, passant d'un sujet à un autre avec la volubilité qui semblait la 
+Et, passant d’un sujet à un autre avec la volubilité qui semblait la 
 caractériser, la bonne dame se dirigea vers tante Anne, qu’elle embrassa 
 dans une étreinte affectueuse.
 
-« Cette chère cousine et amie ! quel bonheur de la revoir !... Nous 
-nous sommes tant aimées !... Ah ! nous allons renouer les bonnes 
+« Cette chère cousine et amie ! quel bonheur de la revoir !… Nous 
+nous sommes tant aimées !… Ah ! nous allons renouer les bonnes 
 conversations d’autrefois. Tiens ! tiens ! nous avons vieilli, Anne ; 
 ma chère, nous n’avons plus nos joues roses ni nos cheveux blonds ; mais 
 c’est la loi de nature, et moi aussi je paie mon tribut aux années. »
@@ -97,8 +97,8 @@ voyage ; un perroquet qui criait à tue-tête : « Donnez le déjeuner à
 Fanfan ; Fanfan a faim, très faim ! » puis un joli chien, _Kiss_, et un 
 singe à l’air malicieux qui répondait au nom de _Romulus_.  
 Sauf la tigresse et Kiss qui avaient pour maître Lako, toute cette ménagerie 
-appartenait à Mme Drake ; encore avait-elle dû sacrifier une partie de ses 
-chers animaux en quittant l’Inde, et avait-elle eu la douleur d'en perdre 
+appartenait à M^me^ Drake ; encore avait-elle dû sacrifier une partie de ses 
+chers animaux en quittant l’Inde, et avait-elle eu la douleur d’en perdre 
 quelques autres pendant la traversée.  
 Tandis que les grandes personnes causaient ensemble au salon où tante Drake 
 s’était débarrassée de son manteau et de ses longs voiles, Suzanne se 
@@ -115,7 +115,7 @@ avec cette figure de pain d’épice ? »
 
 Marine se mit à ricaner :
 
-« Pain d’épice, c’est bien vrai !... quel drôle de petit 
+« Pain d’épice, c’est bien vrai !… quel drôle de petit 
 moricaud ! »
 
 Suzanne, qui avait l’ouïe fine, entendit ce colloque et jeta un regard 
@@ -133,7 +133,7 @@ mignonnes une longue natte de cheveux blonds.
 
 Suzanne lui adressa encore plusieurs questions, mais il ne comprenait pas 
 davantage.  
-Par bonheur pour eux, Mme Drake s’aperçut de leur manège désespéré.
+Par bonheur pour eux, M^me^ Drake s’aperçut de leur manège désespéré.
 
 « Ah ! mignonne, dit-elle en riant ; tu es bien gentille pour Lako, mais 
 il ne comprend encore que l’anglais, et tu n’as pas l’air de connaître 
@@ -148,9 +148,9 @@ reconnaissant.
 
 ![Suzanne prit Lako par la main.](../images/page035.jpg)
 
-« C’est bien ; je vois qu’ils seront bons amis », murmura Mme Drake 
+« C’est bien ; je vois qu’ils seront bons amis », murmura M^me^ Drake 
 avec satisfaction.  
-Puis se tournant vers Mme Anne qui regardait aussi avec amour sa petite nièce, 
+Puis se tournant vers M^me^ Anne qui regardait aussi avec amour sa petite nièce, 
 l’enfant de son cœur, elle ajouta : « N’est-ce pas, cette blondine est 
 la fille de notre pauvre Jeanne, Jeanne Frézelle ? Elle est ma nièce, par 
 conséquent. J’en suis bien aise. Appelez-la donc. »
@@ -162,7 +162,7 @@ lèvres de sa nouvelle tante.
 voiler sa pensée, et d’autant plus qu’elle se montre bonne pour mon petit 
 Lako. »
 
-Suzanne Frézelle leva ses yeux clairs sur Mme Drake et prononça sans 
+Suzanne Frézelle leva ses yeux clairs sur M^me^ Drake et prononça sans 
 hésitation :
 
 « Moi aussi, je vous aime déjà, ma tante, mais pas autant que tante Anne, 
@@ -172,7 +172,7 @@ Lako, vous verrez.
 ici : les fillettes protègent les garçonnets ?  
 — Eh ! ma tante, riposta gravement Suzanne, je sais bien que je suis plus 
 jeune et moins forte que Lako ; mais il est nouveau et ne connaît encore 
-personne ici. Et puis... »
+personne ici. Et puis… »
 
 Elle s’arrêta, et ses yeux se dirigèrent machinalement vers le groupe 
 maussade formé par Marcel et Marine ; mais elle n’osa pas formuler plus 
@@ -186,9 +186,9 @@ fût servi ; Marcel et Marine les suivirent en chuchotant d’un air moqueur.
 
 ![« Vous arrivez ruinée. »](../images/page037.jpg)
 
-Dans la crainte que M. et Mme Harmanay, un peu délaissés par Mme Drake, ne 
-s’en montrassent froissés, Mme Anne se leva, sous prétexte d’aller 
-veiller aux bagages des arrivants, et Mme Drake, son beau-frère et Mme 
+Dans la crainte que M. et M^me^ Harmanay, un peu délaissés par M^me^ Drake, ne 
+s’en montrassent froissés, M^me^ Anne se leva, sous prétexte d’aller 
+veiller aux bagages des arrivants, et M^me^ Drake, son beau-frère et M^me^ 
 Harmanay restèrent ensemble.  
 Quand la conversation eut roulé un instant sur le voyage et la traversée, les 
 maîtres de la Fauconnière hasardèrent quelques timides questions sur les 
@@ -198,16 +198,16 @@ L’Anglaise leva au ciel ses grands bras.
 « Ah ! mes chers amis ! s’écria-t-elle, ne m’en parlez pas ! Ce 
 procès est toujours en suspens, et je crois bien qu’il me faudra renoncer à 
 disputer à mes adversaires ma fortune et celle de Lako.  
-— Alors... vous arrivez... ruinée ?... » demanda Mme Harmanay d’une 
-voix dont l’altération n’échappa point à Mme Drake. Elle retint un 
+— Alors… vous arrivez… ruinée ?… » demanda M^me^ Harmanay d’une 
+voix dont l’altération n’échappa point à M^me^ Drake. Elle retint un 
 sourire malicieux.
 
-« Ruinée,... pas totalement, Dieu merci ! J’ai de quoi subvenir aux 
+« Ruinée,… pas totalement, Dieu merci ! J’ai de quoi subvenir aux 
 frais que notre séjour à la Fauconnière vous occasionnera ; mais cependant 
-l’avenir n’est pas, pour nous, couleur de rose...  
+l’avenir n’est pas, pour nous, couleur de rose…  
 — Pourquoi avez-vous quitté l’Inde ?  
-— Ah ! voilà ; l’éducation de Lako....  
-— L’éducation de ces enfants de..., d’Indiens, permettez-moi de vous le 
+— Ah ! voilà ; l’éducation de Lako….  
+— L’éducation de ces enfants de…, d’Indiens, permettez-moi de vous le 
 faire observer, Mabel, n’est pas poussée très loin, en général.  
 — En général, soit, riposta vivement Mrs Drake ; mais il me plaît de 
 soigner celle de mon beau-fils, que je considère absolument comme mon enfant. 
@@ -220,7 +220,7 @@ Les Harmanay firent un mouvement qui signifiait : « Que nous
 importe ! » puis l’entretien roula sur tante Anne et sur la petite 
 Frézelle.  
 La grand’tante et la petite nièce ne furent guère épargnées par la peu 
-charitable Mme Harmanay :
+charitable M^me^ Harmanay :
 
 « Certes c’était une bien lourde charge que cette pauvre femme ! Elle 
 était très exigeante, difficile à vivre, toujours triste, et elle se 
@@ -301,5 +301,5 @@ D’ailleurs on était aux premiers jours de juin : la nuit était douce, la
 brise tiède, le ciel limpide, et tous les voyageurs firent des songes 
 paisibles.  
 Seule Suzanne rêva que Sweet-heart était changée en une jeune personne fort 
-bien élevée, tandis que Marcel et Marine prenaient la forme d'un tigre et 
+bien élevée, tandis que Marcel et Marine prenaient la forme d’un tigre et 
 d’une tigresse.

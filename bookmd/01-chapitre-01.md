@@ -12,7 +12,7 @@ débris de la richesse perdue, avait une expression de bonté et d’indulgence
 qui la faisait aimer tout de suite ; et l’on devinait, sous le sourire 
 exquis et dans la pâleur éternelle de ce visage ridé, une souffrance 
 vaillamment supportée.  
-Suzanne, elle, la petite nièce de Mme Anne et l’enfant adoptive des 
+Suzanne, elle, la petite nièce de M^me^ Anne et l’enfant adoptive des 
 Harmanay, était une franche gamine de neuf à dix ans, aux yeux bleus rieurs, 
 à la chevelure dorée et bouclée, mais toujours coiffée à la diable, parce 
 que la toilette était bien le moindre de ses soucis.  
@@ -43,7 +43,7 @@ qualités en défauts.
 avait suivi avec intérêt la fin de la partie. C’est mon oncle et Marine qui 
 ont le plus de points ! »
 
-Mme Harmanay leva sur sa nièce un œil froid et sévère, et lui dit sur un 
+M^me^ Harmanay leva sur sa nièce un œil froid et sévère, et lui dit sur un 
 ton courroucé :
 
 « On ne vous demande rien, Suzanne ; de quoi vous mêlez-vous ? Vous 
@@ -54,7 +54,7 @@ La fillette coula un regard malicieux du côté de ses cousins :
 
 « Marcel et Marine ont congé le soir, fit-elle observer ; mais moi, je 
 dois travailler même pendant les récréations.  
-— Vous n’êtes ni Marcel, ni Marine, répondit Mme Harmanay d’un ton 
+— Vous n’êtes ni Marcel, ni Marine, répondit M^me^ Harmanay d’un ton 
 glacé ; vous l’oubliez souvent, Suzanne, et je vous serai obligée de ne 
 pas établir de comparaison entre vous et eux. D’ailleurs, pour vous être 
 permis de raisonner ainsi avec moi, votre tante, votre tutrice et votre 
@@ -62,32 +62,32 @@ bienfaitrice, vous serez privée de la promenade que nous devons faire demain
 matin au Vieux-Château. »
 
 Suzanne réprima avec peine un mouvement de joie : ah ! qu’elle aimait 
-bien mieux ne pas y aller !... au moins elle resterait quelques heures de 
+bien mieux ne pas y aller !… au moins elle resterait quelques heures de 
 plus avec tante Anne, et en tête-à-tête encore !  
 Tante Anne ne pensait pas comme la coupable, sans doute, car elle hochait sa 
 vieille tête grise tout attristée ; elle allait parler, intercéder 
 probablement pour Suzanne, mais elle referma ses lèvres ridées sans avoir 
 proféré un mot : elle se rendit compte à temps que son intervention nuirait 
-a l’enfant plus qu'elle ne lui profiterait.
+a l’enfant plus qu’elle ne lui profiterait.
 
 « Va-t-on se coucher, enfin ? » grogna Marcel furieux d’avoir 
 été battu aux dominos.  
 Et il s’étira et bâilla sans gêne devant tous.  
-« Mal élevé... » murmura la petite voix moqueuse de Suzanne a son 
+« Mal élevé… » murmura la petite voix moqueuse de Suzanne a son 
 oreille.  
 Le jeune garçon s’apprêtait a protester contre ce qualificatif, mais il fut 
 interrompu par l’entrée d’un domestique, qui apportait un petit papier 
-bleu sur un plateau. L’indolent M. Harmanay prit sans empressement ce petit 
+bleu sur un plateau. L’indolent M. Harmanay prit sans empressement ce petit 
 papier bleu, qui était un télégramme annonçant peut-être une fâcheuse 
 nouvelle. Plus vive que lui et plus curieuse, sa femme le lui enleva des mains 
 et le parcourut des yeux.
 
 ![Un domestique apportait une dépêche.](../images/page009.jpg)
 
-« Mon Dieu ! mon Dieu ! il ne nous manquait plus que cela... gémit avec 
-un air de profond découragement Mme Harmanay en laissant tomber de ses mains 
+« Mon Dieu ! mon Dieu ! il ne nous manquait plus que cela… gémit avec 
+un air de profond découragement M^me^ Harmanay en laissant tomber de ses mains 
 la malencontreuse dépêche.  
-— Qu’est-ce encore ?... Une mauvaise nouvelle ? demanda son mari sans 
+— Qu’est-ce encore ?… Une mauvaise nouvelle ? demanda son mari sans 
 quitter son ton nonchalant.
 
 Hors sa femme et ses deux enfants ici présents qu’il savait en sûreté, il 
@@ -111,31 +111,31 @@ dépêche trente heures a l’avance.
 
 Marcel se contenta de hausser les épaules.
 
-« Ce Drake est une Drake, répondit M. Harmanay qui paraissait songeur. 
+« Ce Drake est une Drake, répondit M. Harmanay qui paraissait songeur. 
 Mabel Drake est ma belle-sœur et par conséquent votre tante, mes enfants ; 
 elle est veuve depuis quelques années, et je la croyais dans  l’Inde pour le 
-reste de ses jours. Je me trompais, puisque la voilà !...  
+reste de ses jours. Je me trompais, puisque la voilà !…  
 — Encore une tante ! grogna aimablement Marine sans paraître 
-s’apercevoir de la présence de Mme Anne. Est-ce qu’elle va rester 
+s’apercevoir de la présence de M^me^ Anne. Est-ce qu’elle va rester 
 longtemps à la Fauconnière ?  
-— Qu’en sais-je ?... dit enfin Mme Harmanay, sortant de sa stupeur ; 
+— Qu’en sais-je ?… dit enfin M^me^ Harmanay, sortant de sa stupeur ; 
 tante Drake est si originale, si singulière, si sans-gêne ! Elle est dans 
-le cas de s'installer ici pour un an ou deux.  
+le cas de s’installer ici pour un an ou deux.  
 — Est-elle riche, au moins ?  
-Mme Harmanay leva les bras au ciel :
+M^me^ Harmanay leva les bras au ciel :
 
-« Ah ! bien oui, riche... elle n’a jamais su manœuvrer sa barque : 
+« Ah ! bien oui, riche… elle n’a jamais su manœuvrer sa barque : 
 elle a épousé dans l’Inde un homme possédant une fortune considérable, je 
 ne sais combien de fois millionnaire ; mais, au décès de ce pauvre Drake, 
 un procès a été intenté à la veuve par des Anglais parents du défunt, et 
 j’ai toujours prédit que cette pauvre Mabel achèverait de se ruiner en 
 soutenant les débats du procès.  
-— Tiens ! si elle a des droits !... » fit une petite voix indignée, 
+— Tiens ! si elle a des droits !… » fit une petite voix indignée, 
 celle de Suzanne.
 
 On ne daigna pas relever cette exclamation.
 
-« Et puisque la voilà en France, ajouta amèrement Mme Harmanay en rangeant 
+« Et puisque la voilà en France, ajouta amèrement M^me^ Harmanay en rangeant 
 les dominos épars sur le tapis de la table, c’est qu’elle n’a pas 
 réussi et vient se réfugier au sein du peu de famille qui lui reste. Bien 
 agréable pour nous !  
@@ -151,10 +151,10 @@ Suzanne n’entendit pas nettement la réflexion, mais elle la devina, et son
 petit cœur se serra.
 
 « Allons, il faut se coucher ; ces enfants n’en peuvent plus de 
-sommeil ; nous nous occuperons demain des chambres de nos hôtes, dit Mme 
+sommeil ; nous nous occuperons demain des chambres de nos hôtes, dit M^me^ 
 Harmanay. Marine, Marcel, vite au lit, mes chéris ; dites bonsoir à votre 
-père... Ma tante, je vous présente mes devoirs et vous souhaite une bonne 
-nuit », ajouta-t-elle en saluant Mme Anne qui se levait aussi.
+père… Ma tante, je vous présente mes devoirs et vous souhaite une bonne 
+nuit », ajouta-t-elle en saluant M^me^ Anne qui se levait aussi.
 
 Puis, son regard tomba sur la petite Frézelle qui lui offrait son front à 
 baiser :
@@ -163,16 +163,16 @@ baiser :
 être couchée.  
 — Ma tante, répliqua la fillette d’un ton qu’elle s’efforçait de 
 rendre soumis, vous me disiez, il n’y a qu’un instant, de continuer mon 
-ouvrage de crochet... »
+ouvrage de crochet… »
 
-Les adieux s’échangèrent et l’on se sépara. M. et Mme Harmanay 
+Les adieux s’échangèrent et l’on se sépara. M. et M^me^ Harmanay 
 regagnèrent leur appartement bien clos, confortable et chaud, et, avant de 
 s’endormir, ils causèrent longuement, et non sans amertume, du nouvel ennui 
 qui leur arrivait.  
 C’était beaucoup par égoïsme et un peu par avarice que les Harmanay se 
-désolaient ainsi de l’arrivée inopinée de Mme Drake et de ses compagnons. 
+désolaient ainsi de l’arrivée inopinée de M^me^ Drake et de ses compagnons. 
 D’un autre côté, ils ne pouvaient la détourner de son projet de 
-s’installer à la Fauconnière, ni lui insinuer d'aller à l’hôtel : ils 
+s’installer à la Fauconnière, ni lui insinuer d’aller à l’hôtel : ils 
 avaient envers la bonne dame de grandes obligations, car jadis elle les avait 
 puissamment aidés à établir et à accroître leur fortune aujourd’hui fort 
 rondelette.  
@@ -185,10 +185,10 @@ Elle ne se plaignait pas, la pauvre sainte femme ; elle ne reprochait pas a
 ces oublieux leur ingratitude, mais sa vieillesse était triste.  
 Depuis une année environ, toutefois, un rayon de soleil illuminait cette vie 
 mélancolique : Suzanne, « le garçon manqué », la fillette à la tête 
-folle mais au cœur d'or, l’orpheline que les Harmanay avaient recueillie, 
+folle mais au cœur d’or, l’orpheline que les Harmanay avaient recueillie, 
 non par compassion, mais parce qu’elle était leur pupille, que tout le monde 
-savait qu’ils devaient seuls en avoir la garde, et enfin parce que M. et Mme 
-Frézelle, morts à peu de distance l'un de l’autre, avaient laissé à leur 
+savait qu’ils devaient seuls en avoir la garde, et enfin parce que M. et M^me^ 
+Frézelle, morts à peu de distance l’un de l’autre, avaient laissé à leur 
 enfant une petite rente de quinze cents francs.  
 Suzanne n’éprouvait pas une affection bien vive pour son tuteur et sa 
 tutrice ; elle n’était pas gâtée par eux, la pauvre mignonne, mais elle 
@@ -205,7 +205,7 @@ Par contre, elle adorait sa tante Aune, pauvre vieille femme malheureuse comme.
 elle, plus malheureuse encore même, puisqu’elle vivait dans la dépendance 
 absolue de ses neveux.  
 Suzanne, comme toutes les natures délicates, savait, par une caresse, par une 
-attention nouvelle, la dédommager d’une parole aigre proférée par Mme 
+attention nouvelle, la dédommager d’une parole aigre proférée par M^me^ 
 Harmanay ; elle suppléait souvent à la négligence affectée de la bonne 
 chargée du service de la vieille dame. Dans la belle saison, elle 
 s’ingéniait à découvrir à celle-ci un coin ombreux et agréable où elle 
@@ -226,9 +226,9 @@ Le reste de l’année, un professeur et une institutrice se rendaient trois
 fois par semaine à la Fauconnière pour instruire Marcel, Marine et Suzanne.  
 Cette dernière, nous devons l’avouer, n’était pas la plus studieuse des 
 trois écoliers, et, si ce n’eût été pour faire plaisir à tante Anne que 
-sa paresse affligeait, elle eût souvent mécontenté sérieusement Mlle Crest, 
+sa paresse affligeait, elle eût souvent mécontenté sérieusement M^lle^ Crest, 
 sa maîtresse.  
-L’arrivée de Mme Drake et de son beau-fils allait forcément amener quelques 
+L’arrivée de M^me^ Drake et de son beau-fils allait forcément amener quelques 
 vacances, au moins jusqu’au lundi suivant ; aussi Marcel et Marine 
 pardonnaient-ils aux « Hindous » leur brusque irruption, en raison du 
 congé qu’ils allaient leur procurer.  
@@ -238,7 +238,7 @@ n’éprouvait pas d’avance une grande sympathie pour cette tante et cet
 les aimer et à leur faire bon accueil.
 
 « D’abord, disait la petite fille avec le franc-parler qui lui était 
-habituel, Mme Drake ne doit pas être aussi..., voyons, comment dire ? aussi 
+habituel, M^me^ Drake ne doit pas être aussi…, voyons, comment dire ? aussi 
 sèche que tante Harmanay ; elle sera donc d’une agréable compagnie pour 
 tante Anne. Son beau-fils, ce Lako, ne peut pas être aussi hargneux que Marcel 
 et Marine, donc nous ferons bon ménage ensemble. En vérité, je suis bien 

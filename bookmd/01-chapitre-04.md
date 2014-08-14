@@ -5,11 +5,11 @@ irrévérencieusement Marcel Harmanay, ont élu domicile à la Fauconnière.
 Le nègre Blanc-Blanc assure que la France est un superbe pays.  
 La tigresse Sweet-heart n’en dit pas autant, et pour cause, mais, en personne 
 de tact, elle semble se plaire en Champagne, et nul n’a à se plaindre 
-d'elle.  
+d’elle.  
 Le chien Kiss est un philosophe qui sait se plier aux circonstances de la vie 
 et entrer dans les bonnes grâces de tout le monde.  
 Le singe Romulus pense, à part lui, que dans sa patrie il jouait au milieu de 
-plus beaux arbres et croquait de meilleurs fruits ; mais il n'exprime pas ses 
+plus beaux arbres et croquait de meilleurs fruits ; mais il n’exprime pas ses 
 regrets et s’est pris de vive amitié pour Tombola qui le réchauffe entre 
 ses grosses pattes pendant les nuits trop fraîches.  
 Le perroquet Fanfan a bien reçu quelques admonestations pour avoir crié à 
@@ -82,7 +82,7 @@ Marcel et Marine étaient toujours méchants pour leur jeune cousin ; ils
 continuaient à l’appeler _Pain d’épice_, sobriquet que Lako comprenait 
 maintenant, et ils avaient toujours des réflexions désagréables à échanger 
 à son sujet.  
-M. Quinot, le professeur du jeune Harmanay, eut en Lako un élève de plus, et 
+M. Quinot, le professeur du jeune Harmanay, eut en Lako un élève de plus, et 
 surtout un élève dont les progrès rapides le consolaient de la paresse de 
 Marcel.  
 Au lycée de Paris où sa belle-mère avait l’intention de l’envoyer 
@@ -128,7 +128,7 @@ Suzanne réfléchit un instant, puis elle sauta de joie.
 
 « Ce sera dur, ce sera difficile ! s’écria-t-elle, mais tu as raison : 
 il faut faire cela. Oh ! mon Lako, que tu as une bonne idée et que je 
-regrette le temps perdu ! Mais je vais vite le rattraper, et désormais Mlle 
+regrette le temps perdu ! Mais je vais vite le rattraper, et désormais M^lle^ 
 Crest sera contente de moi. »
 
 Suzanne tint parole ; les deux enfants exposèrent leurs plans à tante Anne 
@@ -149,10 +149,10 @@ pour défendre mon bien et celui de mon petit Lako.
 — Mais, de si loin, comment pouvez-vous lutter avec quelque espoir de 
 succès, Mabel ? Je crains bien que vous ne puissiez obtenir justice ! »
 
-Mme Drake revint s’asseoir près de sa vieille compagne.
+M^me^ Drake revint s’asseoir près de sa vieille compagne.
 
 « Voici ce que je n’ai dit à personne encore, Anne, répondit-elle. Je 
-serai sans doute obligée de repartir pour Bombay dans quelques mois...  
+serai sans doute obligée de repartir pour Bombay dans quelques mois…  
 — Alors pourquoi êtes-vous venue en France ? demanda tante Anne.  
 — Tout simplement pour mettre mon beau-fils en sûreté, car me méfie de 
 ceux qui l’entouraient là-bas, dans l’Inde, où les animaux malfaisants ne 
@@ -164,7 +164,7 @@ les études le distrairont forcément de son chagrin.
 — Ah ! pauvre amie ! combien la vie est difficile ! » soupira tante 
 Anne en reprenant son tricot un instant abandonné.
 
-Mme Drake alla préparer une valise afin de se disposer a partir pour Paris, 
+M^me^ Drake alla préparer une valise afin de se disposer a partir pour Paris, 
 où ses affaires devaient la retenir pendant quelques jours.  
 À son retour, elle apporta une jolie robe à Suzanne, un bon châle à tante 
 Anne, des bonbons exquis aux jeunes Harmanay, et une potiche à leurs parents. 
@@ -174,14 +174,14 @@ clinquant.
 Quant à Lako, il prit des mains de sa belle-mère une boîte de forme 
 allongée dont la vue fit étinceler de joie ses yeux noirs.
 
-« Il est réparé et tout à fait bon, lui dit Mme Drake. Pauvre petit ! 
+« Il est réparé et tout à fait bon, lui dit M^me^ Drake. Pauvre petit ! 
 il y a longtemps que cela te manquait.  
 — Qu’est-ce donc ? demanda la curieuse Suzanne en désignant la boîte.  
 — Tu verras », répondit simplement Lako. qui courut s’enfermer dans sa 
 chambre.
 
 Environ une demi-heure plus tard, les fillettes, qui prenaient leur leçon avec 
-Mlle Crest, levèrent toutes les deux la tête et tendirent l’oreille avec 
+M^lle^ Crest, levèrent toutes les deux la tête et tendirent l’oreille avec 
 surprise : un son très doux, un chant d’une harmonie incomparable vibrait 
 dans toute la maison.
 
@@ -189,7 +189,7 @@ dans toute la maison.
 — Tais-toi donc et écoute ! » répondit Suzanne en la poussant du 
 coude.
 
-Mlle Crest, elle-même sous le charme, prêtait l'oreille.  
+M^lle^ Crest, elle-même sous le charme, prêtait l’oreille.  
 Quand les accords s’éteignirent, elle demanda à Marine :
 
 « C’est sans doute votre père qui joue ? »
@@ -204,7 +204,7 @@ qu’il sache si bien jouer du violon ?
 fillette qui s’échauffait. D’ailleurs je vais avoir la preuve que c’est 
 bien lui. »
 
-Et, d’un bond, avant que Mlle Crest eût pu la retenir, Suzanne gagnait la 
+Et, d’un bond, avant que M^lle^ Crest eût pu la retenir, Suzanne gagnait la 
 porte, franchissait le corridor, montait l’escalier et entrait comme une 
 bombe dans la chambre où Lako rajustait une corde à son violon.
 
@@ -218,13 +218,13 @@ peu étourdi par cette brusque irruption. J’aime tant la musique !
 
 Lako sourit, puis, soudain inquiet :
 
-« Mais ce n’est donc pas l’heure de ta leçon avec Mlle Crest ? »
+« Mais ce n’est donc pas l’heure de ta leçon avec M^lle^ Crest ? »
 
 Suzanne baissa la tête.
 
 « C’est vrai, je vais être bien grondée : j’ai quitté la classe pour 
-venir m'assurer que c’est toi qui jouais.  
-— Oh ! Suzanne, va-t'en vite ! Désormais je ne ferai jamais de 
+venir m’assurer que c’est toi qui jouais.  
+— Oh ! Suzanne, va-t’en vite ! Désormais je ne ferai jamais de 
 musique : au moment de ton travail. »
 
 Suzanne allait se récrier, mais, tout en gagnant la porte, elle dit, après 

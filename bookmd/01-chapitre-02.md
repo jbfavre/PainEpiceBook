@@ -1,17 +1,17 @@
 ## Une tasse de café noir
 
-« Oui, tante, c’est demain que Mme Drake et son beau-fils Lako 
+« Oui, tante, c’est demain que M^me^ Drake et son beau-fils Lako 
 arrivent ; on leur a arrangé le petit appartement du nord ; vous savez, 
 celui qu’on donne aux invités de second ordre, comme dit Marcel ; ma tante 
 Harmanay assure que c’est bien assez bon pour eux. Brr ! il n’y auront 
 pas chaud en automne, s’ils sont encore à la Fauconnière à cette 
-époque ! Moi, si j’étais à la place de ma tante et de mon oncle.... »
+époque ! Moi, si j’étais à la place de ma tante et de mon oncle…. »
 
-Mme Anne interrompit doucement le babillage de la petite fille, qui marchait à 
+M^me^ Anne interrompit doucement le babillage de la petite fille, qui marchait à 
 côté d’elle en portant un pliant et un panier à ouvrage.
 
 « Ainsi, tu n’éprouves aucun regret, mignonne, d’avoir manqué cette 
-partie au Vieux-Château ?... Bien, bien sûr ?  
+partie au Vieux-Château ?… Bien, bien sûr ?  
 — Oh ! tante, répondit Suzanne en esquissant une gambade qui compromit 
 l’équilibre du panier et du pliant, je suis contente d’être punie !  
 — Il ne faut pas dire d’être punie, ma chérie, mais d’être restée 
@@ -20,23 +20,23 @@ avec ta pauvre vieille grand’tante. »
 Le petit minois espiègle de Suzanne essaya de prendre un air grave.
 
 « Mais non, ma tante : je vous assure que j’aime beaucoup mieux votre 
-compagnie que celle de... des autres. D’abord, je connais le 
+compagnie que celle de… des autres. D’abord, je connais le 
 Vieux-Château ; ensuite, tout le long de la route, Marcel et Marine 
-m’auraient taquinée ; mon oncle ne m’aurait pas permis de conduire....  
+m’auraient taquinée ; mon oncle ne m’aurait pas permis de conduire….  
 — Je crois bien ! s’exclama tante Anne en riant : pour les faire verser 
 dans une ornière ! »
 
 Suzanne se redressa offensée.
 
 « Tante, je vous assure que je n’ai jamais fait verser personne : et du 
-temps de mon pauvre papa je conduisais très souvent,... seulement il se tenait 
+temps de mon pauvre papa je conduisais très souvent,… seulement il se tenait 
 près de moi et ne me quittait pas des yeux. Pour en revenir à la partie 
 manquée, nous avons eu au moins le plaisir de déjeuner toutes les deux 
-seules, en tête-à-tête ; ah ! c’était gentil, cela !... quoique le 
+seules, en tête-à-tête ; ah ! c’était gentil, cela !… quoique le 
 déjeuner ne fût guère bon. La cuisinière ne s’est pas donné la peine de 
 le soigner pour nous, n’est-ce pas, tante ? »
 
-Mme Anne sourit avec une nuance d’ironie : elle était douce et polie avec 
+M^me^ Anne sourit avec une nuance d’ironie : elle était douce et polie avec 
 les domestiques, ne témoignait aucune exigence pour son service, mais sa 
 pauvreté l’empêchait de leur faire de temps à autre des cadeaux, de sorte 
 que ces gens, qui étaient cupides et intéressés, n’avaient pour elle aucun 
@@ -50,13 +50,13 @@ tante ?
 — Non, répondit la vieille dame. Après le dessert j’ai attendu un 
 instant, croyant que François allait l’apporter, mais comme il n’y avait 
 que moi pour en prendre, on n’en aura sans doute pas fait. Oh ! petite, 
-qu’importe ? c’est du superflu, cela, et pour une fois... !  
+qu’importe ? c’est du superflu, cela, et pour une fois… !  
 — Pour une fois ! pour une fois ! répéta l’enfant indignée ; 
 c’est toujours comme cela quand nous sommes seules à déjeuner, et vous avez 
 mal à la tête lorsque votre café vous manque. Oh ! pauvre tante ! vous 
 vous figurez qu’ils s’en privent à la cuisine ! Vous pouvez bien être 
 persuadée qu’ils se servent le meilleur, allez !  
-— N’importe, fit Mme Anne un peu inquiète du ton agressif de la petite 
+— N’importe, fit M^me^ Anne un peu inquiète du ton agressif de la petite 
 fille ; surtout ne dis rien, ne réclame pas ; nous ne sommes pas les 
 maîtresses de la Fauconnière, ne l’oublie pas ! »
 
@@ -82,7 +82,7 @@ Les domestiques de la Fauconnière achevaient en paix leur déjeuner, riant
 très haut et médisant des maîtres absents, lorsque la tête blonde et 
 ébouriffée de Suzanne apparut par l’entre-bâillement de la porte.
 
-« Le café de Mme Anne ? » dit la fillette d’une voix très nette.  
+« Le café de M^me^ Anne ? » dit la fillette d’une voix très nette.  
 Il y eut un moment de stupeur parmi les gens attablés devant les reliefs 
 d’un excellent déjeuner.
 
@@ -115,7 +115,7 @@ insensées.
 fasse pas renverser ce café que j’ai eu tant de peine à conquérir ! »
 
 Mais Tombola était un chien de tact : en voyant sa petite camarade de jeux 
-marcher à pas mesurés, le bras tendu, l’oeil fixe, ses jolies dents de 
+marcher à pas mesurés, le bras tendu, l’œil fixe, ses jolies dents de 
 nacre enfoncées dans la lèvre inférieure, il réprima ses expansions et 
 mesura son allure à la sienne. Pendant ce temps, à la cuisine, les 
 serviteurs, rouges de honte, grommelaient contré la fillette.  
@@ -123,7 +123,7 @@ Tante Anne se disposait à faire une petite sieste, lorsque à l’entrée de
 la charmille parut la figure rouge et rayonnante de Suzette suivie à distance 
 respectueuse par Tombola.
 
-![L'enfant s'installa près de sa tante](../images/page025.jpg)
+![L’enfant s’installa près de sa tante](../images/page025.jpg)
 
 « Que m’apportes-tu là, ma petite fille ? s’écria la vieille dame en 
 bondissant presque de son siège.  
@@ -147,11 +147,11 @@ s’apprêta à faire un somme.
 Tombola se nommait ainsi parce que les Harmanay l’avaient gagné à une 
 loterie lorsqu’il était encore tout petit.
 
-« Ainsi, mignonne, tu veux une histoire ? demanda Mme Anne.  
+« Ainsi, mignonne, tu veux une histoire ? demanda M^me^ Anne.  
 — Oui, tante, s’il vous plaît. Mais auparavant donnez-moi quelques 
 détails sur Mrs Drake et Lako. »
 
-Mme Anne sourit finement :
+M^me^ Anne sourit finement :
 
 « Elle était bien originale lorsque je l’ai connue, il y a une dizaine 
 d’années, reprit-elle, cette bonne Mabel ; en a-t-elle joué des 
@@ -181,7 +181,7 @@ Harmanay ne les grondent jamais quand ils sont méchants pour vous ou pour moi,
 tante Anne ; ils ne se gêneront donc pas pour maltraiter Lako et même 
 peut-être tante Drake. »
 
-« Pour celle-ci on aura des égards, pensa Mme Anne, car, sans être ce 
+« Pour celle-ci on aura des égards, pensa M^me^ Anne, car, sans être ce 
 qu’on appelle riche, elle paiera au moins aux Harmanay une pension 
 suffisante. »
 
