@@ -33,7 +33,7 @@ admonestait ceux-ci lorsqu’ils dérangeaient maladroitement le jeu,
 l’aîné des jeunes Harmanay, Marcel, était un garçon d’environ quatorze 
 ans, laid, maussade et égoïste ; sa sœur Marine, à peu près de l’âge 
 de Suzanne Frézelle, n’inspirait guère plus de sympathie ; pourtant cette 
-fillette,qui au fond n’était pas méchante, eût été meilleure si 
+fillette, qui au fond n’était pas méchante, eût été meilleure si 
 l’exemple de son frère n’eût paralysé ses bons mouvements et changé ses 
 qualités en défauts.
 

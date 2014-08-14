@@ -13,7 +13,8 @@ tête fine rosée par la course à travers bois, et les rubans de sa robe
 claquant à la brise.  
 Au commencement, prise de peur, tante Anne émettait une petite observation sur 
 le danger, l'imprudence, etc., mais Mme Drake, secouant les épaules, lui avait 
-répondu :  
+répondu :
+
 « Eh ! laissez donc faire l'enfant : cet exercice lui est salutaire et 
 elle n'en travaille que mieux ensuite ; c'est un petit tempérament indompté 
 qui a besoin de grand air et de liberté ; elle n'en aura pas trop, cet 
@@ -26,7 +27,8 @@ des quatre pieds.
 — Ma chère, Marcel est poltron à faire rougir un lièvre ; il n'est donc 
 pas surprenant qu'il n'ait pas su garder son assiette ; et puis, il est cruel 
 et je le soupçonne d'avoir brutalisé son cheval ; en général, les animaux 
-ne sont méchants que lorsqu'on les maltraite. »  
+ne sont méchants que lorsqu'on les maltraite. »
+
 Tante Drake était partie, et, rassurée, tante Anne autorisait les 
 chevauchées dans le parc, même pour Suzanne ravie de voir Lako lui céder 
 souvent son tour de promenade.  
@@ -35,11 +37,13 @@ ceux-ci ne lui rendaient pas la pareille : ils conservaient leurs jouets pour
 eux seuls.  
 Un jour, peu après son arrivée à la Fauconnière, Suzanne Frézelle avait 
 demandé timidement à sa cousine qui lui exhibait, triomphante, une superbe 
-poupée :  
+poupée :
+
 « Est-ce que tu me la prêteras quelquefois ? Je ne te l'abîmerai pas.  
 — Non certes, répondit durement la petite Harmanay ; je ne te prête pas 
 mes affaires.  
-— Ah. » fit simplement l'orpheline attristée.  
+— Ah. » fit simplement l'orpheline attristée.
+
 Depuis, elle ne demanda plus jamais rien à Marine, pas plus qu'à.Marcel dont 
 la générosité égalait celle de sa sœur.  
 Ces dernières semaines d'été qui succédèrent au départ de tante Drake et 
@@ -73,12 +77,14 @@ parût penser à souhaiter aucune bonne chance à l'enfant, ni à lui donner un
 baiser de plus ; elle ne s'en chagrina pas, accoutumée qu'était la pauvre 
 petite à ne pas être gâtée et choyée ; mais lorsque, le jeudi suivant, 
 elle vit M. et Mme Harmanay préparer mystérieusement une petite fête pour 
-leur fille, elle eut le cœur un peu gros.  
+leur fille, elle eut le cœur un peu gros.
+
 « Voilà ce que c'est que de n'avoir ni papa ni maman,... se dit-elle en 
 retenant un soupir. Tante Anne est bien bonne pour moi, mais elle est pauvre et 
 ne peut rien m'offrir... Elle aurait pu m'embrasser et me dire un petit mot à 
 l'occasion de mon anniversaire... Mais bah ! elle est vieille, sa mémoire 
-s'en va. »  
+s'en va. »
+
 Et, sans jalousie, la gentille enfant fut une des premières à souhaiter une 
 bonne fête à sa cousine qui, elle-même, n'avait pas trouvé une parole 
 aimable, l'avant-veille, pour sa petite compagne.  
@@ -98,7 +104,8 @@ devinant qu'au moins trois personnes de la société avaient pensé à sa
 fête ; et avant même de retirer l'enveloppe de ces paquets, elle sentit son 
 petit cœur se dilater d'aise en voyant qu'on ne la traitait pas en étrangère 
 et que, pour venir un peu plus tard, ces souvenirs ne prouvaient pas moins de 
-bonnes intentions à son égard.  
+bonnes intentions à son égard.
+
 « Allons, ouvre donc ! » lui dit gaîment Lako qui jouissait de sa 
 surprise, tandis que M. Mme Harmanay et leurs deux enfants jetaient sur les 
 trois objets empaquetés des regards d'étonnement et même de curiosité 
@@ -118,9 +125,11 @@ plus fin et le plus cher.
 Second cri de joie : le deuxième paquet était un écrin, et, dans cet écrin 
 dormait sur un velours bleu doux à l'oeil un amour de petite montre en or, 
 chiffrée S.F.  
-Sous l'écrin, une carte portait ces mots :  
+Sous l'écrin, une carte portait ces mots :
+
 « Tante Mabel, quoique absente, embrasse sa petite amie Susy et lui offre ce 
-léger souvenir pour son anniversaire de naissance. »  
+léger souvenir pour son anniversaire de naissance. »
+
 De rose qu'elle était, Suzanne devenait rouge comme un petit coq, tant la joie 
 la suffoquait.  
 Songez donc : une montre ! – et en or encore, et la plus jolie qu'elle 
@@ -140,14 +149,16 @@ nickel déjà fort abîmée et dont il n'était pas très fier ; l'autre n'en
 avait pas du tout et n'en devait point recevoir de si jolie, même à sa 
 première communion.  
 Mais, mue par son bon cœur, en se penchant à son oreille, Suzanne dit à sa 
-cousine toute boudeuse :  
-« Je te la prêterai quelquefois. »  
+cousine toute boudeuse :
+
+« Je te la prêterai quelquefois. »
+
 L'autre cadeau, on le devine, venait de Lako ; il consistait en une 
 ravissante chaîne appropriée à la montre, et qui redoubla la joie et 
-l'admiration de la fillette.  
-« Tu m'as trop gâtée, vous m'avez tous trop gâtée ! » 
-murmurait-elle en remettant chaque chose en place afin de ne rien abîmer 
-pendant le dîner.  
+l'admiration de la fillette.
+
+« Tu m'as trop gâtée, vous m'avez tous trop gâtée ! » murmurait-elle en
+remettant chaque chose en place afin de ne rien abîmer pendant le dîner.  
 Le repas s'acheva dans une gaîté folle ; M. et Mme Harmanay étaient un peu 
 confus de n'avoir pas pensé, seuls, à la petite orpheline, mais celle-ci 
 oubliait son chagrin passé, dans l'allégresse du présent.  

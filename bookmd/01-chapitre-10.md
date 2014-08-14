@@ -64,9 +64,11 @@ glisser à la suite d'un serviteur qui rentra tard, et de coucher dans le grand
 vestibule, où elle se sentait plus près de son cher petit maître.  
 Vers minuit, Lako entendit gratter à sa porte. Il se leva, inquiet, et alla 
 ouvrir. Une masse sombre entra dans la chambre, et sa main rencontrant une 
-tête ronde et des oreilles courtes, le jeune homme se dit :  
+tête ronde et des oreilles courtes, le jeune homme se dit :
+
 « C'est Sweet-heart ! Comment est-elle là ? Il faut que j'en aie le 
-cœur net ! »  
+cœur net ! »
+
 Il frotta une allumette ; et, tandis qu'il allumait sa bougie, il sentit une 
 singulière odeur, mais il n'y prêta point tout d'abord une bien grande 
 attention.  
@@ -74,30 +76,36 @@ Cependant la tigresse, au lieu de sauter joyeusement autour de son maître
 comme elle avait l'habitude de le faire chaque fois qu'elle le voyait, donnait 
 des signes d'inquiétude, tournait vers lui des yeux suppliants et anxieux, et 
 se dirigeait vers la porte pour revenir aussitôt auprès de lui comme pour 
-l'inviter à la suivre.  
+l'inviter à la suivre.
+
 « Cette bête a du flair, se dit encore Lako. Elle sent un danger, mais 
 lequel ? Si j'allais voir ?... Il y a peut-être des voleurs dans la 
 maison. Je n'ai pas d'armes ; que faire ? Et mon oncle et ma tante qui sont 
 absents !... Si je réveillais tante Anne ? Non, cela l'effraierait. Les 
 domestiques, alors ? Oui, c'est cela, car pour Marcel, il n'y faut pas 
-songer : il est trop poltron. »  
+songer : il est trop poltron. »
+
 Lako se vêtit à la hâte et se mit en devoir de monter à l'étage 
 supérieur ; mais Sweet-heart lui barra le passage et, mordillant sa blouse, 
 le tira d'un autre côté.  
 Cette fois, l'odeur de fumée qui avait déjà surpris l'adolescent, le saisit 
 fortement à la gorge ; de plus, en tournant à droite il aperçut des nuages 
-épais et suffocants qui enveloppaient le corridor.  
+épais et suffocants qui enveloppaient le corridor.
+
 « Il y a le feu par ici, se dit-il. Dieu ! c'est chez Marcel, et le 
-malheureux n'appelle pas !... Serait-il déjà asphyxié ?... »  
-Et sans hésiter cette : fois, il cria :  
+malheureux n'appelle pas !... Serait-il déjà asphyxié ?... »
+
+Et sans hésiter cette fois, il cria :
+
 « Au feu, au secours ! par ici, chez Marcel ! Au feu ! au feu ! De 
-l'eau ! »  
+l'eau ! »
+
 Puis, sans attendre que la maison s'éveillât, il s'élança dans la fumée, 
 rencontra en tâtonnant la clé de la porte de Marcel, qui céda sous sa 
 pression.  
-Des flammes s'élevaient déjà dans un angle de la chambre.  
-« Marcel ! Marcel ! pour Dieu, lève-toi ! » cria douloureusement 
-Lako.  
+Des flammes s'élevaient déjà dans un angle de la chambre.
+
+« Marcel ! Marcel ! pour Dieu, lève-toi ! » cria douloureusement Lako.  
 Marcel ne répondit pas.  
 Au seuil de la porte, Sweet-heart reculait en grognant d'une manière 
 terrible ; elle eût bien suivi son maître, mais le jeune Harmanay était 
@@ -106,7 +114,8 @@ du feu.
 Cependant Lako avait fini par arriver auprès du lit de son cousin ; sa main 
 ne rencontra qu'un visage glacé.  
 Les flammes l'éclairaient assez maintenant pour qu'il vit autour de lui, 
-malgré la fumée de plus en plus suffocante.  
+malgré la fumée de plus en plus suffocante.
+
 « Mon Dieu, aidez-moi ! donnez-moi la force ! » murmura-t-il.
 Et, rassemblant toute sa vigueur, il tira du lit le corps inerte. Il était 
 temps : les flammes, qui léchaient le plafond, avaient atteint les rideaux.  
@@ -120,10 +129,12 @@ privé de  connaissance.
 
 Pendant que se passait cette scène rapide, les domestiques s'éveillaient 
 lentement à l'étage supérieur, se demandant l'un à l'autre :
+
 « N'as-tu pas entendu appeler ?  
 - Oui, on dirait qu'il y a du bruit au premier.  
 - Diable ! et Monsieur et Madame qui ne sont pas là !  
-- On sent une odeur étrange : si c'était le feu ? »  
+- On sent une odeur étrange : si c'était le feu ? »
+
 Le feu !... à ce mot terrifiant ils se jetèrent tous à bas du lit.  
 Le plus prompt d'entre eux arriva juste à temps pour recevoir dans ses bras 
 Lako et Marcel à demi suffoqués.  

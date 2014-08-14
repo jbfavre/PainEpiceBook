@@ -32,42 +32,51 @@ velouté, sa démarche et l’or limpide de ses prunelles disaient hautement
 son origine.  
 Comme cette bête, que Lako tenait d’ailleurs en laisse, avançait çà et 
 là sa tête curieuse et inquiétante, le jeune garçon prononça 
-impérieusement, en mettant sa main fine et brune sur la fourrure fauve :  
+impérieusement, en mettant sa main fine et brune sur la fourrure fauve :
+
 « Be quiet, _Sweets-heart_, be quiet ! » Ce qui, en anglais (seule 
 langue que parlât le petit étranger), ordonnait à l’animal de demeurer 
-tranquille.  
-« Dieu ! qu’est-ce que cela ? » s’écria Mme Harmanay, pâle 
-d’effroi, en désignant le groupe qui se tenait en bas du perron.  
-Mme Drake se retourna :  
-« Cela, c’est mon beau-fils, mon cher petit Lako ; j’allais vous le 
-présenter. Approchez, Lako, mon cher enfant ; venez saluer Mme Harmanay, 
-notre hôtesse.
+tranquille.
 
 ![Madame Drake et sa suite.](../images/page031.jpg)
 
+« Dieu ! qu’est-ce que cela ? » s’écria Mme Harmanay, pâle 
+d’effroi, en désignant le groupe qui se tenait en bas du perron.  
+Mme Drake se retourna :
+
+« Cela, c’est mon beau-fils, mon cher petit Lako ; j’allais vous le 
+présenter. Approchez, Lako, mon cher enfant ; venez saluer Mme Harmanay, 
+notre hôtesse.
 — Je veux dire... cet animal », reprit la maîtresse de céans qui 
 indiquait _Sweet-heart_.  
-Mistress Drake rit bien haut en montrant ses longues dents :  
+Mistress Drake rit bien haut en montrant ses longues dents :
+
 « _Sweet-heart_ ?... (Doux-Cœur), l’amie intime de Lako, une jeune 
 tigresse parfaitement apprivoisée et fort bien élevée, qui....  
 — Mais je ne veux pas de cette horrible bête sous mon toit ! s’écria 
 avec effroi Mme Harmanay. Elle nous fera des peurs terribles et pourra mordre 
-mes enfants. Je ne puis supporter une tigresse chez moi ! »  
+mes enfants. Je ne puis supporter une tigresse chez moi ! »
+
 Sans se laisser déconcerter, Mme Drake haussa légèrement les épaules et 
-répondit :  
+répondit :
+
 « Je vous répète que vous n’avez rien à craindre ; l’aurais-je 
 amenée, sans cela ? et laisserais-je mon petit Lako jouer sans cesse avec 
 elle ? D’ailleurs elle ne couchera pas dans votre maison ; mon nègre 
-Blanc-Blanc, qui est très habile, lui construira une niche dans la cour. »  
+Blanc-Blanc, qui est très habile, lui construira une niche dans la cour. »
+
 Et, passant d'un sujet à un autre avec la volubilité qui semblait la 
 caractériser, la bonne dame se dirigea vers tante Anne, qu’elle embrassa 
-dans une étreinte affectueuse.  
+dans une étreinte affectueuse.
+
 « Cette chère cousine et amie ! quel bonheur de la revoir !... Nous 
 nous sommes tant aimées !... Ah ! nous allons renouer les bonnes 
 conversations d’autrefois. Tiens ! tiens ! nous avons vieilli, Anne ; 
 ma chère, nous n’avons plus nos joues roses ni nos cheveux blonds ; mais 
-c’est la loi de nature, et moi aussi je paie mon tribut aux années. »  
-Puis se retournant :  
+c’est la loi de nature, et moi aussi je paie mon tribut aux années. »
+
+Puis se retournant :
+
 « Lako, viens ici, mon enfant », dit-elle en anglais.  
 Le jeune garçon-obéit et monta les degrés du perron.  
 Arrivé devant la vieille dame, il s’inclina, prit sa main ridée et la baisa 
@@ -97,32 +106,40 @@ rapprochait tout doucement de Lako resté un peu en arrière et assez triste en
 apparence.  
 Marcel et Marine, que les lois de l’hospitalité la plus élémentaire 
 obligeaient à s’occuper de lui, le considéraient d’un œil curieux et 
-malveillant.  
+malveillant.
+
 « C’est un mulâtre, dis ? glissa la petite fille à l’oreille de son 
 frère.  
 — Parbleu ! répondit celui-ci avec dédain, que veux-tu donc qu’il soit 
-avec cette figure de pain d’épice ? »  
-Marine se mit à ricaner :  
+avec cette figure de pain d’épice ? »
+
+Marine se mit à ricaner :
+
 « Pain d’épice, c’est bien vrai !... quel drôle de petit 
-moricaud ! »  
+moricaud ! »
+
 Suzanne, qui avait l’ouïe fine, entendit ce colloque et jeta un regard 
 mécontent à ses cousins.  
 Le pauvre Lako semblait fort malheureux ; tout à coup il se retourna ; on 
 prononçait son nom, et une petite main souple et douce se glissait entre ses 
-doigts bruns :  
-« C’est vous qui êtes Lako, n’est-ce pas ? » lui demandait 
-Suzanne.  
+doigts bruns :
+
+« C’est vous qui êtes Lako, n’est-ce pas ? » lui demandait Suzanne.  
 Il ne comprenait pas, mais il sourit à la vue de la jolie fillette qui le 
 considérait de ses yeux bleus caressants, et qui secouait sur ses épaules 
-mignonnes une longue natte de cheveux blonds.  
-« Lako, répéta-t-il, yes, Lako. »  
+mignonnes une longue natte de cheveux blonds.
+
+« Lako, répéta-t-il, yes, Lako. »
+
 Suzanne lui adressa encore plusieurs questions, mais il ne comprenait pas 
 davantage.  
-Par bonheur pour eux, Mme Drake s’aperçut de leur manège désespéré.  
+Par bonheur pour eux, Mme Drake s’aperçut de leur manège désespéré.
+
 « Ah ! mignonne, dit-elle en riant ; tu es bien gentille pour Lako, mais 
 il ne comprend encore que l’anglais, et tu n’as pas l’air de connaître 
 cette langue. Bah ! les enfants se tirent toujours d’affaire ; dans 
-quelques jours je suis sûre qu’ils bavarderont comme deux perruches. »  
+quelques jours je suis sûre qu’ils bavarderont comme deux perruches. »
+
 Voyant l’insuccès de ses avances et s’apercevant que Lako ne comprenait 
 pas un mot de ce qu’elle disait, Suzanne se dressa un peu sur la pointe
 des pieds, et approchant ses lèvres de la joue brune du petit étranger,
@@ -136,14 +153,18 @@ avec satisfaction.
 Puis se tournant vers Mme Anne qui regardait aussi avec amour sa petite nièce, 
 l’enfant de son cœur, elle ajouta : « N’est-ce pas, cette blondine est 
 la fille de notre pauvre Jeanne, Jeanne Frézelle ? Elle est ma nièce, par 
-conséquent. J’en suis bien aise. Appelez-la donc. »  
+conséquent. J’en suis bien aise. Appelez-la donc. »
+
 Tante Anne fit un signe et Suzanne vint offrir son joli front aux larges 
-lèvres de sa nouvelle tante.  
+lèvres de sa nouvelle tante.
+
 « Celle-ci, je l’aime déjà, dit cette dernière qui ne savait jamais 
 voiler sa pensée, et d’autant plus qu’elle se montre bonne pour mon petit 
-Lako. »  
+Lako. »
+
 Suzanne Frézelle leva ses yeux clairs sur Mme Drake et prononça sans 
-hésitation :  
+hésitation :
+
 « Moi aussi, je vous aime déjà, ma tante, mais pas autant que tante Anne, 
 que je chéris plus que tout au monde ; et n’ayez pas peur, je protégerai 
 Lako, vous verrez.  
@@ -151,10 +172,12 @@ Lako, vous verrez.
 ici : les fillettes protègent les garçonnets ?  
 — Eh ! ma tante, riposta gravement Suzanne, je sais bien que je suis plus 
 jeune et moins forte que Lako ; mais il est nouveau et ne connaît encore 
-personne ici. Et puis... »  
+personne ici. Et puis... »
+
 Elle s’arrêta, et ses yeux se dirigèrent machinalement vers le groupe 
 maussade formé par Marcel et Marine ; mais elle n’osa pas formuler plus 
-clairement sa pensée.  
+clairement sa pensée.
+
 « Allons, enfants, allez jouer, et occupez-vous un peu de votre petit 
 ami ! » dit tante Anne qui craignait avec raison que Suzanne n’exprimât 
 ses idées avec trop d’expansion.  
@@ -170,13 +193,15 @@ Harmanay restèrent ensemble.
 Quand la conversation eut roulé un instant sur le voyage et la traversée, les 
 maîtres de la Fauconnière hasardèrent quelques timides questions sur les 
 _affaires_ de Mrs Drake.  
-L’Anglaise leva au ciel ses grands bras.  
+L’Anglaise leva au ciel ses grands bras.
+
 « Ah ! mes chers amis ! s’écria-t-elle, ne m’en parlez pas ! Ce 
 procès est toujours en suspens, et je crois bien qu’il me faudra renoncer à 
 disputer à mes adversaires ma fortune et celle de Lako.  
 — Alors... vous arrivez... ruinée ?... » demanda Mme Harmanay d’une 
 voix dont l’altération n’échappa point à Mme Drake. Elle retint un 
-sourire malicieux.  
+sourire malicieux.
+
 « Ruinée,... pas totalement, Dieu merci ! J’ai de quoi subvenir aux 
 frais que notre séjour à la Fauconnière vous occasionnera ; mais cependant 
 l’avenir n’est pas, pour nous, couleur de rose...  
@@ -189,12 +214,14 @@ soigner celle de mon beau-fils, que je considère absolument comme mon enfant.
 D’ailleurs vous ne savez pas de quelle intelligence il est doué ; ensuite 
 remarquez que ce n’est pas un Indien, comme vous le dites, pas même un 
 mulâtre, malgré la couleur brune de sa peau, mais le fils de mon mari qui 
-était Anglais ; quant à sa mère, elle était Portugaise. »  
+était Anglais ; quant à sa mère, elle était Portugaise. »
+
 Les Harmanay firent un mouvement qui signifiait : « Que nous 
 importe ! » puis l’entretien roula sur tante Anne et sur la petite 
 Frézelle.  
 La grand’tante et la petite nièce ne furent guère épargnées par la peu 
-charitable Mme Harmanay :  
+charitable Mme Harmanay :
+
 « Certes c’était une bien lourde charge que cette pauvre femme ! Elle 
 était très exigeante, difficile à vivre, toujours triste, et elle se 
 plaignait sans cesse.  
@@ -208,16 +235,19 @@ elle était devenue acariâtre. Quant à la fillette qu’on me dépeint comme
 un véritable petit monstre, elle m’a semblé franche et aimante autant que 
 jolie. J’observerai tout cela par moi-même, et, ou je me trompe fort, ou je 
 crois fermement que tante Anne et Suzette Frézelle valent mille fois mieux 
-chacune que tous les Harmanay ensemble. »  
+chacune que tous les Harmanay ensemble. »
+
 Comme on appelait la jeune bande pour le lunch, Suzanne entra, le teint animé, 
 les yeux brillants, le bras passé sous celui de son nouvel ami Lako qui 
 l’accompagnait, plus calme, plus froid en apparence, mais souriant aussi.  
 En prenant place a table, à côté de Mrs Drake, il se pencha vers elle et lui 
-dit en anglais :  
+dit en anglais :
+
 « Mère, elle est bonne pour moi, et je l’aime bien.  
 — Qui cela ? fit l’Anglaise avec malice.  
 — Suzanne.  
-— Et les autres ? »  
+— Et les autres ? »
+
 Le petit garçon serra les lèvres et ne répondit pas.  
 De fait, il n’avait pas à se louer de Marcel et de Marine : ceux-ci avaient 
 continué à le regarder d’une manière impertinente et dédaigneuse, 
@@ -227,12 +257,14 @@ L’enfant, nous le savons, n’était cependant pas mulâtre, mais son teint
 s’était doré sous les rayons d’un soleil plus chaud que celui de nos 
 pays.  
 D’abord Suzanne s’était fâchée contre ses cousins, dont elle devinait la 
-sourde hostilité à l’égard du petit étranger.  
+sourde hostilité à l’égard du petit étranger.
+
 « Je vous défends de l’appeler Pain d’épice ! » s’était-elle 
 écriée.  
 Mais, haussant les épaules, Marcel et Marine avaient redoublé méchamment 
 leurs vilaines moqueries, dont une grande partie était dirigée contre leur 
-cousine.  
+cousine.
+
 « Vous êtes méchants et lâches, continuait celle-ci. C’est vilain de 
 railler un hôte que vous devriez recevoir au moins poliment. »
 
@@ -250,7 +282,8 @@ on avait pris le soin prudent de rogner les griffes naissantes.
 Suzanne, qui n’avait peur de rien, la caressa tout comme s’il se fût agi 
 d’un chat au lieu d’une petite tigresse, et la jolie bête, flairant en la 
 fillette une alliée pour son maître et pour elle, passa sa grande langue rose 
-et rugueuse sur les petites mains de cette nouvelle amie.  
+et rugueuse sur les petites mains de cette nouvelle amie.
+
 « Celle-ci, il faudra l’aimer comme moi », dit le jeune garçon à la 
 tigresse dans sa langue familière.  
 Peut-être Sweet-heart comprit-elle ce que lui disait son petit maître, car 

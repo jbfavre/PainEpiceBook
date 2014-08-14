@@ -13,7 +13,8 @@ plus beaux arbres et croquait de meilleurs fruits ; mais il n'exprime pas ses
 regrets et s’est pris de vive amitié pour Tombola qui le réchauffe entre 
 ses grosses pattes pendant les nuits trop fraîches.  
 Le perroquet Fanfan a bien reçu quelques admonestations pour avoir crié à 
-l’oreille de Marcel :  
+l’oreille de Marcel :
+
 « Oh ! qu’il est laid ! qu’il est laid ! qu’il est laid ! » 
 ce qui a violemment irrité le jeune garçon ; mais Suzanne et Lako ont 
 consolé Fanfan, et il fait maintenant la joie des domestiques, qui lui 
@@ -60,8 +61,7 @@ de la vie.
 Bonne, généreuse et droite, elle imposait aux poltrons et intimidait les 
 menteurs.  
 Suzanne et Mrs Drake s’étaient plu tout de suite, comme on l’a vu, et leur 
-affection ne faisait que s’accroître, à la très grande joie de tante Anne. 
- 
+affection ne faisait que s’accroître, à la très grande joie de tante Anne.  
 L’Anglaise pardonnait à la fillette sa fougue gamine et son étourderie en 
 raison de sa franchise et de la bonté de son cœur.  
 En quelques semaines, Lako, qui avait une intelligence peu commune, apprit 
@@ -89,7 +89,8 @@ Au lycée de Paris où sa belle-mère avait l’intention de l’envoyer
 l’hiver suivant, Lako lui ferait certainement honneur.  
 À la vue de son application et de ses succès, Suzanne eut bientôt honte de 
 sa nonchalance et de son ignorance, et elle s’efforça de devenir studieuse 
-et appliquée.  
+et appliquée.
+
 « Je ne comprends pas que tu sois si paresseuse, lui disait un jour Lako 
 avec un bon sourire corrigeant la sévérité de cette parole ; la paresse 
 est un si vilain défaut, et, à part cela, tu es si gentille.  
@@ -100,8 +101,10 @@ qu’eux ?
 — Oh ! non, Lako, répondit Suzette d’une voix douce. Mais c’est si 
 ennuyeux de conjuguer des verbes et d’étudier la chronologie pendant que le 
 soleil brille, que les oiseaux chantent et que Sweet-heart se roule sur le 
-sable doré de la terrasse avec les chiens et l’ami Romulus !  
-Lako leva imperceptiblement les épaules et sourit.  
+sable doré de la terrasse avec les chiens et l’ami Romulus !
+
+Lako leva imperceptiblement les épaules et sourit.
+
 « Il y a temps pour tout, ma petite Susy, et je t’assure que je joue de 
 meilleur cœur, moi, lorsque j’ai bien travaillé.  
 — C’est vrai, murmura la fillette songeuse, je suis toujours mal à 
@@ -119,17 +122,21 @@ ne savons où va notre fortune avec tous les procès qu’il faut soutenir.
 — Mon idée, à moi, est de devenir, très vite savant pour gagner de 
 l’argent ensuite et faire vivre ma chère maman. À ta place, je te le 
 répète, j’en ferais autant, et, une fois grande, je retirerais d’ici 
-tante Anne et je gagnerais sa vie avec la mienne par mon travail. »  
-Suzanne réfléchit un instant, puis elle sauta de joie.  
+tante Anne et je gagnerais sa vie avec la mienne par mon travail. »
+
+Suzanne réfléchit un instant, puis elle sauta de joie.
+
 « Ce sera dur, ce sera difficile ! s’écria-t-elle, mais tu as raison : 
 il faut faire cela. Oh ! mon Lako, que tu as une bonne idée et que je 
 regrette le temps perdu ! Mais je vais vite le rattraper, et désormais Mlle 
-Crest sera contente de moi. »  
+Crest sera contente de moi. »
+
 Suzanne tint parole ; les deux enfants exposèrent leurs plans à tante Anne 
 qui, nous n’avons pas besoin de le dire, les approuva.
 Un jour, tante Anne fit toutes ses confidences à Mrs Drake. Elle n’était 
 pas heureuse à la Fauconnière. Et puis elle vieillissait, et elle 
-s’inquiétait de ce que deviendrait sa pauvre petite Suzanne.  
+s’inquiétait de ce que deviendrait sa pauvre petite Suzanne.
+
 « Il ne faut désespérer de rien », lui répondit tante Drake qui se 
 leva et se mit à arpenter la chambre à grands pas, ce qui était sa manière 
 à elle d’exprimer son émotion. « Mes affaires de succession ne sont pas 
@@ -140,9 +147,10 @@ des hommes habiles et sans conscience ? Cependant, ma bonne Anne, nous
 pouvons encore voir de beaux jours. Quant à moi, je lutterai jusqu’au bout 
 pour défendre mon bien et celui de mon petit Lako.  
 — Mais, de si loin, comment pouvez-vous lutter avec quelque espoir de 
-succès, Mabel ? Je crains bien que vous ne puissiez obtenir justice ! » 
- 
-Mme Drake revint s’asseoir près de sa vieille compagne.  
+succès, Mabel ? Je crains bien que vous ne puissiez obtenir justice ! »
+
+Mme Drake revint s’asseoir près de sa vieille compagne.
+
 « Voici ce que je n’ai dit à personne encore, Anne, répondit-elle. Je 
 serai sans doute obligée de repartir pour Bombay dans quelques mois...  
 — Alors pourquoi êtes-vous venue en France ? demanda tante Anne.  
@@ -154,7 +162,8 @@ le silence sur tout ceci, Anne, je vous en prie ; Lako lui-même n’en
 sait rien, et je ne le lui apprendrai que lorsqu’il sera au collège ; là, 
 les études le distrairont forcément de son chagrin.  
 — Ah ! pauvre amie ! combien la vie est difficile ! » soupira tante 
-Anne en reprenant son tricot un instant abandonné.  
+Anne en reprenant son tricot un instant abandonné.
+
 Mme Drake alla préparer une valise afin de se disposer a partir pour Paris, 
 où ses affaires devaient la retenir pendant quelques jours.  
 À son retour, elle apporta une jolie robe à Suzanne, un bon châle à tante 
@@ -163,33 +172,42 @@ Blanc-Blanc ne fut pas oublié et poussa un cri de joie en recevant une
 chaîne de montre en doublé ; comme tous les nègres, il aimait le 
 clinquant.  
 Quant à Lako, il prit des mains de sa belle-mère une boîte de forme 
-allongée dont la vue fit étinceler de joie ses yeux noirs.  
+allongée dont la vue fit étinceler de joie ses yeux noirs.
+
 « Il est réparé et tout à fait bon, lui dit Mme Drake. Pauvre petit ! 
 il y a longtemps que cela te manquait.  
 — Qu’est-ce donc ? demanda la curieuse Suzanne en désignant la boîte.  
 — Tu verras », répondit simplement Lako. qui courut s’enfermer dans sa 
-chambre.  
+chambre.
+
 Environ une demi-heure plus tard, les fillettes, qui prenaient leur leçon avec 
 Mlle Crest, levèrent toutes les deux la tête et tendirent l’oreille avec 
 surprise : un son très doux, un chant d’une harmonie incomparable vibrait 
-dans toute la maison.  
+dans toute la maison.
+
 « Tiens, qui est-ce qui joue du violon ? demanda Marine étonnée.  
 — Tais-toi donc et écoute ! » répondit Suzanne en la poussant du 
-coude.  
+coude.
+
 Mlle Crest, elle-même sous le charme, prêtait l'oreille.  
-Quand les accords s’éteignirent, elle demanda à Marine :  
-« C’est sans doute votre père qui joue ? »  
-Suzanne répondit en souriant :  
+Quand les accords s’éteignirent, elle demanda à Marine :
+
+« C’est sans doute votre père qui joue ? »
+
+Suzanne répondit en souriant :
+
 « Mon oncle ? ah ! bien oui ! il abhorre la musique. C’est Lako !  
 — Allons donc ! Lako, toujours ton Lako, ce Pain d’épice ! répliqua 
 Marine irritée par la remarque inconsidérée de sa cousine. Comment veux-tu 
 qu’il sache si bien jouer du violon ?  
 — Lako peut tout ce qu’il veut, et sait bien des choses, riposta la 
 fillette qui s’échauffait. D’ailleurs je vais avoir la preuve que c’est 
-bien lui. »  
+bien lui. »
+
 Et, d’un bond, avant que Mlle Crest eût pu la retenir, Suzanne gagnait la 
 porte, franchissait le corridor, montait l’escalier et entrait comme une 
-bombe dans la chambre où Lako rajustait une corde à son violon.  
+bombe dans la chambre où Lako rajustait une corde à son violon.
+
 « C’est toi, Lako, c’est toi ! Je savais bien que ça ne pouvait être 
 que toi ! s’écria-t-elle. Oh ! tu es un grand musicien !  
 — Non, Suzanne, mais j’en deviendrai un ! répondit le jeune garçon, un 
@@ -197,26 +215,35 @@ peu étourdi par cette brusque irruption. J’aime tant la musique !
 — Pourquoi ne me disais-tu pas que tu joues du violon ?  
 — J’attendais que maman me rapportât mon instrument de Paris, où il 
 était en réparation. »
-Lako sourit, puis, soudain inquiet :  
-« Mais ce n’est donc pas l’heure de ta leçon avec Mlle Crest ? »  
-Suzanne baissa la tête.  
+
+Lako sourit, puis, soudain inquiet :
+
+« Mais ce n’est donc pas l’heure de ta leçon avec Mlle Crest ? »
+
+Suzanne baissa la tête.
+
 « C’est vrai, je vais être bien grondée : j’ai quitté la classe pour 
 venir m'assurer que c’est toi qui jouais.  
 — Oh ! Suzanne, va-t'en vite ! Désormais je ne ferai jamais de 
-musique : au moment de ton travail. »  
+musique : au moment de ton travail. »
+
 Suzanne allait se récrier, mais, tout en gagnant la porte, elle dit, après 
-une seconde de réflexion :  
+une seconde de réflexion :
+
 « Eh bien, tu as raison : ne joue jamais pendant que j’étudie, car je 
-n’écouterais que toi ! »  
+n’écouterais que toi ! »
+
 Selon ses prévisions, la fillette fut grondée quand elle rentra dans la salle 
 d’étude, mais elle reçut sa punition avec humilité, car elle comprenait 
 qu’elle l’avait bien méritée en quittant la classe brusquement, sans 
 l’autorisation de sa maîtresse.  
 À dîner, comme elle était privée de dessert, Lako voulut partager ses 
-fruits avec elle.  
+fruits avec elle.
+
 « Non, lui répondit-elle résolument. Je ne mérite pas d’en avoir 
 aujourd’hui. Seulement, si tu veux me dédommager, Lako, tu me feras de la 
-musique ce soir avant que je me couche. »  
+musique ce soir avant que je me couche. »
+
 Vous devinez que Lako ne refusa pas de lui faire plaisir, et il lui joua ses 
 airs préférés pendant une grande heure.  
 Cet enfant, singulièrement doué sous le rapport des dispositions musicales, 
@@ -234,13 +261,14 @@ pleure sa patrie absente et les nuits radieuses d’une terre admirable.
 s’émerveille, mais souvent meurt brûlé de fièvre, et Suzanne finissait 
 par le connaître un peu, cet Hindoustan qu’elle eût bien voulu voir.  
 Quand le violon se tut, la fillette leva sur le musicien ses yeux bleus 
-enfoncés sous les cils châtains ; ils étaient pleins de larmes.  
+enfoncés sous les cils châtains ; ils étaient pleins de larmes.
+
 « Tu regrettes ton pays, n’est-ce pas, Lako ? lui dit-elle.  
 — Non, Susy, je ne regrette plus rien et je me trouve bien ici. Et puis, à 
 Paris, je prendrai des leçons d’un grand professeur et je deviendrai un 
-artiste. Maman l’a dit. Oh ! j’aime tant la musique ! »  
-Des voix grondeuses appelaient Suzanne ; elle dut obéir et aller se coucher. 
- 
+artiste. Maman l’a dit. Oh ! j’aime tant la musique ! »
+
+Des voix grondeuses appelaient Suzanne ; elle dut obéir et aller se coucher.  
 Depuis ce jour, à la Fauconnière on entendit souvent un murmure lointain et 
 harmonieux, parfois triste, parfois joyeux, qui provenait du violon de Lako ; 
 le jeune garçon jouait chez lui, ou dehors sous les ombrages touffus du parc, 

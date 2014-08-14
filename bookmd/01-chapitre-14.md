@@ -6,7 +6,8 @@ en croquant des gâteaux.
 Le visage de Lako rayonnait d'une joie paisible et profonde ; depuis quelque 
 temps il se sentait devenir un homme.  
 Tout à coup tante Anne repoussa son livre où s'alignaient les chiffres, ôta 
-ses lunettes, et se tournant vers le jeune homme :  
+ses lunettes, et se tournant vers le jeune homme :
+
 « Sais-tu que c'est fort beau, mon enfant, dit-elle d'une voix émue, 
 d'avoir gagné à toi tout seul quinze cents francs en trois semaines !  
 - Oui, tante, mais on est si bon pour moi ! Quand je pense à l'empressement 
@@ -56,7 +57,8 @@ propre de tuteurs, ils invitèrent tante Anne, Suzanne et Lako à venir passer
 un mois ou deux à la Fauconnière.  
 Tante Anne accepta cette invitation, moins pour elle-même qui ne se sentait 
 jamais à son aise chez ses neveux, que pour la fillette et le garçonnet, 
-auxquels l'air de la campagne devait faire grand bien.  
+auxquels l'air de la campagne devait faire grand bien.
+
 « Comme je serai contente de revoir Sweet-heart, Romulus et les oiseaux, 
 sans compter la bonne demoiselle Irma ! s'écria Suzanne à l'annonce de ce 
 voyage.  
@@ -64,7 +66,8 @@ voyage.
 Lako.  
 - Mon Dieu, si ! fit l'enfant avec une moue expressive. C'est naturel ; 
 seulement je serai tout de même très contente de revoir « la 
-ménagerie ».  
+ménagerie ».
+
 Suzanne eut cependant une déception dès le premier jour de son arrivée à la 
 Fauconnière, Sweet-heart, en prenant de l'âge, devenait méchante ; elle 
 reconnut à peine son petit maître, montra les dents à Suzanne et ne fut pas 
@@ -74,11 +77,13 @@ aimable du tout avec tante Anne.
 
 « Oh ! ma chère, lui dit la petite Frézelle, qui ne brillait pas par la 
 patience, si tu le prends comme ça, on ne fera plus attention à toi ; voila 
-ce que tu y gagneras ! »  
+ce que tu y gagneras ! »
+
 M. Harmanay leur expliqua alors qu'en général les fauves domptés et amenés 
 très jeunes en Europe demeurent doux et obéissants dans leur jeunesse, mais 
 que le naturel reprend bien vite le dessus, et qu'il faut souvent se défaire 
-de ces animaux.  
+de ces animaux.
+
 « C'est ce qui t'attend, ma fille ! » dit Suzanne à la tigresse.  
 Celle-ci lui répondit par un grognement.  
 Il fallait désormais l'enchaîner à sa niche, car elle faisait peur aux 
@@ -105,7 +110,8 @@ Anne et pour Suzanne. Néanmoins la première devinait qu'ils ne seraient pas
 un appui pour elle en cas de malheur, et elle se promit de n'avoir jamais 
 recours a eux.  
 À la fin de septembre, le petit trio rentra à Paris et se réinstalla avec 
-plaisir dans son appartement de la rue Bleue.  
+plaisir dans son appartement de la rue Bleue.
+
 « On est encore mieux chez soi que partout ailleurs ! » s'écriait 
 Suzanne en touchant chaque objet, dans sa grande joie de se retrouver _à la 
 maison_.  
@@ -120,5 +126,6 @@ francs. De plus, on lui promit de le lancer l'hiver suivant et de le produire
 dans plusieurs grands concerts où son nom paraîtrait a côté de celui des 
 maîtres.  
 Le cher enfant n'éprouva nul orgueil. Il remercia Dieu au fond de son cœur, 
-et soupira en essuyant une larme sur sa joue :  
+et soupira en essuyant une larme sur sa joue :
+
 « Ah ! si ma pauvre maman était là, au moins ! »

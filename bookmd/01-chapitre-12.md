@@ -15,11 +15,13 @@ Une ancienne amie de Mme Anne, morte peu après les événements que nous
 venons de raconter, avait eu la bonne inspiration de lui léguer une somme de 
 six mille francs.  
 Au lieu de réserver pour ses vieux jours cette somme arrivée si à propos, 
-tante Anne la consacra entièrement à l'éducation de Lako.  
-"Cela nous mènera bien jusqu'à ce que le pauvre enfant puisse se tirer 
+tante Anne la consacra entièrement à l'éducation de Lako.
+
+« Cela nous mènera bien jusqu'à ce que le pauvre enfant puisse se tirer 
 d'affaire lui-même, pensait-elle ; alors, je le connais, il rendra cent pour 
 un à sa bonne vieille amie, et si je ne vois pas ce moment, eh bien, je m'en 
-irai de ce monde avec la satisfaction de l'avoir sorti de peine."  
+irai de ce monde avec la satisfaction de l'avoir sorti de peine. »
+
 Elle loua, au cinquième étage d'une maison de la rue Bleue, un petit 
 appartement composé de deux chambres à coucher, d'une salle à manger et 
 d'une petite cuisine. Cela suffisait ; elle occupait une des deux pièces 
@@ -56,7 +58,8 @@ Lako était la passion des petits enfants de la maison, qui cessaient de crier
 dès que retentissaient les accords de son violon.  
 Il y avait également, au-dessous de l'appartement de nos amis, deux pauvres 
 infirmes que sa musique berçait, et qui ne sentaient plus autant l'acuité de 
-leurs douleurs dès que l'adolescent posait l'archet sur la corde.  
+leurs douleurs dès que l'adolescent posait l'archet sur la corde.
+
 « Pauvres enfants, murmurait parfois tante Anne en les contemplant, vous 
 n'étiez pas nés pour vivre aussi pauvrement, toi surtout, mon Lako, qui n'as 
 connu jusqu'à présent que le luxe et le bien-être.  
@@ -81,14 +84,17 @@ est chose essentielle à votre âge. »
 ![Suzelle Se mit à essuyer la vaisselle.](../images/page135.jpg)
 
 Tante Aune sourit à cette évocation de bonheur futur, mais en elle-même elle 
-pensait :  
+pensait :
+
 « Tout cela est très joli, mais il se passera encore du temps avant que ce 
 gentil Lako gagne de l'argent. Il n'a pas quinze ans, et la vie à Paris coûte 
 cher. Enfin, Dieu nous viendra en aide. Tant que nous avons tous la santé, 
-c'est déjà beaucoup. »  
+c'est déjà beaucoup. »
+
 Comme pour affirmer mieux ses heureuses prédictions, le jeune Drake prit son 
 violon et attaqua un chant de gloire et d'allégresse.  
-Suzanne embrassa la vieille dame.  
+Suzanne embrassa la vieille dame.
+
 « Comment voulez-vous qu'avec un talent pareil il ne devienne pas très 
 riche un jour ? » dit-elle.  
 Et elle se mit bravement à essuyer la vaisselle.

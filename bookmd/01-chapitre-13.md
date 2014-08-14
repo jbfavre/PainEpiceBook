@@ -84,50 +84,60 @@ opéras, leurs derniers drames ; les hôtels et les riches demeures, leur
 derniers bals ; des concerts s'organisaient de tous les côtés ; aussi le 
 professeur de Lako, qui donnait partout des auditions, était-il excédé.  
 Un après-midi, tandis que les enfants et tante Anne s'habillaient pour leur 
-promenade quotidienne, on sonna.  
+promenade quotidienne, on sonna.
+
 « Nous n'attendons pourtant pas de visite aujourd'hui, dit gaîment Suzanne. 
 À moins que Marcel et Marine ne se soient échappés de leur cage...  
-- Folle ! » fit Lako en riant.  
+- Folle ! » fit Lako en riant.
+
 Ce fut le jeune homme qui alla ouvrir ; il repartit seul, tenant à la main 
 un billet, que, en garçon bien élevé, il présenta à tante Anne, quoiqu'il 
 fût adressé à M. Drake.  
 Tante Anne le parcourut rapidement des yeux et le lui rendit. C'était une 
 invitation de son professeur à se rendre chez lui avant quatre heures.
+
 « Tu vas y aller tout de suite, dit la vieille dame ; rien ne t'en 
 empêche, ton temps est libre. Il ne faut pas faire attendre ton professeur.
 - C'est sans doute pour remplacer ma leçon de demain, qu'il ne pourra pas me 
 donner à l'heure convenue, murmura l'adolescent. Je vais toujours emporter mon 
-violon. »  
+violon. »
+
 Il partit donc de son côté, et Suzanne ne trouva pas sa promenade aussi 
 agréable, malgré le beau soleil, la brise tiède et les passants joyeux : 
 Lako lui manquait.
 Cependant, ce dernier s'en allait en chantonnant par le chemin le plus court.  
 Il arriva chez son maître au moment ou celui-ci préparait sur son divan une 
 toilette de gala.  
-L'artiste se retourna vivement et s'avança vers le jeune homme.  
-« Ah ! c'est vous, Drake, dit-il ; mon cher enfant, avez-vous du 
-courage ?  
+L'artiste se retourna vivement et s'avança vers le jeune homme.
+
+« Ah ! c'est vous, Drake, dit-il ; mon cher enfant, avez-vous du courage ?  
 - Je ne sais, monsieur ; c'est selon, répondit Lako étonné de cet exorde.  
 - Êtes-vous timide ?  
 - Je ne l'ai pas été beaucoup jusqu'à présent.  
 - Vous sentez-vous de force a jouer du violon devant une assemblée de mille 
 personnes au moins ?  
-- 0h ! maître ! » fit l'adolescent terrifié.  
-L'artiste n'y allait pas par quatre chemins ; il était brusque, mais bon.  
+- Oh ! maître ! » fit l'adolescent terrifié.  
+L'artiste n'y allait pas par quatre chemins ; il était brusque, mais bon.
+
 « Voyons, mon cher enfant, reprit-il, je n'ignore pas que vous n'êtes pas 
 riche et que votre bonne tante a été gênée par deux récentes maladies. Ces 
 choses-là se devinent, surtout chez nous autres, gens de l'art qui ne sommes 
 pas toujours riches. Aussi ai-je pensé à vous, de préférence à mes autres 
-élèves, plus âgés que vous. »  
-Lako se demandait toujours où son professeur voulait en venir.  
-« Voulez-vous gagner cinq cents francs en une soirée, enfin ? » 
-demanda l'artiste.  
+élèves, plus âgés que vous. »
+
+Lako se demandait toujours où son professeur voulait en venir.
+
+« Voulez-vous gagner cinq cents francs en une soirée, enfin ? » demanda l'artiste.  
 - Moi, monsieur ? Si je veux ?... Cinq cents ?... cinq cents 
-francs ?... et en une soirée ?... »  
-Lako suffoquait.  
+francs ?... et en une soirée ?... »
+
+Lako suffoquait.
+
 « Mais ce n'est pas possible, monsieur, ajouta-t-il ; j'en suis incapable, 
-je ne suis qu'un enfant... »  
-Le maître frappa légèrement du pied avec une impatience affectée :  
+je ne suis qu'un enfant... »
+
+Le maître frappa légèrement du pied avec une impatience affectée :
+
 « Il ne faut pas me contredire ; je sais ce que j'avance, parbleu !... 
 Voici ce dont il s'agit : un artiste célèbre, X..., dont je vous ai parlé 
 souvent, devait jouer ce soir à la Salle Philharmonique... Oh ! des soli, 
@@ -142,17 +152,21 @@ impossible ?
 concert ; cela suffit pour vous y préparer, mais non pour me donner le 
 loisir de chercher un troisième violoniste. Voyons, mettez-vous là, et 
 jouez-moi votre _Fantasia appassionata_ ; c'est généralement votre 
-triomphe. »  
+triomphe. »
+
 Lako obéit et joua.  
 C'était son triomphe, en effet, que la _Fantasia appassionata_, et il rendit 
 merveilleusement la pensée du maître.  
 L'artiste l'écoutait, hochant la tête pour approuver aux passages les mieux 
 exécutés, et coupant d'observations ceux qu'il trouvait plus faibles.  
-Quand ce fut fini :  
+Quand ce fut fini :
+
 « C'est assez bien, dit-il, vous avez du brio et du sentiment ; cela 
-remplacera le fini qui vous manque. À présent, vite l'_Air hongrois_. »  
+remplacera le fini qui vous manque. À présent, vite l'_Air hongrois_. »
+
 L'enfant reprit son violon ; l'_Air hongrois_ était difficile, mais Lako le 
-travaillait depuis longtemps et le savait bien.  
+travaillait depuis longtemps et le savait bien.
+
 « Ensuite, comme il est à supposer qu'on vous applaudira ferme et qu'il 
 faut toujours se montrer généreux envers un public flatteur, vous reprendrez 
 votre violon après les salutations d'usage et attaquerez un troisième 
@@ -160,21 +174,24 @@ morceau. Voyons, quelque chose de facile et de gai...
 Cherchez donc, Lako, je ne me rappelle pas ce que vous pourriez faire entendre 
 encore.  
 - La _Chanson indienne_ ? suggéra timidement Lako.  
-- Ah non ! ma foi ! un air à porter en terre ! et puis, trop 
-monotone ; on sifflerait, pour le coup. Cherchez encore.  
+- Ah non ! ma foi ! un air à porter en terre ! et puis, trop monotone ; on
+sifflerait, pour le coup. Cherchez encore.  
 - La Mélodie de Bizet ?  
-- Hum ! J'ai grand'peur que vous ne l'ayez oubliée ; voyons pourtant. » 
- 
+- Hum ! J'ai grand'peur que vous ne l'ayez oubliée ; voyons pourtant. »
+
 La Mélodie de Bizet vint sous l'archet si jolie et si expressive, que 
-l'artiste murmura à part lui :  
+l'artiste murmura à part lui :
+
 « J'ai bien fait de jeter mon dévolu sur ce gamin. Outre qu'il est 
 admirablement doué, l'appât des cinq cents francs lui fait faire des 
 miracles. Il aura un succès fou, ce garçon-là, ce soir. Et puis ce nom 
 étranger de Lako Drake sonne bien et plaira au public. Allons ! ça ira, ça 
 ira, et il m'en reviendra de l'honneur, car Lako est mon élève depuis près 
-d'un an. Décidément j'ai eu du flair ! »  
+d'un an. Décidément j'ai eu du flair ! »
+
 Seulement, afin que son disciple ne contractât point d'orgueil, l'artiste 
-reprit tout haut :  
+reprit tout haut :
+
 « Mon cher enfant, tout cela suffira pour... boucher le trou, comme on 
 dit ; mais n'allez pas vous figurer, parce qu'on vous applaudira, que vous 
 êtes un Paganini ou un Sarasate ; sachez qu'on applaudit et bisse tous les 
@@ -196,7 +213,7 @@ rue Lafayette ; je vais prendre un fiacre ; vous y monterez avec moi et je
 vous déposerai chez vous ; vous demanderez à madame votre tante 
 l'autorisation de jouer ce soir à la Salle Philharmonique (ce qu'elle ne vous 
 refusera pas), et de dîner avec moi.  
-« Vous endosserez votre plus beau costume ; il est inutile de passer chez 
+Vous endosserez votre plus beau costume ; il est inutile de passer chez 
 le coiffeur, puisque vos cheveux sont frisés par la nature. À six heures et 
 demie soyez ici pour avaler un blanc de volaille et boire une tasse de bon 
 café. Puis nous partons ; je vous conduis à la Salle Philharmonique en vous 
@@ -216,6 +233,7 @@ légumes du dîner lorsque Lako se présenta à elles.
 Son visage exprimait une telle émotion, ses yeux étaient si brillants, que 
 Suzette courut à lui, laissant tomber de son petit tablier la salade fraîche 
 qui s'y amoncelait.
+
 « Tu as certainement une bonne nouvelle a nous annoncer ; voyons, parle 
 vite ! s'écria-t-elle.  
 - Il faut auparavant que je demande la permission à tante Anne », répliqua 
@@ -225,7 +243,8 @@ projets pour le soir. Il ne tut qu'une chose : le prix qu'il espérait
 recevoir pour son audition musicale.  
 D'abord, l'artiste avait peut-être jeté trop en l'air ce chiffre de cinq 
 cents francs qui paraissait énorme à Lako : l'enfant ne voulait pas donner 
-une fausse joie à sa tante ni à sa petite amie.  
+une fausse joie à sa tante ni à sa petite amie.
+
 « Tu vas peut-être bien rapporter cinquante francs ! s'écria Suzanne 
 avec emphase. Gagner cinquante francs, en quelques heures, mon Dieu ! quand 
 il faut faire tant d'ouvrages au crochet ou tant de bandes de tapisserie pour 
@@ -234,7 +253,8 @@ en avoir seulement vingt !
 francs pour jouer deux ou trois morceaux dans une soirée. Mais leur 
 réputation était faite, leur talent indiscutable ; on ne donnera sans doute 
 rien à un novice comme Lako qui paraît pour la première fois en public ; 
-il ne faut pas te faire illusion, mon pauvre chéri.... »  
+il ne faut pas te faire illusion, mon pauvre chéri.... »
+
 Lako ne répondit pas et retint un sourire malicieux ; il espérait bien au 
 moins cent francs, lui.  
 Mais, quand il exhiba les deux billets d'invitation au concert pour Mme Anne et 
@@ -246,7 +266,8 @@ avec un soin extrême ; puis on s'occupa de celle de Suzanne, et enfin tante
 Anne tira du fond d'un tiroir, pour elle-même, une robe de soie, démodée 
 mais encore belle.  
 On dut acheter une cravate et des gants, mais que n'eût-on pas fait en 
-l'honneur du triomphe certain du cher Lako ?  
+l'honneur du triomphe certain du cher Lako ?
+
 « C'est encore une dépense, pensait l'excellente veuve, et nous sommes 
 déjà si pauvres ! bah ! je prendrai les gants et la cravate au 
 Bon-Marché, et mes chéris ont si gentille mine par eux-mêmes qu'ils 

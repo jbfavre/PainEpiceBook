@@ -9,7 +9,8 @@ Et cependant, ni tante Anne, ni la petite Frézelle n'avaient envie de
 sortir ; elles restaient blotties près du feu, pensives, sans se parler.  
 Soudain, des pas précipités se firent entendre sur le palier.  
 On frappa : tante Anne se leva et Suzette devint toute blanche.  
-C'étaient des hommes qui portaient un fardeau.  
+C'étaient des hommes qui portaient un fardeau.
+
 « Mon Dieu ! Lako ! cria Suzanne, qui se retint à une chaise pour ne 
 pas tomber.  
 - Seigneur, que lui est-il arrivé ? gémit la pauvre tante Anne, prête, 
@@ -29,12 +30,15 @@ va rouler à dix pas, contre un refuge, où des gens l'ont relevé. Il n'a
 jeté qu'un cri : « Mon bras gauche ! Ah ! mon Dieu ! mon 
 violon !... » Puis il a perdu connaissance. Une personne qui le connaît 
 nous a donné son adresse, et le voilà. Ne vous désolez pas, ma bonne 
-dame ; ça ne sera pas grand chose. »  
+dame ; ça ne sera pas grand chose. »
+
 Quand l'homme eut fini sa tirade, tante Anne lui glissa dans la main une pièce 
-de cinq francs en lui disant :  
+de cinq francs en lui disant :
+
 « Maintenant, allez vite, vous ou votre camarade, me chercher le docteur 
 Mastre ; c'est un bon chirurgien. Il faut que le bras de mon pauvre enfant 
-soit bien remis sans retard et bien soigné. »  
+soit bien remis sans retard et bien soigné. »
+
 Les deux hommes remercièrent Mme Anne, la saluèrent et coururent chez le 
 médecin en question.  
 Ils eurent la chance de le trouver chez lui et lui indiquèrent la maison de 
@@ -51,11 +55,11 @@ Suzanne avait commencé par se boucher les oreilles pour ne pas entendre crier
 son cher Lako ; mais elle pensa qu'il aimerait sans doute mieux la sentir 
 près de lui, courageuse et calme ; et, quoique toute pâle et toute 
 tremblante, elle demeura vaillamment de l'autre côté du lit, essayant de 
-sourire à son petit ami et tenant dans la sienne la main qu'il avait de libre. 
- 
+sourire à son petit ami et tenant dans la sienne la main qu'il avait de libre.  
 Lako ne poussa pas un cri, mais son visage n'aurait pu être plus pâle.  
 Tante Anne, courageuse et résolue, elle, aidait le chirurgien et lui 
-présentait les objets dont il avait besoin.  
+présentait les objets dont il avait besoin.
+
 « Là, mon petit ami, voila qui est fait ! dit ce dernier lorsque tout fut 
 fini. Il ne va pas se lever de quatre à cinq jours ; puis, il pourra marcher 
 un peu, et ensuite sortir tant qu'il voudra ; mais il gardera l'appareil 
@@ -66,9 +70,12 @@ au blessé la potion que je vais ordonner. Surtout, qu'il ne mange pas durant
 vingt-quatre heures ! Qu'il prenne seulement de la tisane.  
 - Monsieur, dit alors Lako, parlant pour la première fois depuis qu'on l'avait 
 rapporté au logis, au bout de ces trois semaines je pourrai jouer du violon, 
-n'est-ce pas ? »  
-Le docteur Mastre détourna la tête et répondit en grommelant :  
-« Nous verrons ça, nous verrons ça ! Il y a temps pour tout. »  
+n'est-ce pas ? »
+
+Le docteur Mastre détourna la tête et répondit en grommelant :
+
+« Nous verrons ça, nous verrons ça ! Il y a temps pour tout. »
+
 Puis il partit.  
 Après son départ, Lako eut une fièvre si violente que tante Aune, effrayée, 
 faillit renvoyer chercher le médecin. Mais, vers le soir, la fièvre se calma 
@@ -86,9 +93,11 @@ Hélas ! tante Anne soupira, prit son rosaire et se fia à la Providence.
 le bras fut long à se remettre, néanmoins il se remit. Au bout de trois mois, 
 Lako était guéri, seulement l'enfant perdit le sourire et tomba dans une 
 sorte de marasme qui inquiéta tante Anne. Il était toujours doux et docile, 
-mais il semblait n'avoir plus tout l'entrain de son âge.  
+mais il semblait n'avoir plus tout l'entrain de son âge.
+
 « Cela reviendra, se dit Mme Anne ; le pauvre chéri s'ennuie ; il 
-était habitué à étudier toute la journée ; son violon lui manque. »  
+était habitué à étudier toute la journée ; son violon lui manque. »
+
 Hélas ! Lako sentait son bras si raide, sa main si engourdie, qu'il se 
 demandait s'il recouvrerait jamais l'usage de ses doigts. Cette idée le 
 chagrinait, mais il n'en parlait pas, de peur de faire de la peine à sa tante 

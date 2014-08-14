@@ -68,7 +68,8 @@ alors recours au vétérinaire. Mais je ne veux pas que pour cette raison tu te
 détournes une minute de ton travail.  
 — Non, tante, je vous promets de ne m'occuper de Romulus que pendant mes 
 récréations. Merci, tante Anne ! Que vous êtes bonne, comme 
-toujours ! » s'écria Suzanne en sautant au cou de la vieille dame.  
+toujours ! » s'écria Suzanne en sautant au cou de la vieille dame.
+
 La fillette tint parole, cacha son inquiétude pendant ses leçons et se mit à 
 l'ouvrage avec zèle. Mais elle se dédommageait pendant ses moments de congé 
 et allait tenir compagnie au malade : elle lui apportait des infusions et lui 
@@ -80,7 +81,8 @@ soigneusement ouatée par tante Anne.
 Disons tout de suite, afin de rassurer nos jeunes lecteurs qui doivent trembler 
 pour les jours de Romulus, que le singe se rétablit petit à petit et sans 
 l'aide du vétérinaire. Aussi, au commencement de l'hiver, Suzanne, radieuse, 
-put-elle annoncer à Lako le rétablissement de l'animal.  
+put-elle annoncer à Lako le rétablissement de l'animal.
+
 « Je te l'avoue maintenant que c'est passé et qu'il n'y a plus de danger, 
 écrivait-elle à son petit ami, j'ai été bien inquiète. Romulus a beaucoup 
 maigri et pâli, mais il reprend chaque jour des forces et se remet à manger 
@@ -88,16 +90,17 @@ autre chose que du lait. Nous l'avons soigné comme un prince, je te l'assure.
 Kiss souffre de douleurs assez vives ; tante Harmanay a un rhume de 
 cerveau ; Marine est toujours la même, c'est-à-dire pas très gentille. 
 Quant aux oiseaux, ils sont un peu tristes.  
-« Tante Drake nous a donné de ses nouvelles comme à toi, du reste ; nous 
+Tante Drake nous a donné de ses nouvelles comme à toi, du reste ; nous 
 sommes contents de savoir qu'elle va bien, malgré tous ses soucis.  
-« Tante Anne me charge de te dire que ton dernier bulletin fera grand 
+Tante Anne me charge de te dire que ton dernier bulletin fera grand 
 plaisir à ta maman quand elle le recevra. Sais-tu que c'est très beau pour un 
 étranger d'avoir de si belles places ? C'est Marcel qui doit être vexé en 
 constatant que tu es un meilleur élève que lui !  
-« Et il paraît aussi que tu fais beaucoup de progrès en musique avec ton 
+Et il paraît aussi que tu fais beaucoup de progrès en musique avec ton 
 nouveau professeur ; surtout n'oublie pas d'apporter ton violon aux 
 prochaines vacances.  
-« Ta petite amie Suzanne et tante Anne t'embrassent très fort. »  
+Ta petite amie Suzanne et tante Anne t'embrassent très fort. »
+
 C'était un jour de fête pour le pauvre Lako que celui où il recevait une 
 lettre de la Fauconnière ou de Bombay.  
 Il n'eût pas été positivement malheureux au lycée, parce qu'il aimait 
