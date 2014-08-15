@@ -47,7 +47,7 @@ personne. Qu’est-ce qui me vaut l’honneur de ta visite ? »
 
 Suzanne se troubla un peu.
 
-« Mademoiselle , commença-t-elle, vous êtes très bonne, n’est-ce-pas ?
+« Mademoiselle , commença-t-elle, vous êtes très bonne, n’est-ce-pas ?  
 — J’essaie de l’être, au moins, répondit la vieille fille en souriant ;
 mais je crois bien que dans le pays on surfait ma réputation.  
 — Non, non, je sais que vous êtes très bonne ; tante Anne l’a dit, et 
