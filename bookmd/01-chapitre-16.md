@@ -248,8 +248,7 @@ dessert à dîner, ce soir, n’est-ce pas, tante Anne ? »
 Tante Anne sourit en secouant affirmativement la tête ; au fond de son cœur 
 elle remerciait Dieu.
 
-« Les enfants seront heureux, pensait-elle, et ma vieillesse 
-paisible ! »
+« Les enfants seront heureux, pensait-elle, et ma vieillesse paisible ! »
 
 Tout à coup Lako sauta au cou du nègre en s’écriant :
 

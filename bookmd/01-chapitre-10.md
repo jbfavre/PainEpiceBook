@@ -109,7 +109,7 @@ Des flammes s’élevaient déjà dans un angle de la chambre.
 Marcel ne répondit pas.  
 Au seuil de la porte, Sweet-heart reculait en grognant d’une manière 
 terrible ; elle eût bien suivi son maître, mais le jeune Harmanay était 
-la, et on sait que la tigresse le détestait ; de plus, les fauves ont peur 
+là, et on sait que la tigresse le détestait ; de plus, les fauves ont peur 
 du feu.  
 Cependant Lako avait fini par arriver auprès du lit de son cousin ; sa main 
 ne rencontra qu’un visage glacé.  

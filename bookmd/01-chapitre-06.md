@@ -47,7 +47,7 @@ mes affaires.
 Depuis, elle ne demanda plus jamais rien à Marine, pas plus qu’à Marcel dont 
 la générosité égalait celle de sa sœur.  
 Ces dernières semaines d’été qui succédèrent au départ de tante Drake et 
-de Blanc-Blanc, furent, en vérité, le plus beau moment des deux amis ?  
+de Blanc-Blanc, furent, en vérité, le plus beau moment des deux amis.  
 Les quatre enfants eurent vacances complètes, Marcel et Lako devant 
 prochainement entrer au collège.  
 Les deux inséparables, Lako et Susy, ne se quittaient guère, passant de 
@@ -112,7 +112,7 @@ trois objets empaquetés des regards d’étonnement et même de curiosité
 mécontente.  
 D’une main tremblante, Suzanne développa d’abord le papier du plus gros 
 paquet : il en sortit un ravissant col de dentelle où elle reconnut la main 
-de de tante Anne.  
+de tante Anne.  
 C’était alors la mode, pour les fillettes, de porter des ornements de guipures 
 sur les corsages, et Suzanne n’en avait guère que d’un tissu très commun.  
 L’ouvrage délicat de tante Anne excita l’admiration de tous, et Susy 

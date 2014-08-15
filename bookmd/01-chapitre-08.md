@@ -13,7 +13,7 @@ détachent deux points noirs, l’un plus gros que l’autre.
 À mesure qu’ils s’approchent de _Bon-Repos_, on peut distinguer la silhouette 
 d’une petite fille d’une dizaine d’années, puis celle d’un animal de la taille 
 d’un gros chien. Nos lecteurs ont deviné qu’il s’agit de Suzanne Frézelle et 
-de son amie Sweet-heart.
+de son amie Sweet-heart.  
 Les deux promeneuses marchent vite, comme des personnes pressées.  
 Sur le visage futé de la petite fille on aurait pu lire une hâte fébrile.  
 Lorsqu’elle fut arrivée à _Bon-Repos_, Suzanne sonna timidement et dit à la 
