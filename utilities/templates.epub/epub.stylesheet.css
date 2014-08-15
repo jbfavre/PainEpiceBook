@@ -30,7 +30,8 @@ body {
   font-size: 2em;}
 .chapter {
   padding-top:0;
-  display:block;}
+  display:block;
+  text-align:left;}
 .chapterHeader {
   height:60px;
   border:1px solid #000;

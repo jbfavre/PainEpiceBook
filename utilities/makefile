@@ -70,13 +70,17 @@ endif
 		--epub-metadata=$(make_dir)/../metadata.fr.epub \
 		--epub-chapter-level=2 \
 		--epub-cover-image=$(img_dir)/cover.jpg \
-		-o $(outputdir)/$(@)3.epub \
+		-o $(outputdir)/$(patsubst %.epub,%,$(@)).epub3 \
 		../metadata.md \
 		$(pages_dir)/*.md
 	@echo "Extraction de l'epub..."
 	@$(unzip_bin) -qq \
 		-d $(outputdir)/$(patsubst %.epub,%,$(@)) \
 		$(outputdir)/$(@)
+#		ch*.xhtml images*
+	@$(unzip_bin) -qq \
+		-d $(outputdir)/$(patsubst %.epub,%,$(@))3 \
+		$(outputdir)/$(patsubst %.epub,%,$(@)).epub3
 #		ch*.xhtml images*
 
 %.all: | %.epub
