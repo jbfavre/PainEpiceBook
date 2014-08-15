@@ -1,4 +1,4 @@
-## Ce qu’apportait le gros monsieur décoré
+# Ce qu’apportait le gros monsieur décoré
 
 On faisait une petite réparation à la salle d’étude, et Suzanne, condamnée 
 à apprendre une leçon de géographie pendant que ses cousins s’amusaient au 

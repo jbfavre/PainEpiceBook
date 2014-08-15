@@ -1,4 +1,4 @@
-## Suzette garde-malade
+# Suzette garde-malade
 
 Le pauvre Romulus était malade. Il avait la fièvre, toussait à fendre 
 l’âme, et avait un air pitoyable en portant ses mains amaigries à sa poitrine 

@@ -1,4 +1,4 @@
-## L’enlèvement d’une tigresse
+# L’enlèvement d’une tigresse
 
 Il était environ une heure de l’après-midi ; la campagne était toute 
 blanche de neige, et complètement déserte. Au loin se dressait le toit pointu 

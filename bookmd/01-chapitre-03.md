@@ -1,4 +1,4 @@
-## La ménagerie de tante Drake
+# La ménagerie de tante Drake
 
 L’arrivée de M^me^ Drake fut pour la famille Harmanay une véritable 
 catastrophe ! Tout fut bouleversé dans la tranquille demeure de la 

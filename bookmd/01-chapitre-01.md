@@ -1,4 +1,4 @@
-## Garçon manqué
+# Garçon manqué
 
 « Tante Anne a bien sommeil, et elle n’ose pas aller se coucher », 
 pensa assez judicieusement la petite Suzanne Frézelle dont l’œil caressant 

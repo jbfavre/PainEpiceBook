@@ -1,4 +1,4 @@
-## Où l’on voit quelque chose de bien extraordinaire
+# Où l’on voit quelque chose de bien extraordinaire
 
 Un silence mortel pesait sur le petit trio… Assise dans un coin de la 
 chambre, tante Anne contemplait le foyer où s’éteignaient les derniers 

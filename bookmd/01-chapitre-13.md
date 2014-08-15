@@ -1,4 +1,4 @@
-## Encore du noir
+# Encore du noir
 
 L’hiver s’était écoulé sans encombre ; le printemps arriva.  
 Tante Anne se félicitait intérieurement d’avoir résisté aux rhumes, 

@@ -1,4 +1,4 @@
-## L’incendie
+# L’incendie
 
 Du soleil, de l’air pur, des fleurs et la présence de tante Anne et de 
 Suzanne : il y avait de quoi ressusciter quelqu’un de plus malade que Lako.  

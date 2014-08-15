@@ -1,4 +1,4 @@
-## Où « Pain d’épice » a décidément de la chance
+# Où « Pain d’épice » a décidément de la chance
 
 Était-ce un effet de l’excellent dîner de la veille, du champagne ou des 
 émotions passées ? je ne sais, mais nos deux enfants, qui se levaient 

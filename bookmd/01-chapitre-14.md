@@ -1,4 +1,4 @@
-## Trois fois cinq cents francs
+# Trois fois cinq cents francs
 
 Tante Anne faisait ses comptes, ce jour-là encore, mais c’était en souriant 
 et tandis que, non loin d’elle, Lako et Suzanne causaient en buvant du thé et 

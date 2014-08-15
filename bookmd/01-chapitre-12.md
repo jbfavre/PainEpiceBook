@@ -1,4 +1,4 @@
-## Pauvres, mais joyeux
+# Pauvres, mais joyeux
 
 Ce n’était pas la misère, mais c’était certainement la gêne qui pesait sur 
 la vie de ces trois êtres ; par bonheur, ils se chérissaient tendrement, et 
