@@ -102,7 +102,7 @@ Venons de Bombay. Nous reposons Marseille. »
 
 Le télégramme était signé : « DRAKE ».
 
-« Drake ? Je ne connais pas de_ Drake. Qu’est-ce que ce Drake qui nous 
+« Drake ? Je ne connais pas de Drake. Qu’est-ce que ce Drake qui nous 
 arrive comme cela sans dire gare ? demanda Marcel avec quelque dédain.  
 — Il dit bien « gare ! » riposta Suzanne, puisqu’il envoie une 
 dépêche trente heures à l’avance.
@@ -165,7 +165,7 @@ baiser :
 rendre soumis, vous me disiez, il n’y a qu’un instant, de continuer mon 
 ouvrage de crochet… »
 
-Les adieux s’échangèrent et l’on se sépara. M. et M^me^ Harmanay 
+Les adieux s’échangèrent et l’on se sépara. M. et M^me^ Harmanay 
 regagnèrent leur appartement bien clos, confortable et chaud, et, avant de 
 s’endormir, ils causèrent longuement, et non sans amertume, du nouvel ennui 
 qui leur arrivait.  
@@ -187,7 +187,7 @@ Depuis une année environ, toutefois, un rayon de soleil illuminait cette vie
 mélancolique : Suzanne, « le garçon manqué », la fillette à la tête 
 folle mais au cœur d’or, l’orpheline que les Harmanay avaient recueillie, 
 non par compassion, mais parce qu’elle était leur pupille, que tout le monde 
-savait qu’ils devaient seuls en avoir la garde, et enfin parce que M. et M^me^ 
+savait qu’ils devaient seuls en avoir la garde, et enfin parce que M.   et M^me^ 
 Frézelle, morts à peu de distance l’un de l’autre, avaient laissé à leur 
 enfant une petite rente de quinze cents francs.  
 Suzanne n’éprouvait pas une affection bien vive pour son tuteur et sa 
@@ -201,7 +201,7 @@ leur maman leur donnaient toujours raison contre Suzanne, celle-ci les aimait
 d’autant moins qu’elle avait un très juste sentiment de l’équité, et 
 que la partialité soulevait, dans son petit cœur vibrant, des tempêtes, 
 hélas ! inutiles.  
-Par contre, elle adorait sa tante Aune, pauvre vieille femme malheureuse comme. 
+Par contre, elle adorait sa tante Anne, pauvre vieille femme malheureuse comme 
 elle, plus malheureuse encore même, puisqu’elle vivait dans la dépendance 
 absolue de ses neveux.  
 Suzanne, comme toutes les natures délicates, savait, par une caresse, par une 
@@ -209,7 +209,7 @@ attention nouvelle, la dédommager d’une parole aigre proférée par M^me^ 
 Harmanay ; elle suppléait souvent à la négligence affectée de la bonne 
 chargée du service de la vieille dame. Dans la belle saison, elle 
 s’ingéniait à découvrir à celle-ci un coin ombreux et agréable où elle 
-lui apportait son fauteuil, son ouvrage et ses lunettes ; en hiver, elle. 
+lui apportait son fauteuil, son ouvrage et ses lunettes ; en hiver, elle 
 renouvelait elle-même la braise de sa chaufferette et allait chercher du bois, 
 pour ranimer le feu de tante Anne qu’on oubliait d’entretenir. Telle était 
 la vie à la Fauconnière avant l’arrivée des « deux Hindous », comme 

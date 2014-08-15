@@ -185,7 +185,7 @@ vaguement conscience de l’inquiétude en laquelle vous deviez être, et quant
 à charger mon brave mais ignorant serviteur de vous écrire et de vous 
 rassurer, il n’y fallait pas songer. Je suis très excusable, vous le voyez. Je 
 n’ai recouvré que très tard la faculté d’agir et de penser ; vous devinez 
-alors que pendant ce temps mes affaires allaient-tant bien que mal…  
+alors que pendant ce temps mes affaires allaient tant bien que mal…  
 — Alors vous revenez pauvre ? » demanda Lako, que frappèrent ces derniers 
 mots.
 

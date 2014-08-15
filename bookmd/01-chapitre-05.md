@@ -44,7 +44,7 @@ troublé par ses dernières paroles.
 « J’ai trop parlé ! murmura-t-il. La mignonne est impressionnable. Je 
 plaisante, ajouta-t-il tout haut ; ne pensez plus à cela. »
 
-![Jeanne étudiait une leçon.](../images/page063.jpg)
+![Suzanne étudiait une leçon.](../images/page063.jpg)
 
 Suzanne se rasséréna ; puis, apercevant par la fenêtre Mrs Drake qui 
 s’avançait à grandes enjambées dans l’avenue, elle s’écria :
@@ -162,7 +162,7 @@ Suzanne qui l’entendit, devint toute pâle.
 La voiture fila rapidement et, sans apercevoir sa nièce qui la regardait avec 
 des yeux suppliants, Mrs Drake rentra dans la maison et monta tout droit aux 
 appartements de tante Anne.  
-Les deux parentes conversèrent pendant une demi heure environ, puis l’Anglaise 
+Les deux parentes conversèrent pendant une demi-heure environ, puis l’Anglaise 
 sonna Blanc-Blanc.
 Le nègre entra chez M^me^ Drake.
 
@@ -175,7 +175,7 @@ Blanc-Blanc suivre maîtresse.
 — Non, répliqua M^me^ Drake, car il faudra que tu veilles sur ton jeune maître, 
 mon cher Lako.
 — Petit maître pas aimé ici, excepté par la petite miss aux yeux bleus, mais 
-petit maître pas en danger. Blanc Blanc suivre maîtresse. »
+petit maître pas en danger. Blanc-Blanc suivre maîtresse. »
 
 ![« Fais tes préparatifs ! »](../images/page069.jpg)
 
@@ -236,7 +236,7 @@ toutes les consolations que lui suggérait son bon cœur.
 ![Suzanne consolait Lako.](../images/page071.jpg)
 
 « Vois-tu, lui disait-elle : toutes ces misères finiront un jour et nous 
-redeviendrons très-heureux, plus heureux qu’à présent, va ! Tante Drake 
+redeviendrons très heureux, plus heureux qu’à présent, va ! Tante Drake 
 reviendra peut-être riche, et si elle ne l’est pas, tu sais, nous 
 travaillerons pour elle comme pour tante Anne, et nous vivrons tous les quatre 
 ensemble. »
@@ -256,4 +256,4 @@ Le jeune garçon souffrait de cette séparation, cependant il ne se sentait pas
 seul ; tante Anne était pour lui une autre mère, Suzanne une petite sœur 
 chérie ; et puis, il avait pour se consoler et faire couler plus vite le 
 temps, l’étude, qui lui plaisait et l’empêchait de rêver aux petites 
-amertumes inhérentes à toute vie,même à la jeunesse.
+amertumes inhérentes à toute vie, même à la jeunesse.

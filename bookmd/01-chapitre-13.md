@@ -20,7 +20,7 @@ Ensuite, ce fut le docteur qu’il fallut payer ; et puis, obligée de servir
 jour et nuit sa tante, la petite Suzanne ne pouvait plus travailler, et le 
 magasin auquel elle fournissait jadis de jolis ouvrages au crochet, se fermait 
 à une ouvrière inexacte.  
-Enfin, tante Aune revint à la santé ; mais quel soupir elle poussa quand 
+Enfin, tante Anne revint à la santé ; mais quel soupir elle poussa quand 
 elle fit les comptes du mois passé, et comme elle gronda les enfants d’avoir 
 tant dépensé pour elle et de n’avoir reculé devant aucun sacrifice pour la 
 guérir plus promptement !  
@@ -69,10 +69,10 @@ petite Suzanne, lui acheter des vêtements neufs, car elle avait tellement
 grandi pendant sa fièvre muqueuse, que ses robes de l’été passé ne 
 pouvaient plus servir ; il fallait également payer les leçons de Lako, et 
 habiller le jeune homme convenablement.  
-Mon Dieu,mon Dieu ! comment se tirer de là ?… Tante Anne ne pouvait se 
-décider à faire part de sa Situation aux Harmanay ; les enfants étaient en 
+Mon Dieu, mon Dieu ! comment se tirer de là ?… Tante Anne ne pouvait se 
+décider à faire part de sa situation aux Harmanay ; les enfants étaient en 
 correspondance assez suivie avec leurs cousins, qu’on avait mis tout à fait en 
-pension cette fois ; mais, depuis deux mois, M. et M^me^ Harmanay voyageaient 
+pension cette fois ; mais, depuis deux mois, M. et M^me^ Harmanay voyageaient 
 en Italie, et la bonne vieille dame ne savait trop comment serait accueillie 
 une demande d’argent.
 
@@ -97,7 +97,7 @@ Tante Anne le parcourut rapidement des yeux et le lui rendit. C’était une
 invitation de son professeur à se rendre chez lui avant quatre heures.
 
 « Tu vas y aller tout de suite, dit la vieille dame ; rien ne t’en 
-empêche, ton temps est libre. Il ne faut pas faire attendre ton professeur.
+empêche, ton temps est libre. Il ne faut pas faire attendre ton professeur.  
 — C’est sans doute pour remplacer ma leçon de demain, qu’il ne pourra pas me 
 donner à l’heure convenue, murmura l’adolescent. Je vais toujours emporter mon 
 violon. »
@@ -199,7 +199,7 @@ artistes de nos jours ; et puis, vous avez la chance d’être jeune, très
 jeune même, de porter un nom étranger, tout cela disposera en votre 
 faveur ; le public est ainsi. Tâchez, par exemple, de ne pas faire 
 d’accrocs, et jouez sans penser que vous êtes devant mille ou quinze cents 
-personnes.
+personnes.  
 — Oui, monsieur, mais… ce sera bien difficile dans le premier moment.  
 — Bah ! bah ! il faut avoir de l’audace pour réussir, mon enfant, et de 
 l’énergie. Les timides n’arrivent à rien. À présent, laissez votre violon, 

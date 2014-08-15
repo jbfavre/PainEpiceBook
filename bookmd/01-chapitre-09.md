@@ -4,7 +4,7 @@ Le soir du jour mémorable où Suzanne conduisit la tigresse à _Bon-Repos_, la
 Fauconnière retentit d’appels caressants tels que :
 
 « Sweet-heart ! Viens, ma biche !… Viens, ma belle ! voilà du 
-gigot… Viens donc !… Sweet-heart ! Sweetheart !… »
+gigot… Viens donc !… Sweet-heart ! Sweet-heart !… »
 
 Blottie dans les jupes de tante Anne, Suzanne laissait ses cousins chercher et 
 appeler, riant sous cape avec tante Anne, à laquelle elle avait tout raconté.  
@@ -37,7 +37,7 @@ mon pauvre Lako, qui, sans elle, s’ennuierait beaucoup. »
 
 La veuve appuyait là-dessus avec insistance, sachant que les Harmanay ne 
 donneraient pas facilement leur autorisation en ce qui concernait leur 
-pupille ; mais on n’ignore pas que nul n’osait résister à tante Drake. 
+pupille ; mais on n’ignore pas que nul n’osait résister à tante Drake.  
 Enfin M. Harmanay, las de discuter, s’était écrié :
 
 « Laissons donc partir cette enfant !… D’abord, c’est un débarras pour 

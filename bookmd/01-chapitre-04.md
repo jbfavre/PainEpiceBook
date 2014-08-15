@@ -97,7 +97,7 @@ est un si vilain défaut, et, à part cela, tu es si gentille.
 — Oh ! va, Marcel et Marine sont joliment paresseux aussi, répliqua la 
 fillette qui baissait le nez avec humilité.  
 — Vas-tu te comparer à eux ? Veux-tu leur ressembler, toi qui es meilleure 
-qu’eux ?
+qu’eux ?  
 — Oh ! non, Lako, répondit Suzette d’une voix douce. Mais c’est si 
 ennuyeux de conjuguer des verbes et d’étudier la chronologie pendant que le 
 soleil brille, que les oiseaux chantent et que Sweet-heart se roule sur le 
@@ -177,7 +177,7 @@ allongée dont la vue fit étinceler de joie ses yeux noirs.
 « Il est réparé et tout à fait bon, lui dit M^me^ Drake. Pauvre petit ! 
 il y a longtemps que cela te manquait.  
 — Qu’est-ce donc ? demanda la curieuse Suzanne en désignant la boîte.  
-— Tu verras », répondit simplement Lako. qui courut s’enfermer dans sa 
+— Tu verras », répondit simplement Lako qui courut s’enfermer dans sa 
 chambre.
 
 Environ une demi-heure plus tard, les fillettes, qui prenaient leur leçon avec 

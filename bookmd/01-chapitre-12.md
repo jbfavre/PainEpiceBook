@@ -68,7 +68,7 @@ riposte, nous sommes très contents de notre sort ; donc ne nous plaignez
 pas, ce serait du temps perdu. Si nous avons un regret, c’est bien plutôt pour 
 vous dont l’âge et la santé exigeraient plus de soins et de confort.  
 — Oh ! moi… fit tante Anne avec un geste d’insouciance.  
-— Susy a raison, ma tante, ajoutait. Lako gravement ; il n’est pas si 
+— Susy a raison, ma tante, ajoutait Lako gravement ; il n’est pas si 
 regrettable pour nous de n’être pas riches. Mon professeur me répète souvent 
 qu’il est aussi funeste pour un homme de ne manquer de rien que de manquer de 
 tout. Or nous n’en sommes heureusement pas encore là !  
@@ -81,9 +81,9 @@ aurez une bonne pour vous servir ; Susy n’abîmera plus ses doigts mignons �
 balayer et à faire de grossiers ouvrages, et vous serez mieux nourrie, ce qui 
 est chose essentielle à votre âge. »
 
-![Suzelle Se mit à essuyer la vaisselle.](../images/page135.jpg)
+![Suzelle se mit à essuyer la vaisselle.](../images/page135.jpg)
 
-Tante Aune sourit à cette évocation de bonheur futur, mais en elle-même elle 
+Tante Anne sourit à cette évocation de bonheur futur, mais en elle-même elle 
 pensait :
 
 « Tout cela est très joli, mais il se passera encore du temps avant que ce 

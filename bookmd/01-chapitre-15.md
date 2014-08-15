@@ -77,7 +77,7 @@ Le docteur Mastre détourna la tête et répondit en grommelant :
 « Nous verrons ça, nous verrons ça ! Il y a temps pour tout. »
 
 Puis il partit.  
-Après son départ, Lako eut une fièvre si violente que tante Aune, effrayée, 
+Après son départ, Lako eut une fièvre si violente que tante Anne, effrayée, 
 faillit renvoyer chercher le médecin. Mais, vers le soir, la fièvre se calma 
 et l’enfant put s’assoupir.  
 Suzanne le veilla jusqu’à onze heures, et tante Anne la remplaça pendant le 

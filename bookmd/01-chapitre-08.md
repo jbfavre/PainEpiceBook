@@ -48,7 +48,7 @@ personne. Qu’est-ce qui me vaut l’honneur de ta visite ? »
 Suzanne se troubla un peu.
 
 « Mademoiselle , commença-t-elle, vous êtes très bonne, n’est-ce-pas ?
-— J’essaie de l’être, au moins, répondit la vieille fille en souriant ; 
+— J’essaie de l’être, au moins, répondit la vieille fille en souriant ;
 mais je crois bien que dans le pays on surfait ma réputation.  
 — Non, non, je sais que vous êtes très bonne ; tante Anne l’a dit, et 
 tout ce qu’elle dit est la vérité.  
@@ -94,7 +94,7 @@ Puis, se redressant à la vue du geste de reproche de son interlocutrice :
 qui fume sa pipe tout le long du chemin et parle à tous les charretiers qu’il 
 rencontre ! »
 
-![SWeet-heart entra.](../images/page097.jpg)
+![Sweet-heart entra.](../images/page097.jpg)
 
 À cet instant, un grattement se fit entendre à la porte.
 
@@ -129,7 +129,7 @@ de tante Drake.
 retenait un fou rire. Car, comme toutes les natures simples, bonnes et douces, 
 elle était très gaie.
 
-« Moi, je me suis promis de sauver la vie à mon amie.
+« Moi, je me suis promis de sauver la vie à mon amie.  
 — Et tu me l’amènes ?  
 — Je l’ai enlevée à sa niche, répondit triomphalement Suzanne, et je suis 
 venue chez vous avec elle en me disant : « Mademoiselle Irma est si 
@@ -171,7 +171,7 @@ tout ce que je possède. Oh ! il y a bien de quoi aller loin : sept francs
 et huit sous ; j’amassais ça depuis longtemps pour nous payer un voyage à 
 Paris, à tante Anne et à moi, et pour courir embrasser Lako ; mais il vaut 
 mieux sacrifier cette fortune à Sweet-heart. N’est-ce pas, mademoiselle, que 
-vous voulez bien garder la tigresse ? l’été reviendra vite et tante Drake 
+vous voulez bien garder la tigresse ? L’été reviendra vite et tante Drake 
 aussi, alors on vous en débarrassera et vous ne pouvez pas vous figurer la 
 reconnaissance que nous vous aurons tous ! » s’écria la fillette en 
 sautant au cou de la bonne demoiselle, qui refusa catégoriquement ses sept 
@@ -212,9 +212,9 @@ mesure.
 Quatre jours plus tard, le boucher lui disait en lui remettant son panier 
 alourdi de plusieurs kilos de viande :
 
-« Eh ! eh ! il paraît que votre maîtresse a de nombreux hôtes ? 
-maintenant, nous ne sommes pourtant pas dans la saison où l’on vient à la 
-campagne ; mais il y a des gens que le froid n’épouvante pas.
+« Eh ! eh ! il paraît que votre maîtresse a de nombreux hôtes ?  
+Maintenant, nous ne sommes pourtant pas dans la saison où l’on vient à la 
+campagne ; mais il y a des gens que le froid n’épouvante pas.  
 — Vous vous trompez, m’sieu Clampin, répondit Denise ; ma maîtresse est 
 toute seule à _Bon-Repos_.  
 — Ah bah ! alors vous avez donc tous pris des appétits féroces ?… fit 

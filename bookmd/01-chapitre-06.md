@@ -44,7 +44,7 @@ poupée :
 mes affaires.  
 — Ah. » fit simplement l’orpheline attristée.
 
-Depuis, elle ne demanda plus jamais rien à Marine, pas plus qu’à.Marcel dont 
+Depuis, elle ne demanda plus jamais rien à Marine, pas plus qu’à Marcel dont 
 la générosité égalait celle de sa sœur.  
 Ces dernières semaines d’été qui succédèrent au départ de tante Drake et 
 de Blanc-Blanc, furent, en vérité, le plus beau moment des deux amis ?  
@@ -76,7 +76,7 @@ marquait cet anniversaire s’écoula comme un jour ordinaire, sans que personne
 parût penser à souhaiter aucune bonne chance à l’enfant, ni à lui donner un 
 baiser de plus ; elle ne s’en chagrina pas, accoutumée qu’était la pauvre 
 petite à ne pas être gâtée et choyée ; mais lorsque, le jeudi suivant, 
-elle vit M. et M^me^ Harmanay préparer mystérieusement une petite fête pour 
+elle vit M. et M^me^ Harmanay préparer mystérieusement une petite fête pour 
 leur fille, elle eut le cœur un peu gros.
 
 « Voilà ce que c’est que de n’avoir ni papa ni maman,… se dit-elle en 
@@ -88,7 +88,7 @@ s’en va. »
 Et, sans jalousie, la gentille enfant fut une des premières à souhaiter une 
 bonne fête à sa cousine qui, elle-même, n’avait pas trouvé une parole 
 aimable, l’avant-veille, pour sa petite compagne.  
-M. et M^me^ Harmanay comblèrent de jouets et de bonbons leur fille enchantée, 
+M. et M^me^ Harmanay comblèrent de jouets et de bonbons leur fille enchantée, 
 sans songer à en soustraire même une boîte de dragées ou un bouquet de 
 fleurs pour leur nièce.  
 En l’honneur de Marine, une magnifique promenade en voiture fut faite dans les 
@@ -107,7 +107,7 @@ et que, pour venir un peu plus tard, ces souvenirs ne prouvaient pas moins de
 bonnes intentions à son égard.
 
 « Allons, ouvre donc ! » lui dit gaîment Lako qui jouissait de sa 
-surprise, tandis que M. M^me^ Harmanay et leurs deux enfants jetaient sur les 
+surprise, tandis que M., M^me^ Harmanay et leurs deux enfants jetaient sur les 
 trois objets empaquetés des regards d’étonnement et même de curiosité 
 mécontente.  
 D’une main tremblante, Suzanne développa d’abord le papier du plus gros 
@@ -159,7 +159,7 @@ l’admiration de la fillette.
 
 « Tu m’as trop gâtée, vous m’avez tous trop gâtée ! » murmurait-elle en
 remettant chaque chose en place afin de ne rien abîmer pendant le dîner.  
-Le repas s’acheva dans une gaîté folle ; M. et M^me^ Harmanay étaient un peu 
+Le repas s’acheva dans une gaîté folle ; M. et M^me^ Harmanay étaient un peu 
 confus de n’avoir pas pensé, seuls, à la petite orpheline, mais celle-ci 
 oubliait son chagrin passé, dans l’allégresse du présent.  
 Elle voyait que, pour n’avoir ni papa ni maman, comme elle disait, elle n’en 

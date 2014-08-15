@@ -44,7 +44,7 @@ que ces gens, qui étaient cupides et intéressés, n’avaient pour elle aucun
 
 ![« C’est demain qu’ils arrivent ! »](../images/page021.jpg)
 
-« À propos de repas, s’écria tout à coup Suzanne dont la petite tète 
+« À propos de repas, s’écria tout à coup Suzanne dont la petite tête 
 travaillait depuis un moment, on ne vous a pas servi de café aujourd’hui, 
 tante ?  
 — Non, répondit la vieille dame. Après le dessert j’ai attendu un 
@@ -118,7 +118,7 @@ Mais Tombola était un chien de tact : en voyant sa petite camarade de jeux
 marcher à pas mesurés, le bras tendu, l’œil fixe, ses jolies dents de 
 nacre enfoncées dans la lèvre inférieure, il réprima ses expansions et 
 mesura son allure à la sienne. Pendant ce temps, à la cuisine, les 
-serviteurs, rouges de honte, grommelaient contré la fillette.  
+serviteurs, rouges de honte, grommelaient contre la fillette.  
 Tante Anne se disposait à faire une petite sieste, lorsque à l’entrée de 
 la charmille parut la figure rouge et rayonnante de Suzette suivie à distance 
 respectueuse par Tombola.
@@ -131,7 +131,7 @@ bondissant presque de son siège.
 oublié de vous le servir ; aussi je suis allé le chercher. Il ne faut pas 
 que vous ayez mal à la tête aujourd’hui, car vous allez me raconter de 
 belles histoires, n’est-ce pas ?  
-— Oui, mignonne. Allons, te remercie ; tu es une petite fille 
+— Oui, mignonne. Allons, je te remercie ; tu es une petite fille 
 attentionnée. Tu vas jouer et courir un moment, car les enfants ont besoin 
 d’exercice, et puis tu viendras t’asseoir près de moi. »
 

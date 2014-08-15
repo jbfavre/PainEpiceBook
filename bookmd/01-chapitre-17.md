@@ -40,7 +40,7 @@ de précautions pour apprendre à Lako la prétendue mort de sa maman : il
 sera très amusant de voir leur figure quand ils se trouveront en présence de 
 Mrs Drake qu’ils croyaient morte ; une émotion n’est pas à craindre pour 
 eux, car ils n’ont pas le cœur tendre.
-— Suzanne. tais-toi ! » fit tante Anne.
+— Suzanne, tais-toi ! » fit tante Anne.
 
 ![La famille Harmanay fit son entrée.](../images/page185.jpg)
 
@@ -138,7 +138,7 @@ blancs :
 finis !  
 — Oui, oui, ce qui est passé est passé, ajouta d’un ton dégagé M^me^ 
 Harmanay, qui s’intéressait médiocrement aux souffrances d’autrui. Et alors 
-vous gardez Suzanne ? ajouta-t-elle en désignant la fillette.
+vous gardez Suzanne ? ajouta-t-elle en désignant la fillette.  
 — Je crois bien ! Que ferions-nous sans cette gentille petite fille qui est 
 la joie de la maison ? »
 
@@ -148,7 +148,7 @@ Comme le père, la mère et les enfants regagnaient leur appartement ce même
 soir, M^me^ Harmanay ne put s’empêcher de faire observer avec un léger soupir 
 d’envie :
 
-« Faut-il qu’ils aient de la chance, ces gens-la ! (ces gens-là 
+« Faut-il qu’ils aient de la chance, ces gens-là ! (ces gens-là 
 désignaient surtout tante Anne et Suzanne Frézelle.) Devenir millionnaires 
 comme cela, tout d’un coup !  
 — Moi, j’en suis bien aise pour eux ; ils ont passé de si mauvais 

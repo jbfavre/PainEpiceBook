@@ -34,7 +34,7 @@ Comme cette bête, que Lako tenait d’ailleurs en laisse, avançait çà et
 là sa tête curieuse et inquiétante, le jeune garçon prononça 
 impérieusement, en mettant sa main fine et brune sur la fourrure fauve :
 
-« Be quiet, _Sweets-heart_, be quiet ! » Ce qui, en anglais (seule 
+« Be quiet, _Sweet-heart_, be quiet ! » Ce qui, en anglais (seule 
 langue que parlât le petit étranger), ordonnait à l’animal de demeurer 
 tranquille.
 
@@ -78,7 +78,7 @@ c’est la loi de nature, et moi aussi je paie mon tribut aux années. »
 Puis se retournant :
 
 « Lako, viens ici, mon enfant », dit-elle en anglais.  
-Le jeune garçon-obéit et monta les degrés du perron.  
+Le jeune garçon obéit et monta les degrés du perron.  
 Arrivé devant la vieille dame, il s’inclina, prit sa main ridée et la baisa 
 avec respect.  
 Tante Anne attirait à elle la petite figure brune et l’embrassa 
@@ -186,7 +186,7 @@ fût servi ; Marcel et Marine les suivirent en chuchotant d’un air moqueur.
 
 ![« Vous arrivez ruinée. »](../images/page037.jpg)
 
-Dans la crainte que M. et M^me^ Harmanay, un peu délaissés par M^me^ Drake, ne 
+Dans la crainte que M. et M^me^ Harmanay, un peu délaissés par M^me^ Drake, ne 
 s’en montrassent froissés, M^me^ Anne se leva, sous prétexte d’aller 
 veiller aux bagages des arrivants, et M^me^ Drake, son beau-frère et M^me^ 
 Harmanay restèrent ensemble.  

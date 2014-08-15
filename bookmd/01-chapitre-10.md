@@ -151,7 +151,7 @@ L’allumette jetée négligemment par Marcel avait atteint un large panier de
 paille où l’on accumulait toutes sortes de débris ; pendant le sommeil du 
 jeune homme tout cela avait brûlé, puis le feu avait gagné le meuble voisin, 
 et enfin un véritable commencement d’incendie s’était produit.  
-Lorsque, le lendemain, M. et M^me^ Harmanay apprirent le danger qu’avaient couru 
+Lorsque, le lendemain, M. et M^me^ Harmanay apprirent le danger qu’avaient couru 
 leurs enfants et toute la maison, ils devinrent pâles de saisissement.  
 Ils remercièrent Lako assez chaleureusement et daignèrent flatter de la main 
 la tigresse Sweet-heart lorsque Marine la leur amena.  

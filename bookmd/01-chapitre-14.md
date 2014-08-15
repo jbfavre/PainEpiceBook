@@ -31,16 +31,16 @@ sans trouble.
 fillette.  
 — Bonne tante Anne ! fit l’adolescent. Le malheur, ajouta Lako en redevenant 
 grave, c’est que voici l’été ; après le Grand Prix, adieu les concerts 
-publics ou privés ; en voilà jusqu’au mois de décembre.
+publics ou privés ; en voilà jusqu’au mois de décembre.  
 — Et je ne le regrette pas, moi, dit tante Anne en hochant la tête ; tu 
 n’aurais certainement pas supporté longtemps cette vie-la, mon pauvre 
 petit ; le lendemain de ces séances musicales, tu avais bien mauvaise mine.  
 — Dame ! l’émotion, fit Lako.  
 — D’abord, s’écria Suzanne, on peut bien se reposer et se distraire cet été 
 puisque nous sommes riches ! Lako laissera de côté son travail, tante Anne 
-fera la sieste tous les jours…
+fera la sieste tous les jours…  
 — Et toi, ma petite Suzanne, que feras-tu ? demanda Lako en souriant.  
-— Moi, je ferai le ménage ; d’ailleurs ça m’amuse.
+— Moi, je ferai le ménage ; d’ailleurs ça m’amuse.  
 — Que Lako se repose, en effet, tu as raison, ma mignonne, dit M^me^ Anne, mais 
 ne faisons pas de dépenses inutiles jusqu’à ce que notre cher petit soit tout 
 à fait sur le chemin de la fortune. La vogue n’a qu’un temps ! »
@@ -49,7 +49,7 @@ ne faisons pas de dépenses inutiles jusqu’à ce que notre cher petit soit tou
 
 La pauvre femme n’ajoutait point qu’elle craignait pour l’hiver prochain un 
 retour de sa maladie ; elle avait subi tant d’inquiétudes un mois auparavant 
-en voyant la brèche faite à, son maigre capital ! Maintenant elle 
+en voyant la brèche faite à son maigre capital ! Maintenant elle 
 appréhendait toujours quelque malheur pour elle ou pour ses chers enfants.  
 L’été se passa sans incidents désagréables. Les Harmanay, revenus d’Italie, 
 avaient entendu parler des succès du jeune Drake, et, flattés dans leur amour 
@@ -105,7 +105,7 @@ méchante ni jalouse, et témoignait sincèrement de l’amitié à Lako et à
 Suzanne.  
 Marcel _posait_ pour le jeune homme, quoiqu’il n’eût pas encore seize ans, 
 aussi sa cousine Frézelle se moquait-elle de lui sans pitié.  
-M. et M^me^ Harmanay se montraient plus aimables que par le passé pour tante 
+M. et M^me^ Harmanay se montraient plus aimables que par le passé pour tante 
 Anne et pour Suzanne. Néanmoins la première devinait qu’ils ne seraient pas 
 un appui pour elle en cas de malheur, et elle se promit de n’avoir jamais 
 recours à eux.  

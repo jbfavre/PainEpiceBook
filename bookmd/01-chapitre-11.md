@@ -17,7 +17,7 @@ parents, ni fortune.
 Ensuite, ce Lako n’est pas notre parent. Cette malheureuse Mabel n’était que 
 sa belle-mère. »
 
-Ici, nouveaux. soupirs.
+Ici, nouveaux soupirs.
 
 « Ils ont dit _n’était_, pensa Marcel qui tendait l’oreille, car la 
 discrétion n’était pas sa vertu principale. C’est donc que tante Drake est 
@@ -50,7 +50,7 @@ de son oncle.
 ![« Tante Drake est morte ! »](../images/page123.jpg)
 
 « Est-ce vrai ? » dit-il en entrant.  
-M. et M^me^ Harmanay le regardèrent.
+M. et M^me^ Harmanay le regardèrent.
 
 « Tu sais donc tout, mon pauvre enfant ? lui répondirent-ils. Qui donc 
 t’a instruit de cette affreuse catastrophe ? »
@@ -114,11 +114,11 @@ tristement :
 « Pourquoi Mabel ne nous avait-elle pas annoncé qu’elle quittait Bombay et 
 revenait en France ?  
 — Elle était un peu originale, ma belle-sœur, vous le savez bien, tante Anne, 
-répliqua M. Harmanay.
+répliqua M. Harmanay.  
 — Quand elle nous est arrivée, il y a dix-huit mois environ, nous a-t-elle 
 prévenus autrement que par un télégramme lancé de Marseille, quelques 
 heures avant de faire son entrée à la Fauconnière ? ajouta M^me^ Harmanay.  
-— C’est vrai, soupira tante Aune qui se raccrochait à toutes les espérances, 
+— C’est vrai, soupira tante Anne qui se raccrochait à toutes les espérances, 
 même les plus frêles ; et pourtant, je ne sais pourquoi, je doute 
 encore !  
 — Vous avez tort, dit M. Harmanay, car ce pauvre Lako va se bercer d’illusions 
