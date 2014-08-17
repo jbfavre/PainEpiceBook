@@ -85,8 +85,8 @@ endif
 		-d $(epubdir)/$(patsubst %.epub,%,$(@)).3 \
 		$(outputdir)/$(patsubst %.epub,%,$(@)).3.epub
 	@echo "Applying custom theme..."
-	@./bookscanner_fix_chapters.sh $(epubdir)/$(patsubst %.epub,%,$(@))
-	@./bookscanner_fix_chapters.sh $(epubdir)/$(patsubst %.epub,%,$(@)).3
+	@./bookscanner_custom_theme.sh $(epubdir)/$(patsubst %.epub,%,$(@))
+	@./bookscanner_custom_theme.sh $(epubdir)/$(patsubst %.epub,%,$(@)).3
 	@echo "Rebuilding epub..."
 	@./bookscanner_regenerate_epub.sh $(epubdir)/$(patsubst %.epub,%,$(@))  $(outputdir)/$(@)
 	@./bookscanner_regenerate_epub.sh $(epubdir)/$(patsubst %.epub,%,$(@)).3 $(outputdir)/$(patsubst %.epub,%,$(@)).3.epub
