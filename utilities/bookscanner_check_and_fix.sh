@@ -4,8 +4,8 @@
 ./utilities/bookscanner_typo_checker.sh -f $1
 ./utilities/bookscanner_typo_checker.sh $1
 
-fold $1 -w 80 -s > /tmp/painepice.md
-mv /tmp/painepice.md $1
+fold $1 -w 80 -s > /tmp/bookscanner.md
+mv /tmp/bookscanner.md $1
 
 git add $1
 
