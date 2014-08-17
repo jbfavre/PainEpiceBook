@@ -1,3 +1,4 @@
+SHELL := /bin/bash
 VERSION=0.5
 
 PANDOC := $(shell pandoc --version 2>/dev/null)
@@ -16,6 +17,7 @@ vmargin=3.5cm
 make_dir=$(shell pwd)
 templates_dir=$(make_dir)/templates.epub
 outputdir=$(make_dir)/../output
+epubdir=$(make_dir)/../epub
 utilsdir=$(make_dir)/templates.epub
 img_dir=$(make_dir)/../images
 pages_dir=$(make_dir)/../bookmd
@@ -28,27 +30,29 @@ pandoc_config= \
 	--no-highlight
 
 %.check:
-	@echo -n "Recherche de l'utilitaire pandoc... "
+	@echo -n "Searching pandoc... "
 ifdef PANDOC
 	@which pandoc
 else
 	@echo "NOT FOUND"
 	@exit 1
 endif
-	@echo -n "Recherche de l'utilitaire unzip... "
+	@echo -n "Searching unzip... "
 ifdef UNZIP
 	@which unzip
 else
 	@echo "NOT FOUND"
 	@exit 1
 endif
-	@echo "Préparation du répertoire de sortie..."
+	@echo "Preparing build environment..."
 	@mkdir -p $(outputdir)
+	@mkdir -p $(epubdir)
 	@rm -rf $(outputdir)/*
+	@rm -rf $(epubdir)/*
 	@$(eval pandoc_metadata=$(shell /usr/bin/awk -f $(utilsdir)/metadata.awk ../metadata.txt) )
 
 %.epub:
-	@echo "Génération de l'epub... "
+	@echo "Generating epub... "
 	@$(pandoc_bin) \
 		$(pandoc_config) \
 		-t epub \
@@ -73,15 +77,20 @@ endif
 		-o $(outputdir)/$(patsubst %.epub,%,$(@)).epub3 \
 		../metadata.md \
 		$(pages_dir)/*.md
-	@echo "Extraction de l'epub..."
+	@echo "Extracting epub..."
 	@$(unzip_bin) -qq \
-		-d $(outputdir)/$(patsubst %.epub,%,$(@)) \
+		-d $(epubdir)/$(patsubst %.epub,%,$(@)) \
 		$(outputdir)/$(@)
-#		ch*.xhtml images*
 	@$(unzip_bin) -qq \
-		-d $(outputdir)/$(patsubst %.epub,%,$(@))3 \
+		-d $(epubdir)/$(patsubst %.epub,%,$(@))3 \
 		$(outputdir)/$(patsubst %.epub,%,$(@)).epub3
-#		ch*.xhtml images*
+	@echo "Applying custom theme..."
+	@./bookscanner_fix_chapters.sh $(epubdir)/$(patsubst %.epub,%,$(@))
+	@./bookscanner_fix_chapters.sh $(epubdir)/$(patsubst %.epub,%,$(@))3
+	@echo "Rebuilding epub..."
+	@./bookscanner_regenerate_epub.sh $(epubdir)/$(patsubst %.epub,%,$(@))  $(outputdir)/$(@)
+	@./bookscanner_regenerate_epub.sh $(epubdir)/$(patsubst %.epub,%,$(@))3 $(outputdir)/$(patsubst %.epub,%,$(@)).epub3
+
 
 %.all: | %.epub
 	@true
