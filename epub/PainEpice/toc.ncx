@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="ISBN" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+    <meta name="cover" content="cover-image" />
+  </head>
+  <docTitle>
+    <text>Pain d’épice</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>Pain d’épice</text>
+      </navLabel>
+      <content src="title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Garçon manqué</text>
+      </navLabel>
+      <content src="ch001.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Une tasse de café noir</text>
+      </navLabel>
+      <content src="ch002.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>La ménagerie de tante Drake</text>
+      </navLabel>
+      <content src="ch003.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>La boîte longue</text>
+      </navLabel>
+      <content src="ch004.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Ce qu’apportait le gros monsieur décoré</text>
+      </navLabel>
+      <content src="ch005.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Double fête</text>
+      </navLabel>
+      <content src="ch006.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Suzette garde-malade</text>
+      </navLabel>
+      <content src="ch007.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>L’enlèvement d’une tigresse</text>
+      </navLabel>
+      <content src="ch008.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Changement sur toute la ligne</text>
+      </navLabel>
+      <content src="ch009.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>L’incendie</text>
+      </navLabel>
+      <content src="ch010.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Hélas ! Hélas !</text>
+      </navLabel>
+      <content src="ch011.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Pauvres, mais joyeux</text>
+      </navLabel>
+      <content src="ch012.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Encore du noir</text>
+      </navLabel>
+      <content src="ch013.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Trois fois cinq cents francs</text>
+      </navLabel>
+      <content src="ch014.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Pour une chute</text>
+      </navLabel>
+      <content src="ch015.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Où l’on voit quelque chose de bien extraordinaire</text>
+      </navLabel>
+      <content src="ch016.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Où « Pain d’épice » a décidément de la chance</text>
+      </navLabel>
+      <content src="ch017.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>
