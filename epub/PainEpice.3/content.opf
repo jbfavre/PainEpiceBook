@@ -2,20 +2,36 @@
 <package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="epub-id-1">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:identifier id="epub-id-1">ISBN</dc:identifier>
-    <dc:title id="epub-title-1">Pain d’épices</dc:title>
-    <dc:title id="epub-title-2">Pain d’épice</dc:title>
+    <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">15</meta>
+    <dc:title id="epub-title-1">Pain d’épice</dc:title>
     <dc:date>1895</dc:date>
-    <dc:language>french</dc:language>
+    <dc:language>fr-FR</dc:language>
     <dc:creator id="epub-creator-1">Roger Dombre</dc:creator>
     <meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
     <dc:creator id="epub-creator-2">Roger Dombre</dc:creator>
-    <dc:subject>Roman</dc:subject>
-    <dc:description>Roman pour enfants paru dans la collection « Bibliothèques des écoles et des familles ». L’histoire de Suzanne Frézelle, orpheline, au sein de sa famille d’accueil.</dc:description>
-    <dc:publisher>Tooptee Édition</dc:publisher>
-    <dc:source>http://bit.ly/PainEpice</dc:source>
-    <dc:rights>Public Domain</dc:rights>
+    <meta refines="#epub-creator-2" property="role" scheme="marc:relators">aut</meta>
+    <dc:creator id="epub-creator-3">Henri Gerbault</dc:creator>
+    <meta refines="#epub-creator-3" property="role" scheme="marc:relators">ill</meta>
+    <dc:creator id="epub-creator-4">Librairie Hachette et Cie</dc:creator>
+    <meta refines="#epub-creator-4" property="role" scheme="marc:relators">edt</meta>
+    <dc:contributor id="epub-contributor-1">Jean Baptiste Favre</dc:contributor>
+    <meta refines="#epub-contributor-1" property="role" scheme="marc:relators">fac</meta>
+    <dc:contributor id="epub-contributor-2">Jean Baptiste Favre</dc:contributor>
+    <meta refines="#epub-contributor-2" property="role" scheme="marc:relators">bkd</meta>
+    <dc:contributor id="epub-contributor-3">Jean Baptiste Favre</dc:contributor>
+    <meta refines="#epub-contributor-3" property="role" scheme="marc:relators">tyg</meta>
+    <dc:contributor id="epub-contributor-4">Jean Baptiste Favre</dc:contributor>
+    <meta refines="#epub-contributor-4" property="role" scheme="marc:relators">acp</meta>
+    <dc:contributor id="epub-contributor-5">Jean Baptiste Favre</dc:contributor>
+    <meta refines="#epub-contributor-5" property="role" scheme="marc:relators">pfr</meta>
+    <dc:subject>aventure</dc:subject>
+    <dc:description>L’histoire de Suzanne Frézelle, orpheline, au sein de sa famille
+d’accueil. Elle devra affronter les aléas de la vie, entourée de sa
+tante Anne et du cher Lako</dc:description>
+    <dc:publisher>Tooptee Edition</dc:publisher>
+    <dc:rights>© 2014 Tooptee Edition, Public Domain</dc:rights>
     <meta name="cover" content="cover-image" />
-    <meta property="dcterms:modified">2014-08-17T10:34:32Z</meta>
+    <meta property="dcterms:modified">2014-08-18T21:07:35Z</meta>
   </metadata>
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />

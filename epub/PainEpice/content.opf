@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="epub-id-1">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:identifier id="epub-id-1">ISBN</dc:identifier>
-    <dc:title id="epub-title-1">Pain d’épices</dc:title>
-    <dc:title id="epub-title-2">Pain d’épice</dc:title>
+    <dc:identifier id="epub-id-1" opf:scheme="ISBN-13">ISBN</dc:identifier>
+    <dc:title id="epub-title-1">Pain d’épice</dc:title>
     <dc:date>1895</dc:date>
-    <dc:language>french</dc:language>
+    <dc:language>fr-FR</dc:language>
     <dc:creator id="epub-creator-1" opf:role="aut">Roger Dombre</dc:creator>
-    <dc:creator id="epub-creator-2">Roger Dombre</dc:creator>
-    <dc:subject>Roman</dc:subject>
-    <dc:description>Roman pour enfants paru dans la collection « Bibliothèques des écoles et des familles ». L’histoire de Suzanne Frézelle, orpheline, au sein de sa famille d’accueil.</dc:description>
-    <dc:publisher>Tooptee Édition</dc:publisher>
-    <dc:source>http://bit.ly/PainEpice</dc:source>
-    <dc:rights>Public Domain</dc:rights>
+    <dc:creator id="epub-creator-2" opf:role="aut">Roger Dombre</dc:creator>
+    <dc:creator id="epub-creator-3" opf:role="ill">Henri Gerbault</dc:creator>
+    <dc:creator id="epub-creator-4" opf:role="edt">Librairie Hachette et Cie</dc:creator>
+    <dc:contributor id="epub-contributor-1" opf:role="fac">Jean Baptiste Favre</dc:contributor>
+    <dc:contributor id="epub-contributor-2" opf:role="bkd">Jean Baptiste Favre</dc:contributor>
+    <dc:contributor id="epub-contributor-3" opf:role="tyg">Jean Baptiste Favre</dc:contributor>
+    <dc:contributor id="epub-contributor-4" opf:role="acp">Jean Baptiste Favre</dc:contributor>
+    <dc:contributor id="epub-contributor-5" opf:role="pfr">Jean Baptiste Favre</dc:contributor>
+    <dc:subject>aventure</dc:subject>
+    <dc:description>L’histoire de Suzanne Frézelle, orpheline, au sein de sa famille
+d’accueil. Elle devra affronter les aléas de la vie, entourée de sa
+tante Anne et du cher Lako</dc:description>
+    <dc:publisher>Tooptee Edition</dc:publisher>
+    <dc:rights>© 2014 Tooptee Edition, Public Domain</dc:rights>
     <meta name="cover" content="cover-image" />
   </metadata>
   <manifest>
