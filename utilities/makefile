@@ -23,7 +23,6 @@ img_dir=$(make_dir)/../images
 pages_dir=$(make_dir)/../bookmd
 
 pandoc_config= \
-	$(pandoc_metadata) \
 	-V geometry:hmargin=3cm \
 	-V geometry:vmargin=3.5cm \
 	--listings \
@@ -49,7 +48,6 @@ endif
 	@mkdir -p $(epubdir)
 	@rm -rf $(outputdir)/*
 	@rm -rf $(epubdir)/*
-	@$(eval pandoc_metadata=$(shell /usr/bin/awk -f $(utilsdir)/metadata.awk ../metadata.txt) )
 
 %.epub:
 	@echo "Generating epub... "
@@ -59,7 +57,6 @@ endif
 		--toc --toc-depth=2 \
 		--template=$(templates_dir)/template.epub \
 		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
-		--epub-metadata=$(make_dir)/../metadata.fr.epub \
 		--epub-chapter-level=2 \
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(@) \
@@ -71,7 +68,6 @@ endif
 		--toc --toc-depth=2 \
 		--template=$(templates_dir)/template.epub3 \
 		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
-		--epub-metadata=$(make_dir)/../metadata.fr.epub \
 		--epub-chapter-level=2 \
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(patsubst %.epub,%,$(@)).3.epub \
