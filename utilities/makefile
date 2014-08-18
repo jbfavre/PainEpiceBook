@@ -60,8 +60,8 @@ endif
 		--epub-chapter-level=2 \
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(@) \
-		../metadata.md \
-		$(pages_dir)/*.md
+		$(pages_dir)/metadata.md \
+		$(pages_dir)/01-chapitre-*.md
 	@$(pandoc_bin) \
 		$(pandoc_config) \
 		-t epub3 \
@@ -71,8 +71,8 @@ endif
 		--epub-chapter-level=2 \
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(patsubst %.epub,%,$(@)).3.epub \
-		../metadata.md \
-		$(pages_dir)/*.md
+		$(pages_dir)/metadata.md \
+		$(pages_dir)/01-chapitre-*.md
 	@echo "Extracting epub..."
 	@$(unzip_bin) -qq \
 		-d $(epubdir)/$(patsubst %.epub,%,$(@)) \
