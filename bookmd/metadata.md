@@ -1,24 +1,29 @@
-% Pain d’épice
-% Roger Dombre
-% 1895
-
 ---
 title:
 - type: main
-  texte: Pain d’épice
+  text: Pain d’épice
+  is_title: yes
 - type: collection
   text: Bibliothèques des écoles et des familles
-date: 1895
+  is_collection: yes
+date:
+- first_edition: yes
+  text: 1895
+- this_edition: yes
+  text: 2014
 language: fr-FR
 tags: [bibliothèque écoles et familles, roger dombre]
 subject: [aventure]
 creator:
 - role: author
   text: Roger Dombre
+  is_author: yes
 - role: illustrator
   text: Henri Gerbault
+  is_illustrator: yes
 - role: editor
   text: Librairie Hachette et Cie
+  is_editor: yes
 contributor:
 - role: facsimilist
   text: Jean Baptiste Favre
