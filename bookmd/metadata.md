@@ -40,8 +40,7 @@ identifier:
   text: ISBN
 publisher: Tooptee Edition
 rights: © 2014 Tooptee Edition, Public Domain
-description: |
-  L’histoire de Suzanne Frézelle, orpheline, au sein de sa famille d’accueil.
-  Elle devra affronter les aléas de la vie, entourée de sa tante Anne et du
-  cher Lako
+description: L’histoire de Suzanne Frézelle, orpheline, au sein de sa famille
+             d’accueil. Elle devra affronter les aléas de la vie, entourée de
+             sa tante Anne et du cher Lako.
 ---
