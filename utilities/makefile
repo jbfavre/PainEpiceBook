@@ -53,17 +53,6 @@ endif
 	@echo "Generating epub... "
 	@$(pandoc_bin) \
 		$(pandoc_config) \
-		-t epub \
-		--toc --toc-depth=2 \
-		--template=$(templates_dir)/template.epub \
-		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
-		--epub-chapter-level=2 \
-		--epub-cover-image=$(img_dir)/cover.jpg \
-		-o $(outputdir)/$(@) \
-		$(pages_dir)/metadata.md \
-		$(pages_dir)/01-chapitre-*.md
-	@$(pandoc_bin) \
-		$(pandoc_config) \
 		-t epub3 \
 		--toc --toc-depth=2 \
 		--template=$(templates_dir)/template.epub3 \
@@ -74,19 +63,17 @@ endif
 		$(pages_dir)/metadata.md \
 		$(pages_dir)/01-chapitre-*.md
 	@echo "Extracting epub..."
-	@$(unzip_bin) -qq \
-		-d $(epubdir)/$(patsubst %.epub,%,$(@)) \
-		$(outputdir)/$(@)
+	@mkdir -p $(epubdir)/$(patsubst %.epub,%,$(@)).3
 	@$(unzip_bin) -qq \
 		-d $(epubdir)/$(patsubst %.epub,%,$(@)).3 \
 		$(outputdir)/$(patsubst %.epub,%,$(@)).3.epub
-	@echo "Applying custom theme..."
-	@./bookscanner_custom_theme.sh $(epubdir)/$(patsubst %.epub,%,$(@))
-	@./bookscanner_custom_theme.sh $(epubdir)/$(patsubst %.epub,%,$(@)).3
+	@echo "Adding preface"
+	@$(pandoc_bin) \
+		-s $(pages_dir)/preface.md > $(epubdir)/$(patsubst %.epub,%,$(@)).3/preface.xhtml
+	@echo "Customizing epub..."
+	@./bookscanner_customize_ebook.sh $(epubdir)/$(patsubst %.epub,%,$(@)).3
 	@echo "Rebuilding epub..."
-	@./bookscanner_regenerate_epub.sh $(epubdir)/$(patsubst %.epub,%,$(@))  $(outputdir)/$(@)
 	@./bookscanner_regenerate_epub.sh $(epubdir)/$(patsubst %.epub,%,$(@)).3 $(outputdir)/$(patsubst %.epub,%,$(@)).3.epub
-
 
 %.all: | %.epub
 	@true
