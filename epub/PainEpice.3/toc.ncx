@@ -13,7 +13,7 @@
   <navMap>
     <navPoint id="navPoint-0">
       <navLabel>
-        <text>Pain d’épice</text>
+        <text></text>
       </navLabel>
       <content src="title_page.xhtml" />
     </navPoint>
